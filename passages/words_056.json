@@ -1,0 +1,381 @@
+{
+ "id": 56,
+ "words": [
+  {
+   "word": "apprehension",
+   "def": "n.理解, 忧惧, 拘捕。"
+  },
+  {
+   "word": "challenge",
+   "def": "n./v. 挑战,提出异议"
+  },
+  {
+   "word": "gambler",
+   "def": "n.赌徒"
+  },
+  {
+   "word": "macabre",
+   "def": "adj.恐怖的, 令人毛骨悚然的, 以死亡为主题的。"
+  },
+  {
+   "word": "chimney",
+   "def": "n. 烟囱"
+  },
+  {
+   "word": "furious",
+   "def": "a. 狂怒的"
+  },
+  {
+   "word": "ale",
+   "def": "n.淡啤酒"
+  },
+  {
+   "word": "percentage",
+   "def": "n. 百分数，百分率，百分比"
+  },
+  {
+   "word": "malignant",
+   "def": "adj.恶性的。"
+  },
+  {
+   "word": "stagnation",
+   "def": "n.停滞"
+  },
+  {
+   "word": "emphatic",
+   "def": "adj.强调的，着重的"
+  },
+  {
+   "word": "narrate",
+   "def": "v.叙述"
+  },
+  {
+   "word": "internationalization",
+   "def": "n.国际化"
+  },
+  {
+   "word": "toll",
+   "def": "n. (道路、桥梁等的)通行税;损坏,死伤人数;钟声;v. (缓慢而有规律地)鸣(钟), 敲(钟)"
+  },
+  {
+   "word": "cheat",
+   "def": "v. 欺骗；作弊n. 骗子；欺诈，欺骗行为"
+  },
+  {
+   "word": "remain",
+   "def": "v. 剩下，余留；留待，尚须；仍然是，依旧是"
+  },
+  {
+   "word": "civic",
+   "def": "adj.市的, 市民的, 公民的。"
+  },
+  {
+   "word": "endure",
+   "def": "v. 忍受，持久，持续"
+  },
+  {
+   "word": "yet",
+   "def": "ad. 还，尚，仍然；已经conj. 然而ad. 甚至"
+  },
+  {
+   "word": "black",
+   "def": "a. 黑(色)的；黑暗的n. 黑(色)；黑暗；黑人"
+  },
+  {
+   "word": "define",
+   "def": "v. 给…下定义；阐述；阐释；限定，规定"
+  },
+  {
+   "word": "verge",
+   "def": "n. 边缘,边界"
+  },
+  {
+   "word": "adverbial",
+   "def": "adj.副词的"
+  },
+  {
+   "word": "disgrace",
+   "def": "n. 失宠，耻辱v. 使失宠；玷辱，使蒙羞"
+  },
+  {
+   "word": "allied",
+   "def": "a.联合的；联姻的"
+  },
+  {
+   "word": "auction",
+   "def": "n./vt. 拍卖"
+  },
+  {
+   "word": "tedious",
+   "def": "a. 沉闷的,乏味的"
+  },
+  {
+   "word": "cheque",
+   "def": "n.支票"
+  },
+  {
+   "word": "sarcasm",
+   "def": "n. 讽刺,挖苦,嘲笑"
+  },
+  {
+   "word": "Latin",
+   "def": "a. 拉丁的，拉丁文的n. 拉丁语"
+  },
+  {
+   "word": "proceed",
+   "def": "vi. 进行;着手"
+  },
+  {
+   "word": "bidding",
+   "def": "n.投标"
+  },
+  {
+   "word": "express",
+   "def": "v. 表达，表示a. 特快的，快速的n. 快车，快运"
+  },
+  {
+   "word": "interfere",
+   "def": "v. (in)干涉，干预；(with)妨碍，打扰"
+  },
+  {
+   "word": "temper",
+   "def": "n. 脾气；韧度vt. 调和，使缓和；使回火"
+  },
+  {
+   "word": "extremely",
+   "def": "ad.极端，极其，非常"
+  },
+  {
+   "word": "pioneer",
+   "def": "n. 先驱，倡导者，开拓者"
+  },
+  {
+   "word": "fore",
+   "def": "ad. 在前面a. 先前的；在前部的n. 前部"
+  },
+  {
+   "word": "perpetuate",
+   "def": "vt.使永存, 使不朽。"
+  },
+  {
+   "word": "fortunate",
+   "def": "a. 幸运的，侥幸的"
+  },
+  {
+   "word": "pen",
+   "def": "n. 钢笔，圆珠笔，作家，围栏vt. 写，关入栏中"
+  },
+  {
+   "word": "outcome",
+   "def": "n. 结果,后果"
+  },
+  {
+   "word": "anxious",
+   "def": "a. 焦虑的，担心的；急于(得到的)，渴望的"
+  },
+  {
+   "word": "ability",
+   "def": "n. 能力；本领；才能，才干；专门技能，天资"
+  },
+  {
+   "word": "blouse",
+   "def": "n. 女衬衣，短上衣，宽阔的罩衫"
+  },
+  {
+   "word": "declaration",
+   "def": "n. 宣言，宣布，声明"
+  },
+  {
+   "word": "enzyme",
+   "def": "n.[生化]酶。"
+  },
+  {
+   "word": "assumption",
+   "def": "n. 假定，设想；采取；承担；推测；假装"
+  },
+  {
+   "word": "undercharge",
+   "def": "vt.索价低于常价, 未给...装足够的火药, 充电不足。n.低的索价, 填不够量的火药, 充电不足。"
+  },
+  {
+   "word": "petty",
+   "def": "a. 小的,次要的;心胸狭窄的"
+  },
+  {
+   "word": "delinquency",
+   "def": "n. 过失,为非作歹,失职"
+  },
+  {
+   "word": "reaction",
+   "def": "n.反应；反作用"
+  },
+  {
+   "word": "gnaw",
+   "def": "vt.啃，咬断vi.啮"
+  },
+  {
+   "word": "embrace",
+   "def": "v./n. 拥抱;利用;包含"
+  },
+  {
+   "word": "baroness",
+   "def": "n.男爵夫人，女男爵"
+  },
+  {
+   "word": "metaphor",
+   "def": "n.[修辞]隐喻, 暗喻, 比喻说话。"
+  },
+  {
+   "word": "undersigned",
+   "def": "adj.在下面签名的"
+  },
+  {
+   "word": "dwell",
+   "def": "vi. 居住;详述"
+  },
+  {
+   "word": "entail",
+   "def": "vt. 使必需"
+  },
+  {
+   "word": "criticize",
+   "def": "v. 批评，评论"
+  },
+  {
+   "word": "stress",
+   "def": "n. 压力,重压 vt. 着重,强调重点,重视"
+  },
+  {
+   "word": "electron",
+   "def": "n. 电子"
+  },
+  {
+   "word": "candid",
+   "def": "adj.坦白的，直率的"
+  },
+  {
+   "word": "mop",
+   "def": "n.墩布，洗碗刷"
+  },
+  {
+   "word": "bitter",
+   "def": "a. 有苦味的;辛酸的;怀恨的;n. 苦啤酒"
+  },
+  {
+   "word": "trade",
+   "def": "n. 贸易，商业；职业，行业v. 经商，交易"
+  },
+  {
+   "word": "transform",
+   "def": "vt. 改变(形状性质等)"
+  },
+  {
+   "word": "maintenance",
+   "def": "n. 维修，保养，维持，保持，生活费用"
+  },
+  {
+   "word": "durable",
+   "def": "a. 耐用的;n. 耐用品"
+  },
+  {
+   "word": "step",
+   "def": "n. 步；台阶，梯级；步骤，措施v. 踏，走，举步"
+  },
+  {
+   "word": "coincident",
+   "def": "adj. 一致的, 暗合的, 符合的"
+  },
+  {
+   "word": "set",
+   "def": "n. 一套，一副，装置，接受机v. 提出，调整，日落"
+  },
+  {
+   "word": "kettle",
+   "def": "n. 水壶"
+  },
+  {
+   "word": "feed",
+   "def": "v. (on，with)喂养，饲养；(with)向…供给"
+  },
+  {
+   "word": "laborer",
+   "def": "n.劳工，劳动者"
+  },
+  {
+   "word": "abolish",
+   "def": "vt. 废除"
+  },
+  {
+   "word": "physician",
+   "def": "n. 医生"
+  },
+  {
+   "word": "pungent",
+   "def": "adj.(指气味、味道)刺激性的, 辛辣的, 尖锐的, 苦痛的, 严厉的。"
+  },
+  {
+   "word": "disdain",
+   "def": "vt./n. 蔑视,轻视"
+  },
+  {
+   "word": "rational",
+   "def": "a. 有推理能力的,合理的"
+  },
+  {
+   "word": "extravagance",
+   "def": "n.奢侈，浪费"
+  },
+  {
+   "word": "cling",
+   "def": "vi. 抱紧;坚守"
+  },
+  {
+   "word": "store",
+   "def": "n. 商店，店铺；贮藏，贮备品v. 贮藏，贮备"
+  },
+  {
+   "word": "pollinate",
+   "def": "vt.对...授粉。"
+  },
+  {
+   "word": "estimation",
+   "def": "n.估算，估计"
+  },
+  {
+   "word": "mall",
+   "def": "n.购物商场, 商业街, 林荫路。"
+  },
+  {
+   "word": "jingle",
+   "def": "vt.&vi.(使)丁当响"
+  },
+  {
+   "word": "cleverness",
+   "def": "n.聪明，机灵"
+  },
+  {
+   "word": "dumb",
+   "def": "a. 哑的,暂不说话的,愚笨的"
+  },
+  {
+   "word": "history",
+   "def": "n. 历史，历史学；来历，经历"
+  },
+  {
+   "word": "middle",
+   "def": "n./a. 中间(的)，当中(的)"
+  },
+  {
+   "word": "gauge",
+   "def": "n. 标准尺寸,(铁道)轨矩;(雨量)器;(电线)直径;vt. 测量;估计;评价(人物)"
+  },
+  {
+   "word": "screw",
+   "def": "n. 螺丝,螺旋;螺旋浆;vt./vi. 钉住,(用螺丝)拧;使紧"
+  },
+  {
+   "word": "cabbage",
+   "def": "n. 洋白菜，卷心菜"
+  }
+ ]
+}

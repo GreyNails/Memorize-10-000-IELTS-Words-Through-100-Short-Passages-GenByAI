@@ -1,0 +1,381 @@
+{
+ "id": 50,
+ "words": [
+  {
+   "word": "intuition",
+   "def": "n.直觉, 直觉的知识。"
+  },
+  {
+   "word": "punctuation",
+   "def": "n.标点法,标点符号"
+  },
+  {
+   "word": "illusion",
+   "def": "n. 幻象,错觉"
+  },
+  {
+   "word": "apparel",
+   "def": "n.衣服, 装饰。"
+  },
+  {
+   "word": "detest",
+   "def": "vt.厌恶, 憎恨。"
+  },
+  {
+   "word": "electricity",
+   "def": "n. 电，电流；电学"
+  },
+  {
+   "word": "crystal",
+   "def": "n. 水晶,水晶饰品,质量最好的玻璃器皿,结晶体"
+  },
+  {
+   "word": "uncover",
+   "def": "v. 揭开，揭露"
+  },
+  {
+   "word": "majesty",
+   "def": "n. 雄伟，壮丽，庄严，威严；最高权威，王权"
+  },
+  {
+   "word": "tonic",
+   "def": "adj.激励的, 滋补的。n.滋补剂, 滋补品。"
+  },
+  {
+   "word": "Chinese",
+   "def": "a.中国的 n.中国人"
+  },
+  {
+   "word": "transcript",
+   "def": "n.抄本。"
+  },
+  {
+   "word": "harassment",
+   "def": "n.折磨。"
+  },
+  {
+   "word": "ignorance",
+   "def": "n. 无知,愚昧"
+  },
+  {
+   "word": "chalk",
+   "def": "n. 粉笔，白垩"
+  },
+  {
+   "word": "acquaint",
+   "def": "vt. 使熟悉;使认识,介绍"
+  },
+  {
+   "word": "observation",
+   "def": "n. 观察，观测，监视；(pl.)观察资料；观察力"
+  },
+  {
+   "word": "lipstick",
+   "def": "n.唇膏，口红"
+  },
+  {
+   "word": "monster",
+   "def": "n. 畸形的动植物,怪物;恶人"
+  },
+  {
+   "word": "fancy",
+   "def": "a. 颜色鲜艳的;奇特的;n./v. 想象力,设想,爱好,认为"
+  },
+  {
+   "word": "enquiry",
+   "def": "v.询问"
+  },
+  {
+   "word": "hereof",
+   "def": "adv.在本文件中"
+  },
+  {
+   "word": "dance",
+   "def": "n. 舞(蹈)；舞曲，舞会v. 跳舞；跳动"
+  },
+  {
+   "word": "trend",
+   "def": "n. 倾向,趋势"
+  },
+  {
+   "word": "oval",
+   "def": "n./a. 卵形(的),椭圆形(的)"
+  },
+  {
+   "word": "prospective",
+   "def": "adj.预期的。"
+  },
+  {
+   "word": "income",
+   "def": "n. 收入，收益，所得"
+  },
+  {
+   "word": "spiral",
+   "def": "a. 螺旋形的"
+  },
+  {
+   "word": "corn",
+   "def": "n. 谷物，庄稼，玉米"
+  },
+  {
+   "word": "pot",
+   "def": "n. 罐，壶"
+  },
+  {
+   "word": "indispensable",
+   "def": "a. 必需的,必不可少的"
+  },
+  {
+   "word": "manner",
+   "def": "n. 方式；举止；(pl.)风度，礼貌；规矩；风俗"
+  },
+  {
+   "word": "drip",
+   "def": "v. 滴下，漏水n. 滴，水滴，点滴"
+  },
+  {
+   "word": "vineyard",
+   "def": "n.葡萄园。"
+  },
+  {
+   "word": "oscillation",
+   "def": "n.摆动，振动"
+  },
+  {
+   "word": "negro",
+   "def": "n. 黑人a. 黑人的"
+  },
+  {
+   "word": "Germany",
+   "def": "n.德意志，德国"
+  },
+  {
+   "word": "precarious",
+   "def": "adj.不稳定的。"
+  },
+  {
+   "word": "boost",
+   "def": "vt./n. 增加;吹捧;提高;升"
+  },
+  {
+   "word": "out",
+   "def": "ad. 出去；离家；突出来a. 外面的，往外去的"
+  },
+  {
+   "word": "hesitate",
+   "def": "v. 犹豫，踌躇；含糊，支吾"
+  },
+  {
+   "word": "well-known",
+   "def": "a. 有名的，著名的"
+  },
+  {
+   "word": "airing",
+   "def": "n.晾干, 兜风。"
+  },
+  {
+   "word": "evaporate",
+   "def": "v. 使蒸发,使脱水,消失"
+  },
+  {
+   "word": "relax",
+   "def": "v. (使)松驰，放松"
+  },
+  {
+   "word": "cohesion",
+   "def": "n.凝聚力，团结"
+  },
+  {
+   "word": "metallurgy",
+   "def": "n.冶金学，冶金术"
+  },
+  {
+   "word": "memorandum",
+   "def": "n.备忘录, 便笺, 便函, 买卖契约书。"
+  },
+  {
+   "word": "foretell",
+   "def": "v.预告，预言"
+  },
+  {
+   "word": "shrink",
+   "def": "vt./vi. 收缩;退缩,畏缩"
+  },
+  {
+   "word": "transportation",
+   "def": "n.运输，运送，客运"
+  },
+  {
+   "word": "aristocratic",
+   "def": "adj.贵族的"
+  },
+  {
+   "word": "thunderstorm",
+   "def": "n.雷雨"
+  },
+  {
+   "word": "boot",
+   "def": "n. 靴；(汽车后部的)行李箱；[the-"
+  },
+  {
+   "word": "parachute",
+   "def": "n. 降落伞"
+  },
+  {
+   "word": "fox",
+   "def": "n. 狐狸"
+  },
+  {
+   "word": "straighten",
+   "def": "vt.把…弄直vi.挺起来"
+  },
+  {
+   "word": "farmer",
+   "def": "n. 农民，农场主"
+  },
+  {
+   "word": "depress",
+   "def": "vt. 使沮丧;使萧条;压下;降低"
+  },
+  {
+   "word": "macaque",
+   "def": "n.短尾猿。"
+  },
+  {
+   "word": "finicky",
+   "def": "adj.过分注意的, 过分讲究的, 过分周到的。"
+  },
+  {
+   "word": "persuasion",
+   "def": "n. 说服，说服力"
+  },
+  {
+   "word": "phobia",
+   "def": "n.恐怖病, 恐怖症。"
+  },
+  {
+   "word": "collect",
+   "def": "v. 收集，搜集；领取，接走；收(税等)；聚集，堆积"
+  },
+  {
+   "word": "learned",
+   "def": "a. 博学的，有学问的"
+  },
+  {
+   "word": "expire",
+   "def": "vi. 满期,到期;逝世,死"
+  },
+  {
+   "word": "beast",
+   "def": "n. 兽，牲畜；凶残的人，举止粗鲁的人"
+  },
+  {
+   "word": "Denmark",
+   "def": "n.丹麦"
+  },
+  {
+   "word": "twig",
+   "def": "n.细枝"
+  },
+  {
+   "word": "reform",
+   "def": "v. 改革，改造，改良n. 改革，改造，改良"
+  },
+  {
+   "word": "either",
+   "def": "ad. 也(不)pron. 两者之一a. (两者中)任一的"
+  },
+  {
+   "word": "rescind",
+   "def": "adj.退还，取消,撤销"
+  },
+  {
+   "word": "snowy",
+   "def": "a.雪的，下雪的"
+  },
+  {
+   "word": "accumulation",
+   "def": "n.积累"
+  },
+  {
+   "word": "answer",
+   "def": "vt. 回答，答复，答案v. 回答，答复，响应"
+  },
+  {
+   "word": "begin",
+   "def": "v. (began，begun)开始，着手"
+  },
+  {
+   "word": "whoever",
+   "def": "pron.谁；无论谁；究竟是谁"
+  },
+  {
+   "word": "friction",
+   "def": "n. 摩擦力;摩擦;不和,倾轧"
+  },
+  {
+   "word": "roar",
+   "def": "n./v. 吼叫,怒吼,轰鸣"
+  },
+  {
+   "word": "noble",
+   "def": "a. 高尚的；贵族的，高贵的n. 贵族"
+  },
+  {
+   "word": "disarm",
+   "def": "vt.解除武装, 回复平常的编制, 缓和, 消除(敌意,疑虑)。vi.放下武器"
+  },
+  {
+   "word": "rainfall",
+   "def": "n.下雨，降雨量"
+  },
+  {
+   "word": "cliff",
+   "def": "n. 悬崖；峭壁"
+  },
+  {
+   "word": "betrayal",
+   "def": "n.背叛，暴露"
+  },
+  {
+   "word": "taxation",
+   "def": "n. 税制,税项"
+  },
+  {
+   "word": "hail",
+   "def": "n./v. (下)冰雹;(冰雹般)一阵,落下"
+  },
+  {
+   "word": "proxy",
+   "def": "n.代理人"
+  },
+  {
+   "word": "disinfectant",
+   "def": "n.消毒剂"
+  },
+  {
+   "word": "negation",
+   "def": "n. 否定,否认"
+  },
+  {
+   "word": "course",
+   "def": "n.过程，路线，课程"
+  },
+  {
+   "word": "sparse",
+   "def": "adj.稀少的, 稀疏的。"
+  },
+  {
+   "word": "triangular",
+   "def": "a.三角的；三者间的"
+  },
+  {
+   "word": "overpayment",
+   "def": "n.多付的款项"
+  },
+  {
+   "word": "implement",
+   "def": "n. 工具,器具;vt. 贯彻,履行"
+  }
+ ]
+}

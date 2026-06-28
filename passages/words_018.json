@@ -1,0 +1,381 @@
+{
+ "id": 18,
+ "words": [
+  {
+   "word": "pesticide",
+   "def": "n.杀虫剂。"
+  },
+  {
+   "word": "lifetime",
+   "def": "n. 一生，终生"
+  },
+  {
+   "word": "health",
+   "def": "n. 健康，健康状况；卫生"
+  },
+  {
+   "word": "political",
+   "def": "a. 政治的"
+  },
+  {
+   "word": "defend",
+   "def": "v. 防守，保卫；为…辩护，为…答辩"
+  },
+  {
+   "word": "everybody",
+   "def": "pron. (everyone)每人，人人"
+  },
+  {
+   "word": "swan",
+   "def": "n. 天鹅vi. 闲荡，游荡"
+  },
+  {
+   "word": "last",
+   "def": "a. 最后的，刚过去的ad. 最后n. 最后v. 持续"
+  },
+  {
+   "word": "segregate",
+   "def": "v.隔离。"
+  },
+  {
+   "word": "teach",
+   "def": "vt. 教，讲授；教导(训)vi. 讲课，当教师"
+  },
+  {
+   "word": "plough",
+   "def": "n./v. 犁,犁形器具;犁地"
+  },
+  {
+   "word": "granary",
+   "def": "n.谷仓。"
+  },
+  {
+   "word": "bird",
+   "def": "n. 鸟，雀；女人；嘘声"
+  },
+  {
+   "word": "colony",
+   "def": "n. 殖民地；侨民；聚居区；(动植物的)群体"
+  },
+  {
+   "word": "outturn",
+   "def": "n.卸货情况"
+  },
+  {
+   "word": "perfect",
+   "def": "a. 完善的；完全的；(语法)完成的v. 使完美"
+  },
+  {
+   "word": "sharpen",
+   "def": "vt.削尖，使敏锐"
+  },
+  {
+   "word": "evidently",
+   "def": "adv.明显地，显然"
+  },
+  {
+   "word": "fling",
+   "def": "v./n. 掷,抛;猛烈地移动;投入"
+  },
+  {
+   "word": "dispense",
+   "def": "v.分配，施予"
+  },
+  {
+   "word": "ardent",
+   "def": "a. 热情的,热心的"
+  },
+  {
+   "word": "consume",
+   "def": "vt. 消耗；吃完，喝光；(with)使着迷；烧毁"
+  },
+  {
+   "word": "ludicrous",
+   "def": "adj.可笑的, 滑稽的, 愚蠢的。"
+  },
+  {
+   "word": "onion",
+   "def": "n. 洋葱"
+  },
+  {
+   "word": "episode",
+   "def": "n. 一系列事件中的一个事件"
+  },
+  {
+   "word": "swim",
+   "def": "vi. 游泳；游；漂浮；眩晕；充溢vt. 游过n. 游泳"
+  },
+  {
+   "word": "specification",
+   "def": "n. 载明,详述;规格,清单,说明书"
+  },
+  {
+   "word": "cardboard",
+   "def": "n.硬纸板"
+  },
+  {
+   "word": "transitive",
+   "def": "adj.及物的。n.及物动词。"
+  },
+  {
+   "word": "six",
+   "def": "num. 六pron./a. 六(个，只…)"
+  },
+  {
+   "word": "liberty",
+   "def": "n. 自由，自由权；特权"
+  },
+  {
+   "word": "module",
+   "def": "n. 组件,模块,模件;(航天器的)舱"
+  },
+  {
+   "word": "style",
+   "def": "n. 风格,文体,式样"
+  },
+  {
+   "word": "madden",
+   "def": "v.发狂。"
+  },
+  {
+   "word": "revenge",
+   "def": "vt. 报仇,报复"
+  },
+  {
+   "word": "weapon",
+   "def": "n. 武器，兵器"
+  },
+  {
+   "word": "accident",
+   "def": "n. 意外遭遇，事故；意外(因素)"
+  },
+  {
+   "word": "craft",
+   "def": "n. 工艺,手工业;船;技巧;诡计"
+  },
+  {
+   "word": "genuine",
+   "def": "a. 真正的,名副其实的;真诚的"
+  },
+  {
+   "word": "session",
+   "def": "n. 一段时间;开庭,开庭期;学期"
+  },
+  {
+   "word": "inconvenience",
+   "def": "n.不便，不利"
+  },
+  {
+   "word": "respectively",
+   "def": "ad.各自地，分别地"
+  },
+  {
+   "word": "horse",
+   "def": "n. 马；跳马，鞍马v. 骑马"
+  },
+  {
+   "word": "flaw",
+   "def": "n. 瑕疵,缺点"
+  },
+  {
+   "word": "hearty",
+   "def": "a.衷心的；丰盛的"
+  },
+  {
+   "word": "obligation",
+   "def": "n. 义务，责任"
+  },
+  {
+   "word": "commonsense",
+   "def": "a.有常识的"
+  },
+  {
+   "word": "pleasure",
+   "def": "n. 愉快，快乐；乐事，乐趣"
+  },
+  {
+   "word": "nowhere",
+   "def": "ad. 什么地方都没有"
+  },
+  {
+   "word": "postpone",
+   "def": "vt. 推迟,延缓"
+  },
+  {
+   "word": "prevention",
+   "def": "n.预防，阻止，妨碍"
+  },
+  {
+   "word": "appoint",
+   "def": "vt. 任命，委派；指定，约定(时间、地点等)"
+  },
+  {
+   "word": "likelihood",
+   "def": "n. 可能性"
+  },
+  {
+   "word": "tread",
+   "def": "vi.&vt.踩，踏，践踏"
+  },
+  {
+   "word": "liquor",
+   "def": "n. 酒,酒类"
+  },
+  {
+   "word": "actor",
+   "def": "n. 男演员；演员，行动者"
+  },
+  {
+   "word": "mistaken",
+   "def": "adj.搞错了的，误解的"
+  },
+  {
+   "word": "deadlock",
+   "def": "n.死锁, 僵局。"
+  },
+  {
+   "word": "year",
+   "def": "n. 年，年度，学年a./ad. 每年，一年一次"
+  },
+  {
+   "word": "tyre",
+   "def": "n. 轮胎"
+  },
+  {
+   "word": "exactly",
+   "def": "ad.确切地；恰恰正是"
+  },
+  {
+   "word": "gravel",
+   "def": "n. 沙砾,碎石"
+  },
+  {
+   "word": "possession",
+   "def": "n. 所有,拥有,财产"
+  },
+  {
+   "word": "gaze",
+   "def": "v./n. 凝视，注视"
+  },
+  {
+   "word": "thinker",
+   "def": "n.思想家"
+  },
+  {
+   "word": "such",
+   "def": "a. 这样的；上述的ad. 那么pron. 这样的人/事物"
+  },
+  {
+   "word": "organization",
+   "def": "n. 组织，团体，机构"
+  },
+  {
+   "word": "actively",
+   "def": "adv.积极地，活跃地"
+  },
+  {
+   "word": "exterminate",
+   "def": "v.消除。"
+  },
+  {
+   "word": "fireplace",
+   "def": "n. 壁炉"
+  },
+  {
+   "word": "leakage",
+   "def": "n.漏，泄漏；漏出物"
+  },
+  {
+   "word": "chairman",
+   "def": "n. 主席，议长，会长，董事长"
+  },
+  {
+   "word": "profound",
+   "def": "a. 深的,极深的;渊博的;深奥的"
+  },
+  {
+   "word": "nothing",
+   "def": "n. 没有东西；什么也没有；无关紧要的人或事"
+  },
+  {
+   "word": "volleyball",
+   "def": "n. 排球"
+  },
+  {
+   "word": "rusty",
+   "def": "a.生锈的；变迟钝的"
+  },
+  {
+   "word": "shrewd",
+   "def": "a. 敏锐的,精明的;准确的"
+  },
+  {
+   "word": "since",
+   "def": "prep. 自从conj. 自从；因为，既然ad. 后来"
+  },
+  {
+   "word": "neighbor",
+   "def": "n. 邻居"
+  },
+  {
+   "word": "fluorescent",
+   "def": "adj.荧光的, 莹光的。"
+  },
+  {
+   "word": "god",
+   "def": "n. 上帝(小写god泛指所有的“神，神像”)"
+  },
+  {
+   "word": "upright",
+   "def": "a. 垂直的,直立的;正直的"
+  },
+  {
+   "word": "sacrifice",
+   "def": "n./v. 献祭;牺牲"
+  },
+  {
+   "word": "anxiety",
+   "def": "n. 忧虑,渴望"
+  },
+  {
+   "word": "humane",
+   "def": "adj.人慈的"
+  },
+  {
+   "word": "camping",
+   "def": "n.野营"
+  },
+  {
+   "word": "symmetry",
+   "def": "n. 对称(性)；匀称，整齐"
+  },
+  {
+   "word": "merchandise",
+   "def": "n. 商品，货物"
+  },
+  {
+   "word": "manuscript",
+   "def": "n."
+  },
+  {
+   "word": "Australian",
+   "def": "a.澳大利亚的"
+  },
+  {
+   "word": "plausible",
+   "def": "adj.似是而非的。"
+  },
+  {
+   "word": "withdrawal",
+   "def": "n.撤退，取款"
+  },
+  {
+   "word": "jealousy",
+   "def": "n.妒忌，嫉妒，猜忌"
+  },
+  {
+   "word": "satisfactorily",
+   "def": "ad.圆满地"
+  }
+ ]
+}

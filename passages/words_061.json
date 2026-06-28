@@ -1,0 +1,381 @@
+{
+ "id": 61,
+ "words": [
+  {
+   "word": "effectively",
+   "def": "adv.有效地"
+  },
+  {
+   "word": "insane",
+   "def": "a. 疯狂的,愚蠢的"
+  },
+  {
+   "word": "ceremony",
+   "def": "n. 典礼,仪式,礼节"
+  },
+  {
+   "word": "previous",
+   "def": "a. 先前的"
+  },
+  {
+   "word": "impetuous",
+   "def": "adj.冲动的, 猛烈的, 激烈的。"
+  },
+  {
+   "word": "potentiality",
+   "def": "n.潜在性"
+  },
+  {
+   "word": "dough",
+   "def": "n.面团"
+  },
+  {
+   "word": "baggy",
+   "def": "adj.袋状的"
+  },
+  {
+   "word": "detergent",
+   "def": "n.清洁剂, 去垢剂。"
+  },
+  {
+   "word": "celery",
+   "def": "n.芹菜"
+  },
+  {
+   "word": "odyssey",
+   "def": "n. -seys 长期的冒险旅行。"
+  },
+  {
+   "word": "paddock",
+   "def": "n.(马厩或宅房的)小牧场, 围场。"
+  },
+  {
+   "word": "inscribe",
+   "def": "v.记下。"
+  },
+  {
+   "word": "migratory",
+   "def": "adj.迁移的, 流浪的。"
+  },
+  {
+   "word": "predominant",
+   "def": "a. 主要的,占优势的"
+  },
+  {
+   "word": "trousers",
+   "def": "n. 裤子"
+  },
+  {
+   "word": "frankly",
+   "def": "adv.坦率地"
+  },
+  {
+   "word": "quick",
+   "def": "a. 快的；灵敏的，伶俐的；敏锐的ad. 快，迅速地"
+  },
+  {
+   "word": "hydrogen",
+   "def": "n. 氢气"
+  },
+  {
+   "word": "mechanics",
+   "def": "n.力学；技术性细节"
+  },
+  {
+   "word": "dimensional",
+   "def": "adj.尺寸的"
+  },
+  {
+   "word": "perspire",
+   "def": "v.出汗, 流汗, 分泌, 渗出。"
+  },
+  {
+   "word": "seismic",
+   "def": "adj.[地]地震的。"
+  },
+  {
+   "word": "precision",
+   "def": "n. 精确，精确度"
+  },
+  {
+   "word": "ammonia",
+   "def": "n.[化]氨, 氨水。"
+  },
+  {
+   "word": "contemptuous",
+   "def": "adj.轻视的"
+  },
+  {
+   "word": "deform",
+   "def": "vt.损坏…的形状"
+  },
+  {
+   "word": "actual",
+   "def": "a. 实际的；现实的，真实的，目前的"
+  },
+  {
+   "word": "shut",
+   "def": "v. 关，关闭"
+  },
+  {
+   "word": "lethal",
+   "def": "adj.致命的。n.致死因子。"
+  },
+  {
+   "word": "resolutely",
+   "def": "adj.坚决地，果断地"
+  },
+  {
+   "word": "suspicious",
+   "def": "a. 可疑的;怀疑的"
+  },
+  {
+   "word": "harmless",
+   "def": "adj.无害的，无恶意的"
+  },
+  {
+   "word": "classroom",
+   "def": "n. 教室，课堂"
+  },
+  {
+   "word": "nominal",
+   "def": "a. 名义上的,有名无实的;极微的;象征性的"
+  },
+  {
+   "word": "ownership",
+   "def": "n. 所有权"
+  },
+  {
+   "word": "exciting",
+   "def": "a. 令人兴奋的，使人激动的"
+  },
+  {
+   "word": "foundation",
+   "def": "n. 基础，根本，建立，创立；地基，基金，基金会"
+  },
+  {
+   "word": "kidney",
+   "def": "n. 肾,腰子"
+  },
+  {
+   "word": "fascist",
+   "def": "n.法西斯分子"
+  },
+  {
+   "word": "burgeon",
+   "def": "n.嫩芽。v.萌芽"
+  },
+  {
+   "word": "dub",
+   "def": "vt.[电影]配音, 轻点, 授予称号, 打击。n.鼓声, 笨蛋。"
+  },
+  {
+   "word": "pilot",
+   "def": "n./vt. 飞行员,试验"
+  },
+  {
+   "word": "acquire",
+   "def": "vt. 获得,取得"
+  },
+  {
+   "word": "infantry",
+   "def": "n.步兵"
+  },
+  {
+   "word": "atomic",
+   "def": "a.原子的；原子能的"
+  },
+  {
+   "word": "province",
+   "def": "n. 省；领域，范围，本分"
+  },
+  {
+   "word": "persist",
+   "def": "vi. 坚持;持续"
+  },
+  {
+   "word": "watery",
+   "def": "a.水的；湿的；乏味的"
+  },
+  {
+   "word": "pour",
+   "def": "vt./vi. (液体)灌,注,倒;流入,流出"
+  },
+  {
+   "word": "boom",
+   "def": "v./n. 发出隆隆声;vi./n. (商业等的)景气,繁荣"
+  },
+  {
+   "word": "farmhouse",
+   "def": "n.农舍"
+  },
+  {
+   "word": "pharmaceutical",
+   "def": "n.药物。adj.制药(学)上的"
+  },
+  {
+   "word": "prior",
+   "def": "a. 较早的;更重要的"
+  },
+  {
+   "word": "approximation",
+   "def": "n.近似值"
+  },
+  {
+   "word": "sport",
+   "def": "n. (体育)运动(pl.)运动会vi. 开玩笑；玩耍"
+  },
+  {
+   "word": "sewer",
+   "def": "n.下水道, 缝具, 缝纫者。"
+  },
+  {
+   "word": "feel",
+   "def": "v. 触；认为vi. 摸上去有…感觉；摸索；觉得"
+  },
+  {
+   "word": "Wednesday",
+   "def": "n. 星期三"
+  },
+  {
+   "word": "immortal",
+   "def": "a.不朽的；永生的"
+  },
+  {
+   "word": "lure",
+   "def": "v.引诱。"
+  },
+  {
+   "word": "sediment",
+   "def": "n.沉淀物, 沉积。"
+  },
+  {
+   "word": "confluence",
+   "def": "n.汇合。"
+  },
+  {
+   "word": "universally",
+   "def": "ad.普遍地，一般地"
+  },
+  {
+   "word": "moreover",
+   "def": "ad. 加之,而且"
+  },
+  {
+   "word": "agony",
+   "def": "n. 极度痛苦"
+  },
+  {
+   "word": "perennial",
+   "def": "adj.四季不断的, 终年的, 长期的, 永久的, (植物)多年生的。"
+  },
+  {
+   "word": "soul",
+   "def": "n. 灵魂，心灵；精神，精力；人"
+  },
+  {
+   "word": "sentence",
+   "def": "n. 句子；判决，宣判v. 宣判，判决"
+  },
+  {
+   "word": "voter",
+   "def": "n.投票人，选举人"
+  },
+  {
+   "word": "longing",
+   "def": "n.渴望a.显示渴望的"
+  },
+  {
+   "word": "violent",
+   "def": "a. 猛烈的;凶暴的;由暴力引起的;强烈的,厉害的"
+  },
+  {
+   "word": "realize",
+   "def": "v. 认识到，体会到；实现"
+  },
+  {
+   "word": "sportsmanship",
+   "def": "n.体育精神"
+  },
+  {
+   "word": "torch",
+   "def": "n. 手电筒,火把"
+  },
+  {
+   "word": "detain",
+   "def": "vt. 耽搁,延迟;拘留,扣押"
+  },
+  {
+   "word": "spoon",
+   "def": "n. 匙，调羹"
+  },
+  {
+   "word": "restock",
+   "def": "v.重新进货,再储存"
+  },
+  {
+   "word": "popular",
+   "def": "a. 流行的，通俗的，大众的；广受欢迎的"
+  },
+  {
+   "word": "fuel",
+   "def": "n. 燃料vt. 给…加燃料"
+  },
+  {
+   "word": "seven",
+   "def": "num. 七，七个(人或物)"
+  },
+  {
+   "word": "pane",
+   "def": "n.窗格玻璃"
+  },
+  {
+   "word": "licence",
+   "def": "n.执照, 许可证, 特许。vt.许可, 特许, 认可, 发给执照。"
+  },
+  {
+   "word": "brighten",
+   "def": "vt.使发光；使快活"
+  },
+  {
+   "word": "spirit",
+   "def": "n. 精神；志气；(pl.)情绪，心情；(pl.)酒精"
+  },
+  {
+   "word": "refute",
+   "def": "v. 反驳，驳斥"
+  },
+  {
+   "word": "reasonably",
+   "def": "adv.合理地，适当地"
+  },
+  {
+   "word": "protective",
+   "def": "a.保护的，防护的"
+  },
+  {
+   "word": "give",
+   "def": "n.弹性, 可弯性。vt.给, 授予, 供给, 献出, 让步, 引起, 发表, 捐助。vi.捐赠, 让步"
+  },
+  {
+   "word": "note-taking",
+   "def": "n.笔记，笔录"
+  },
+  {
+   "word": "maniac",
+   "def": "adj.发狂的, 癫狂的, 疯狂的。n.[医]燥狂(症)者, 疯子, 一种高速电子数字计。"
+  },
+  {
+   "word": "foliage",
+   "def": "n.叶子(总称)"
+  },
+  {
+   "word": "tortoise",
+   "def": "n.龟，乌龟"
+  },
+  {
+   "word": "meat",
+   "def": "n. (食用)肉类"
+  }
+ ]
+}

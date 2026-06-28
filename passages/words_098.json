@@ -1,0 +1,377 @@
+{
+ "id": 98,
+ "words": [
+  {
+   "word": "rebuke",
+   "def": "vt.指责，非难，斥责"
+  },
+  {
+   "word": "chiefly",
+   "def": "adv.多半，首要地"
+  },
+  {
+   "word": "awful",
+   "def": "a. 可怕的;糟糕的;极度的"
+  },
+  {
+   "word": "horn",
+   "def": "n. (牛羊等的)角；号，喇叭；角状物；角制品"
+  },
+  {
+   "word": "cruelty",
+   "def": "n.残酷；残酷行为"
+  },
+  {
+   "word": "pronounce",
+   "def": "v. 发…的音；宣布，宣判"
+  },
+  {
+   "word": "hard-working",
+   "def": "adj.勤劳的"
+  },
+  {
+   "word": "bypass",
+   "def": "n. 迂回的旁道;旁路;vt. 加设旁道;回避;躲开"
+  },
+  {
+   "word": "cafeteria",
+   "def": "n. 自助食堂,自助餐馆"
+  },
+  {
+   "word": "experience",
+   "def": "n./vt. 经验；经历；体验；阅历"
+  },
+  {
+   "word": "chase",
+   "def": "v./n. 追逐,追赶;雕镂"
+  },
+  {
+   "word": "tactic",
+   "def": "n.策略, 战略。adj.按顺序的, 排列的。"
+  },
+  {
+   "word": "born",
+   "def": "a. 出生的，产生的；天生的，十足的"
+  },
+  {
+   "word": "dropout",
+   "def": "n.中途退出者"
+  },
+  {
+   "word": "trespass",
+   "def": "n.过失, 罪过, 侵入。v.侵入。"
+  },
+  {
+   "word": "surgery",
+   "def": "n. 外科,外科手术"
+  },
+  {
+   "word": "solitary",
+   "def": "a. 独居的,孤独的,惟一的;荒凉的"
+  },
+  {
+   "word": "beverage",
+   "def": "n. 饮料(汽水、茶、酒等)"
+  },
+  {
+   "word": "bossy",
+   "def": "adj.好发号施令的"
+  },
+  {
+   "word": "mean",
+   "def": "a. 吝啬的;卑鄙的;刻毒的;难看的,破旧的;平庸的; n. 中间,平均数;v. 想要,打算"
+  },
+  {
+   "word": "brick",
+   "def": "n. 砖块，砖v. 用砖围砌，用砖填补"
+  },
+  {
+   "word": "unlikely",
+   "def": "a. 未必的,不大可能的"
+  },
+  {
+   "word": "boxer",
+   "def": "n.拳击运动员"
+  },
+  {
+   "word": "gardener",
+   "def": "n.园丁，花匠"
+  },
+  {
+   "word": "linen",
+   "def": "n. 亚麻布,衬衣裤"
+  },
+  {
+   "word": "fabric",
+   "def": "n. 织物;构造,结构"
+  },
+  {
+   "word": "doubtful",
+   "def": "a. 怀疑的,有疑问的"
+  },
+  {
+   "word": "standardize",
+   "def": "vt.使与标准比较"
+  },
+  {
+   "word": "vowel",
+   "def": "n. 元音，元音字母"
+  },
+  {
+   "word": "referent",
+   "def": "n.指示物"
+  },
+  {
+   "word": "kitchen",
+   "def": "n. 厨房"
+  },
+  {
+   "word": "seize",
+   "def": "v. 抓住，逮住；夺取，占领；没收，查封"
+  },
+  {
+   "word": "inflation",
+   "def": "n. 膨胀;通货膨胀"
+  },
+  {
+   "word": "postage",
+   "def": "n. 邮费,邮资"
+  },
+  {
+   "word": "absolute",
+   "def": "a. 绝对的，完全的；确实的，肯定的"
+  },
+  {
+   "word": "physique",
+   "def": "n.(男子的)体格, 体形。"
+  },
+  {
+   "word": "elaboration",
+   "def": "n.详尽阐述"
+  },
+  {
+   "word": "boxing-day",
+   "def": "n.节礼日"
+  },
+  {
+   "word": "produce",
+   "def": "v. 生产，制造，显示，演出，导致n. 产品"
+  },
+  {
+   "word": "from",
+   "def": "prep. 从，自从；由于；离；根据，按；去除"
+  },
+  {
+   "word": "specimen",
+   "def": "n. 标本,样品,样张;试样"
+  },
+  {
+   "word": "stage",
+   "def": "n. 舞台，戏剧；阶段，时期"
+  },
+  {
+   "word": "protocol",
+   "def": "n. 礼仪,礼节,外交礼节"
+  },
+  {
+   "word": "eleven",
+   "def": "num. 十一pron./a. 十一(个，只…)"
+  },
+  {
+   "word": "hatred",
+   "def": "n. 憎恨，憎恶，怨恨"
+  },
+  {
+   "word": "comfort",
+   "def": "n. 舒适，安逸；安慰，慰问v. 安慰，使舒适"
+  },
+  {
+   "word": "airport",
+   "def": "n. 机场，航空站，航空港"
+  },
+  {
+   "word": "ungainly",
+   "def": "adj.难看的, 不象样的, 笨拙的。adv.笨拙地, 难看地, 不雅地。"
+  },
+  {
+   "word": "bicycle",
+   "def": "n. 自行车vi. 骑自行车"
+  },
+  {
+   "word": "comply",
+   "def": "v. (with)遵照，照做，应允；顺从，服从"
+  },
+  {
+   "word": "verse",
+   "def": "n. 韵文，诗；诗节，诗句"
+  },
+  {
+   "word": "royalty",
+   "def": "n. 皇家，皇族"
+  },
+  {
+   "word": "cathedral",
+   "def": "n. 总教堂,大教堂"
+  },
+  {
+   "word": "hurl",
+   "def": "vt./n. 猛掷,猛投;大声叫骂"
+  },
+  {
+   "word": "shoot",
+   "def": "v. 发射；掠过，疾驰而过n. 嫩枝，苗，射击"
+  },
+  {
+   "word": "issue",
+   "def": "v. 分发,出版,发行;n. 出版,发行,问题"
+  },
+  {
+   "word": "executive",
+   "def": "n. 总经理，董事，行政负责人a. 执行的，实施的"
+  },
+  {
+   "word": "zebra",
+   "def": "n. 斑马"
+  },
+  {
+   "word": "devote",
+   "def": "vt. 把…奉献给"
+  },
+  {
+   "word": "say",
+   "def": "vt. 说，讲；说明；比如说vi. 说，发表意见"
+  },
+  {
+   "word": "typhoon",
+   "def": "n. 台风,强热带风暴"
+  },
+  {
+   "word": "facet",
+   "def": "n.(多面体的)面, (宝石等的)刻面, 小平面, 方面, 琢面。vt.在...上刻画"
+  },
+  {
+   "word": "fallacy",
+   "def": "n.谬误, 谬论。"
+  },
+  {
+   "word": "humanism",
+   "def": "n.人道主义"
+  },
+  {
+   "word": "contrast",
+   "def": "v. 使对比,形成对照;n. 明显的差别"
+  },
+  {
+   "word": "neutrality",
+   "def": "n.中立"
+  },
+  {
+   "word": "prohibitive",
+   "def": "adj.禁止的"
+  },
+  {
+   "word": "breeze",
+   "def": "n. 微风"
+  },
+  {
+   "word": "compound",
+   "def": "n./a. 混合物(的),复合词(的) v. 使混合,使复杂"
+  },
+  {
+   "word": "blue",
+   "def": "a. 蓝色的；青灰色的；沮丧的，阴郁的n. 蓝色"
+  },
+  {
+   "word": "simply",
+   "def": "ad. 简单地；完全，简直；仅仅，只不过；朴素地"
+  },
+  {
+   "word": "qualify",
+   "def": "v. (使)具有资格，证明合格；限制，限定；修饰"
+  },
+  {
+   "word": "refresh",
+   "def": "v. (使)精神振作，(使)精力恢复"
+  },
+  {
+   "word": "orbit",
+   "def": "n. 天体轨道;势力范围;vt. 沿轨道运行"
+  },
+  {
+   "word": "reporter",
+   "def": "n. 报告人，通讯员；记者，报导者"
+  },
+  {
+   "word": "compile",
+   "def": "vt. 编辑,编写"
+  },
+  {
+   "word": "commissioner",
+   "def": "n.委员, 专员。"
+  },
+  {
+   "word": "facsimile",
+   "def": "n.摹写, 传真。"
+  },
+  {
+   "word": "provincial",
+   "def": "adj.省级的，省的"
+  },
+  {
+   "word": "smoothly",
+   "def": "ad.光滑地；平稳地"
+  },
+  {
+   "word": "hinge",
+   "def": "n. 铰链,合页,关键;v. 给…安铰链;随…而定"
+  },
+  {
+   "word": "smog",
+   "def": "n. 烟雾"
+  },
+  {
+   "word": "delicacy",
+   "def": "n.精致"
+  },
+  {
+   "word": "understand",
+   "def": "v. 懂，理解；获悉，听说；揣测，认为"
+  },
+  {
+   "word": "fruitful",
+   "def": "a. 多产的；果实累累的，富有成效的"
+  },
+  {
+   "word": "stack",
+   "def": "n. 堆;大量;书库"
+  },
+  {
+   "word": "isolation",
+   "def": "n.隔离，孤立状态"
+  },
+  {
+   "word": "heartfelt",
+   "def": "adj.衷心的"
+  },
+  {
+   "word": "terrific",
+   "def": "a. 可怕的;非常的"
+  },
+  {
+   "word": "canon",
+   "def": "n.规范，准则"
+  },
+  {
+   "word": "motive",
+   "def": "n. 动机，目的a. 发动的，运动的"
+  },
+  {
+   "word": "ascertain",
+   "def": "vt. 查明,探查"
+  },
+  {
+   "word": "butter",
+   "def": "n. 黄油，奶油v. 涂黄油于…上"
+  }
+ ]
+}

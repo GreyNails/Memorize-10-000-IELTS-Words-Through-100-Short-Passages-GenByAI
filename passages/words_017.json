@@ -1,0 +1,381 @@
+{
+ "id": 17,
+ "words": [
+  {
+   "word": "presence",
+   "def": "n. 出席,到场;风采,风度"
+  },
+  {
+   "word": "automate",
+   "def": "vt.使自动化"
+  },
+  {
+   "word": "quilt",
+   "def": "n. 被子"
+  },
+  {
+   "word": "perplexity",
+   "def": "n.困惑混乱。"
+  },
+  {
+   "word": "tightly",
+   "def": "ad.紧地，牢固地"
+  },
+  {
+   "word": "rectify",
+   "def": "vt. 纠正,矫正;[化"
+  },
+  {
+   "word": "counterfeit",
+   "def": "n.adj.赝品, 伪造品, 伪造的, 假冒的。vt.伪造, 假冒"
+  },
+  {
+   "word": "wail",
+   "def": "n.悲叹, 哀号, 痛快。vi.悲叹, 哀号, 嚎啕。vt.悲痛(某人的悲惨遭遇)"
+  },
+  {
+   "word": "perturb",
+   "def": "vt. 使不安,烦扰"
+  },
+  {
+   "word": "stimulate",
+   "def": "v. 刺激，使兴奋；激励，鼓舞"
+  },
+  {
+   "word": "jog",
+   "def": "v./n. 轻推,轻撞;缓步前进,慢跑"
+  },
+  {
+   "word": "shorten",
+   "def": "vt.弄短，缩小，减少"
+  },
+  {
+   "word": "virgin",
+   "def": "n. 处女a. 处女的；纯洁的；原始的；未使用的"
+  },
+  {
+   "word": "fridge",
+   "def": "n.电冰箱。"
+  },
+  {
+   "word": "temporal",
+   "def": "adj.时间的, 当时的, 暂时的, 现世的, 世俗的, [解]颞的。n.世间万物, 教会财产"
+  },
+  {
+   "word": "make",
+   "def": "n. (产品)来源，制法vt. 制造，做成，准备"
+  },
+  {
+   "word": "thrust",
+   "def": "n. 猛推;冲锋,突击;推力"
+  },
+  {
+   "word": "strategic",
+   "def": "a. 战略的,战略方针的"
+  },
+  {
+   "word": "array",
+   "def": "n. 展示;一系列"
+  },
+  {
+   "word": "lunar",
+   "def": "a. 月的,似月的"
+  },
+  {
+   "word": "promote",
+   "def": "vt. 开放;促进,宣传"
+  },
+  {
+   "word": "ostentation",
+   "def": "n.卖弄, 夸耀, 摆阔, 风头主义。"
+  },
+  {
+   "word": "scandal",
+   "def": "n. 冒犯或引起反感的行动,流言,诽谤"
+  },
+  {
+   "word": "forty",
+   "def": "num./a. 四十pron. 四十(个，只…)"
+  },
+  {
+   "word": "perish",
+   "def": "vt./vi. 死亡,使痛苦;(橡胶、皮革等)失去弹性,老化"
+  },
+  {
+   "word": "heat",
+   "def": "n. 热，热度；热烈，激烈v. (给)加热，(使)变热"
+  },
+  {
+   "word": "blessing",
+   "def": "n.祝福"
+  },
+  {
+   "word": "accomplishment",
+   "def": "n.成就"
+  },
+  {
+   "word": "irony",
+   "def": "n. 反话,冷嘲,讽刺性的事件、情况等"
+  },
+  {
+   "word": "collide",
+   "def": "vi. 碰撞,互撞;冲突,抵触"
+  },
+  {
+   "word": "deplete",
+   "def": "vt. 耗尽,用尽"
+  },
+  {
+   "word": "accurate",
+   "def": "a. 正确无误的；准确的，精确的"
+  },
+  {
+   "word": "pale",
+   "def": "a. 苍白的，灰白的；浅的，暗淡的"
+  },
+  {
+   "word": "bitumen",
+   "def": "n.沥青。"
+  },
+  {
+   "word": "thoroughly",
+   "def": "adv.充分地，彻底地"
+  },
+  {
+   "word": "sympathetic",
+   "def": "a. 同情的,有同情心的"
+  },
+  {
+   "word": "refusal",
+   "def": "n. 拒绝"
+  },
+  {
+   "word": "pending",
+   "def": "adj.未决的，紧迫的"
+  },
+  {
+   "word": "eruption",
+   "def": "n.喷发，爆发"
+  },
+  {
+   "word": "haven",
+   "def": "n.港口, 避难所。"
+  },
+  {
+   "word": "place",
+   "def": "n. 地方；名次；地位；寓所v. 安排；放置；投(资)"
+  },
+  {
+   "word": "elimination",
+   "def": "n.消灭，排除，消除"
+  },
+  {
+   "word": "artillery",
+   "def": "n.炮的总称, 炮兵的总称。"
+  },
+  {
+   "word": "motorcar",
+   "def": "n.汽车"
+  },
+  {
+   "word": "tremble",
+   "def": "vi./n. 发抖,震颤"
+  },
+  {
+   "word": "impetus",
+   "def": "n.推动力, 促进。"
+  },
+  {
+   "word": "grape",
+   "def": "n. 葡萄"
+  },
+  {
+   "word": "idiosyncrasy",
+   "def": "n.特质, 特性。"
+  },
+  {
+   "word": "indemnify",
+   "def": "v.赔偿，保护"
+  },
+  {
+   "word": "frail",
+   "def": "a. 虚弱的,脆弱的"
+  },
+  {
+   "word": "persecute",
+   "def": "vt. (尤指因宗教或政治信仰不同)迫害;烦扰"
+  },
+  {
+   "word": "steer",
+   "def": "vt. 驾驶,为…操舵;引导vi. 驾驶"
+  },
+  {
+   "word": "approval",
+   "def": "n. 批准;赞同,认可"
+  },
+  {
+   "word": "conversion",
+   "def": "n. 转变，转换；信仰的改变；"
+  },
+  {
+   "word": "position",
+   "def": "n. 位置；职位；姿势，姿态；见解，立场，形势"
+  },
+  {
+   "word": "simulate",
+   "def": "vt. 假装;模仿;模拟"
+  },
+  {
+   "word": "aerodynamics",
+   "def": "n.空气动力学, 气体力学。"
+  },
+  {
+   "word": "tuck",
+   "def": "n. 缝褶 v. 打褶裥"
+  },
+  {
+   "word": "unable",
+   "def": "a.不能的，不会的"
+  },
+  {
+   "word": "caravan",
+   "def": "n.车队，大蓬车"
+  },
+  {
+   "word": "exaggeration",
+   "def": "n.夸张"
+  },
+  {
+   "word": "stencil",
+   "def": "n.复写纸，蜡纸"
+  },
+  {
+   "word": "shore",
+   "def": "n. 海滨，湖滨"
+  },
+  {
+   "word": "telegraph",
+   "def": "n. 电报机，电报v. 打电报，发电报"
+  },
+  {
+   "word": "shot",
+   "def": "n. 开枪，射击；投篮；弹丸，炮弹，子弹"
+  },
+  {
+   "word": "linear",
+   "def": "a. 线的,直线的,长度的"
+  },
+  {
+   "word": "note",
+   "def": "n. 笔记；按语，注释；钞票，纸币v. 记下，摘下"
+  },
+  {
+   "word": "pepper",
+   "def": "n. 胡椒粉，胡椒；辣椒"
+  },
+  {
+   "word": "toxic",
+   "def": "adj.有毒的, 中毒的。"
+  },
+  {
+   "word": "importer",
+   "def": "n.进口商"
+  },
+  {
+   "word": "telling",
+   "def": "adj.有效的, 明显的, 生动的。"
+  },
+  {
+   "word": "surmise",
+   "def": "v. &n.猜想，推测"
+  },
+  {
+   "word": "tendency",
+   "def": "n. 趋向,趋势"
+  },
+  {
+   "word": "nearby",
+   "def": "a. 附近的ad. 在附近prep. 在…附近"
+  },
+  {
+   "word": "flood",
+   "def": "n. 洪水，水灾v. 淹没，发大水，泛滥"
+  },
+  {
+   "word": "athlete",
+   "def": "n. 体育家,运动员"
+  },
+  {
+   "word": "additional",
+   "def": "a. 额外的，附加的，另外的"
+  },
+  {
+   "word": "inconvenient",
+   "def": "adj.不方便的"
+  },
+  {
+   "word": "enough",
+   "def": "a. (for)足够的n. 足够，充分ad. 足够地"
+  },
+  {
+   "word": "negate",
+   "def": "v.否定"
+  },
+  {
+   "word": "alight",
+   "def": "vi.落下。adj.点着的, 发亮的。"
+  },
+  {
+   "word": "vision",
+   "def": "n. 视力，视觉；远见；洞察力；幻想，幻影；想象力"
+  },
+  {
+   "word": "on",
+   "def": "a. 连接上prep. 在…上；靠近ad. 向前，继续"
+  },
+  {
+   "word": "ex",
+   "def": "prep.在交货"
+  },
+  {
+   "word": "puzzle",
+   "def": "n. 难题;谜;v. 迷惑"
+  },
+  {
+   "word": "maid",
+   "def": "n. 少女，处女，女仆"
+  },
+  {
+   "word": "weak",
+   "def": "a. 虚弱的，软弱的；不够标准的；淡薄的，稀的"
+  },
+  {
+   "word": "posture",
+   "def": "n.(身体的)姿势, 体态, 状态, 情况, 心境, 态度。v.令取某种姿势, 摆姿势, 作出姿态。"
+  },
+  {
+   "word": "botany",
+   "def": "n.植物学。"
+  },
+  {
+   "word": "allowance",
+   "def": "n. 津贴"
+  },
+  {
+   "word": "movie",
+   "def": "n. 电影，电影院"
+  },
+  {
+   "word": "roller",
+   "def": "n.滚柱，滚筒，滚轴"
+  },
+  {
+   "word": "slumber",
+   "def": "n.睡眠；沉睡状态"
+  },
+  {
+   "word": "pair",
+   "def": "n. 一对，一双；一副；夫妇v. 配对，成对"
+  }
+ ]
+}

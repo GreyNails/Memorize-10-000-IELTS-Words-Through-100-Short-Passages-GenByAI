@@ -1,0 +1,381 @@
+{
+ "id": 22,
+ "words": [
+  {
+   "word": "November",
+   "def": "n. 十一月"
+  },
+  {
+   "word": "crouch",
+   "def": "vi./n. 蹲伏"
+  },
+  {
+   "word": "moss",
+   "def": "n. 苔，藓，地衣"
+  },
+  {
+   "word": "dialect",
+   "def": "n. 方言,俚语"
+  },
+  {
+   "word": "hump",
+   "def": "n.驼峰, 驼背, 小园丘, 峰丘。v.(使)隆起, 弓起。"
+  },
+  {
+   "word": "bench",
+   "def": "n. 长凳，条凳；(工作)台，座"
+  },
+  {
+   "word": "behavior",
+   "def": "n. 行为，举止；(机器等)运转情况"
+  },
+  {
+   "word": "endeavour",
+   "def": "n.<英>尽力,竭力。"
+  },
+  {
+   "word": "environment",
+   "def": "n. 环境，外界"
+  },
+  {
+   "word": "encyclopedia",
+   "def": "n.百科全书。"
+  },
+  {
+   "word": "adore",
+   "def": "vt. 崇拜;非常喜爱"
+  },
+  {
+   "word": "puncture",
+   "def": "n.小孔。v.刺破"
+  },
+  {
+   "word": "varied",
+   "def": "adj.不同的"
+  },
+  {
+   "word": "aspiration",
+   "def": "n.热望, 渴望。"
+  },
+  {
+   "word": "homework",
+   "def": "n. (学生的)家庭作业、课外人员"
+  },
+  {
+   "word": "injustice",
+   "def": "n.不公正"
+  },
+  {
+   "word": "mistress",
+   "def": "n. 女主人；主妇；情妇，情人"
+  },
+  {
+   "word": "great",
+   "def": "a. 伟大的；重要的；大量的；很好的；美好的"
+  },
+  {
+   "word": "edible",
+   "def": "adj.可食用的。"
+  },
+  {
+   "word": "clause",
+   "def": "n. 条款;从句"
+  },
+  {
+   "word": "blink",
+   "def": "v./n. 眨眼睛,一瞥"
+  },
+  {
+   "word": "tuberculosis",
+   "def": "n.结核病，肺结核"
+  },
+  {
+   "word": "experimentation",
+   "def": "n.实验，试验；实验法"
+  },
+  {
+   "word": "devour",
+   "def": "vt. 狼吞虎咽地吃;挥霍,耗尽"
+  },
+  {
+   "word": "rapture",
+   "def": "n.狂喜，欢天喜地"
+  },
+  {
+   "word": "ration",
+   "def": "n.定量,配给量,正常量,合理的量 vt.限量供应"
+  },
+  {
+   "word": "delicious",
+   "def": "a. 美味的,可口的"
+  },
+  {
+   "word": "kin",
+   "def": "n.家属(集合称), 亲戚, 同族, 血缘关系, 家族。adj.有亲属关系的, 性质类似的, 同类的。"
+  },
+  {
+   "word": "jeep",
+   "def": "n.吉普车"
+  },
+  {
+   "word": "estate",
+   "def": "n. 房地产,财产"
+  },
+  {
+   "word": "mere",
+   "def": "a. 纯粹的；仅仅，只不过"
+  },
+  {
+   "word": "mobile",
+   "def": "a. 可动的，活动的，运动的"
+  },
+  {
+   "word": "antagonism",
+   "def": "n. 反对,不喜欢"
+  },
+  {
+   "word": "fiddle",
+   "def": "n.提琴"
+  },
+  {
+   "word": "ahead",
+   "def": "ad. 在前面(头)；向(朝)前；提前"
+  },
+  {
+   "word": "corner",
+   "def": "n.角落，拐角"
+  },
+  {
+   "word": "antagonist",
+   "def": "n.对手，敌手"
+  },
+  {
+   "word": "discretion",
+   "def": "n.慎重"
+  },
+  {
+   "word": "slot",
+   "def": "n.缝, 狭槽, 位置, 水沟, 细长的孔, 硬币投币口, 狭通道, 足迹。vt.开槽于, 跟踪。"
+  },
+  {
+   "word": "novel",
+   "def": "a. 新奇的;n. 小说"
+  },
+  {
+   "word": "village",
+   "def": "n. 村，村庄"
+  },
+  {
+   "word": "uncertain",
+   "def": "a.无常的；不确定的"
+  },
+  {
+   "word": "violet",
+   "def": "n. 紫罗兰，紫色a. 紫色的"
+  },
+  {
+   "word": "unduly",
+   "def": "adv.过分地，不适当地"
+  },
+  {
+   "word": "tool",
+   "def": "n. 工具，用具；方法，手段"
+  },
+  {
+   "word": "allegation",
+   "def": "n.主张，断言, 辩解。"
+  },
+  {
+   "word": "dishonorable",
+   "def": "adj.不名誉的"
+  },
+  {
+   "word": "visitor",
+   "def": "n. 访问者，客人，来宾，参观者"
+  },
+  {
+   "word": "aerial",
+   "def": "a. 空气的,空中的 n. (无线电)天线"
+  },
+  {
+   "word": "fire-engine",
+   "def": "n.消防车"
+  },
+  {
+   "word": "crucial",
+   "def": "adj.至关紧要的。"
+  },
+  {
+   "word": "clothe",
+   "def": "v. (给…)穿衣，供给…衣服"
+  },
+  {
+   "word": "alchemy",
+   "def": "n.炼金术, 魔力。"
+  },
+  {
+   "word": "charge",
+   "def": "v. 要价;控告,指控;冲锋;充电"
+  },
+  {
+   "word": "substantial",
+   "def": "a. 可观的,大量的;牢固的,结实的;实质的,真实的"
+  },
+  {
+   "word": "diagram",
+   "def": "n. 图解"
+  },
+  {
+   "word": "information",
+   "def": "n. 通知，报告；情报，资料，消息；信息"
+  },
+  {
+   "word": "procedure",
+   "def": "n. 过程,步骤"
+  },
+  {
+   "word": "gift",
+   "def": "n. 礼品，赠品；天赋，才能"
+  },
+  {
+   "word": "unconscious",
+   "def": "a. 不醒人事的;没有意识的"
+  },
+  {
+   "word": "cashier",
+   "def": "n. 出纳员"
+  },
+  {
+   "word": "crazy",
+   "def": "a. 疯狂的，古怪的，蠢的；(about)狂热的"
+  },
+  {
+   "word": "ad",
+   "def": "n.广告"
+  },
+  {
+   "word": "partition",
+   "def": "n.分开，分割；融墙"
+  },
+  {
+   "word": "frock",
+   "def": "n.(女)上衣，罩衫"
+  },
+  {
+   "word": "via",
+   "def": "prep. 径,由"
+  },
+  {
+   "word": "lorry",
+   "def": "n. 卡车，运货汽车"
+  },
+  {
+   "word": "lawn",
+   "def": "n. 草地,草坪"
+  },
+  {
+   "word": "manipulation",
+   "def": "n.操纵，操作"
+  },
+  {
+   "word": "oncoming",
+   "def": "adj.即将来临的, 接近的。n.来临。"
+  },
+  {
+   "word": "madness",
+   "def": "n.疯狂，疯病"
+  },
+  {
+   "word": "visa",
+   "def": "n. (护照等的)签证；维萨信用卡vt. 签证"
+  },
+  {
+   "word": "valid",
+   "def": "a. 有效的；有根据的；正当的"
+  },
+  {
+   "word": "digit",
+   "def": "n.数字"
+  },
+  {
+   "word": "future",
+   "def": "n. 将来，未来；前途，前景a. 将来的，未来的"
+  },
+  {
+   "word": "upside-down",
+   "def": "a.颠倒的，乱七八糟的"
+  },
+  {
+   "word": "present",
+   "def": "a. 出席的，现在的n. 现在，礼物v. 赠送，提出"
+  },
+  {
+   "word": "swift",
+   "def": "a. 快的,迅速的,敏捷的"
+  },
+  {
+   "word": "allow",
+   "def": "vt. 允许，准许；承认；给予；(for)考虑到"
+  },
+  {
+   "word": "thank",
+   "def": "vt. 感谢int.谢谢n.感谢(意)"
+  },
+  {
+   "word": "freshen",
+   "def": "vt.使显得新鲜"
+  },
+  {
+   "word": "chairperson",
+   "def": "n.主席(无性别之分)"
+  },
+  {
+   "word": "more",
+   "def": "a. 更多的n. 更多的人(或东西)ad. 更，更多"
+  },
+  {
+   "word": "own",
+   "def": "a. (用在所有格后面，加强语气)自己的"
+  },
+  {
+   "word": "retrieve",
+   "def": "v.重新得到。n.找回。"
+  },
+  {
+   "word": "breath",
+   "def": "n. 呼吸，气息"
+  },
+  {
+   "word": "plague",
+   "def": "n. 瘟疫;麻烦,祸患"
+  },
+  {
+   "word": "compliment",
+   "def": "n. 敬意,赞扬;问候;vt. 恭维;称赞"
+  },
+  {
+   "word": "buckle",
+   "def": "n.带扣。v.扣住, 变弯曲"
+  },
+  {
+   "word": "discovery",
+   "def": "n. 发现；被发现的事物"
+  },
+  {
+   "word": "embroidery",
+   "def": "n.绣花，刺绣；绣制品"
+  },
+  {
+   "word": "buy",
+   "def": "vt. 买，买得；向…行贿，收买vi. 购买东西"
+  },
+  {
+   "word": "projector",
+   "def": "n. 放映机，幻灯机，投影仪"
+  },
+  {
+   "word": "overcast",
+   "def": "adj.多云的"
+  }
+ ]
+}

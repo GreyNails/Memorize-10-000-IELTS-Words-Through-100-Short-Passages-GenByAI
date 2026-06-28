@@ -1,0 +1,381 @@
+{
+ "id": 32,
+ "words": [
+  {
+   "word": "surroundings",
+   "def": "n. 周围的事物，环境"
+  },
+  {
+   "word": "anecdote",
+   "def": "n. 轶事,趣闻"
+  },
+  {
+   "word": "patriot",
+   "def": "n.爱国者，爱国主义者"
+  },
+  {
+   "word": "sunny",
+   "def": "a.阳光充足的；快活的"
+  },
+  {
+   "word": "identification",
+   "def": "n. 识别，鉴别；证件；认同"
+  },
+  {
+   "word": "hallmark",
+   "def": "n.标志"
+  },
+  {
+   "word": "bowling",
+   "def": "n. 保龄球运动"
+  },
+  {
+   "word": "stagnant",
+   "def": "adj.停滞的, 迟钝的。"
+  },
+  {
+   "word": "conversation",
+   "def": "n. 会话，谈话"
+  },
+  {
+   "word": "revival",
+   "def": "n.复苏，再生"
+  },
+  {
+   "word": "tire",
+   "def": "v. (使)疲倦，(使)厌倦n. (=tyre)轮胎，车胎"
+  },
+  {
+   "word": "convict",
+   "def": "n.罪犯"
+  },
+  {
+   "word": "urgent",
+   "def": "a. 急迫的，紧要的，紧急的"
+  },
+  {
+   "word": "climactic",
+   "def": "adj.顶点的, 渐层法的, 高潮的。"
+  },
+  {
+   "word": "preferential",
+   "def": "adj.优惠的"
+  },
+  {
+   "word": "excursion",
+   "def": "n. 远足,短途旅行"
+  },
+  {
+   "word": "acquisition",
+   "def": "n. 取得，学到，养成(习惯)；获得的东西"
+  },
+  {
+   "word": "eggplant",
+   "def": "n.茄子"
+  },
+  {
+   "word": "dismiss",
+   "def": "vt. 解雇;解散;不考虑;消除"
+  },
+  {
+   "word": "classical",
+   "def": "a. 经典的，古典(文学)的"
+  },
+  {
+   "word": "female",
+   "def": "n./a. 女性(的),[语"
+  },
+  {
+   "word": "junior",
+   "def": "n. 较年幼者;a. 较年幼的,等级较低的"
+  },
+  {
+   "word": "scrape",
+   "def": "v./n. 刮,擦"
+  },
+  {
+   "word": "topmost",
+   "def": "adj.最高的, 顶端的。"
+  },
+  {
+   "word": "ornament",
+   "def": "n. 装饰;装饰物"
+  },
+  {
+   "word": "trunk",
+   "def": "n. 树干,(人)躯干,大衣箱"
+  },
+  {
+   "word": "embroider",
+   "def": "v.绣"
+  },
+  {
+   "word": "magnetic",
+   "def": "a. 磁的，有磁性的；有吸引力的"
+  },
+  {
+   "word": "nullify",
+   "def": "vt. 使无效,废弃,取消"
+  },
+  {
+   "word": "direct",
+   "def": "a./ad. 径直的(地)v. 管理，指导；(at，to)指向"
+  },
+  {
+   "word": "fortitude",
+   "def": "n.坚毅"
+  },
+  {
+   "word": "oxygen",
+   "def": "n. 氧，氧气"
+  },
+  {
+   "word": "unwelcome",
+   "def": "adj.不受欢迎的"
+  },
+  {
+   "word": "person",
+   "def": "n. 人，喜欢(或适应)…的人；人物；人称"
+  },
+  {
+   "word": "jeans",
+   "def": "n. 牛仔裤"
+  },
+  {
+   "word": "throng",
+   "def": "n. 人群,群众;vt. 群集,拥挤"
+  },
+  {
+   "word": "lazy",
+   "def": "a. 懒惰的，懒散的"
+  },
+  {
+   "word": "excrement",
+   "def": "n.排泄物, 大便。"
+  },
+  {
+   "word": "donate",
+   "def": "vt. 捐赠,捐献"
+  },
+  {
+   "word": "inclined",
+   "def": "adj.倾向于的"
+  },
+  {
+   "word": "planet",
+   "def": "n. 行星"
+  },
+  {
+   "word": "extinguish",
+   "def": "vt. 熄灭,扑灭;根除,消灭"
+  },
+  {
+   "word": "manual",
+   "def": "a. 手工的,用手的;n. 手册;便览"
+  },
+  {
+   "word": "oblige",
+   "def": "vt. 迫使;施恩于,帮…的忙;使感激"
+  },
+  {
+   "word": "finding",
+   "def": "n. 发现，发现物；(常pl. )调查/研究结果"
+  },
+  {
+   "word": "slavery",
+   "def": "n.奴隶制度；苦役"
+  },
+  {
+   "word": "heed",
+   "def": "v. &n.注意，留心"
+  },
+  {
+   "word": "print",
+   "def": "n. 印刷，印刷品，字体v. 印刷，出版；洗印"
+  },
+  {
+   "word": "assorted",
+   "def": "a. 各式各样的"
+  },
+  {
+   "word": "left",
+   "def": "n. 左面，左方a. 左边的，左面的；在左方的"
+  },
+  {
+   "word": "stall",
+   "def": "n. 分隔栏;售货摊;前排座位,畜栏,厩"
+  },
+  {
+   "word": "odds",
+   "def": "n.可能的机会, 成败的可能性, 优势, 不均, 不平等, 几率, 差别。"
+  },
+  {
+   "word": "daughter-in-law",
+   "def": "n.儿媳"
+  },
+  {
+   "word": "conceive",
+   "def": "v. 想出(主意);怀孕"
+  },
+  {
+   "word": "uniformly",
+   "def": "ad.相同地；一贯"
+  },
+  {
+   "word": "invincible",
+   "def": "adj.不能征服的, 无敌的。"
+  },
+  {
+   "word": "meanwhile",
+   "def": "n. 其时，其间ad. 当时，与此同时"
+  },
+  {
+   "word": "perhaps",
+   "def": "ad. 也许，大概，恐怕"
+  },
+  {
+   "word": "security",
+   "def": "n. 安全(感)，防御(物)，保证(人)，(pl.)证券"
+  },
+  {
+   "word": "sunshine",
+   "def": "n. 日光，日照；晴天；"
+  },
+  {
+   "word": "microeconomics",
+   "def": "n.微观经济学"
+  },
+  {
+   "word": "amusement",
+   "def": "n.娱乐，消遣，乐趣"
+  },
+  {
+   "word": "notary",
+   "def": "n.公证人"
+  },
+  {
+   "word": "peril",
+   "def": "n. (严重的)危险;危险的事物"
+  },
+  {
+   "word": "seat",
+   "def": "n. 座位，底座；所在地，场所v. 使坐下"
+  },
+  {
+   "word": "comprehensive",
+   "def": "a. 内容广泛的，总括性的，综合的"
+  },
+  {
+   "word": "prestigious",
+   "def": "adj.享有声望的, 声望很高的。"
+  },
+  {
+   "word": "content",
+   "def": "n./a./vt. 满意(的),使满意(足) n. 内容,目录"
+  },
+  {
+   "word": "render",
+   "def": "vt. 提供,报答;表演,演奏;翻译"
+  },
+  {
+   "word": "annoy",
+   "def": "vt. 使烦恼,使生气"
+  },
+  {
+   "word": "postcard",
+   "def": "n. 明信片"
+  },
+  {
+   "word": "intentional",
+   "def": "a.故意的，有意识的"
+  },
+  {
+   "word": "dispatch",
+   "def": "v./n. (=despatch)派遣,发送,迅速办理,急件"
+  },
+  {
+   "word": "peripheral",
+   "def": "a.周界的；末梢的"
+  },
+  {
+   "word": "unpaid",
+   "def": "a.未付的；不支薪水的"
+  },
+  {
+   "word": "haphazard",
+   "def": "a./ad. 杂乱的(地),任意的(地)"
+  },
+  {
+   "word": "agenda",
+   "def": "n.议程。"
+  },
+  {
+   "word": "automobile",
+   "def": "n. 汽车"
+  },
+  {
+   "word": "star",
+   "def": "n. 星；恒星；明星v. 用星号标出；扮演主角"
+  },
+  {
+   "word": "symmetric",
+   "def": "adj.对称的，匀称的"
+  },
+  {
+   "word": "day",
+   "def": "n. 天，一昼夜；白昼，白天；时期，时代"
+  },
+  {
+   "word": "chew",
+   "def": "v./n. 嚼,咀嚼"
+  },
+  {
+   "word": "scar",
+   "def": "n. 伤疤,伤痕;(喻)内心创伤"
+  },
+  {
+   "word": "dictation",
+   "def": "n. 听写，口述；命令"
+  },
+  {
+   "word": "rob",
+   "def": "v. (of)抢劫，盗取；非法剥夺"
+  },
+  {
+   "word": "mixer",
+   "def": "n.混合者，搅拌器"
+  },
+  {
+   "word": "advertise",
+   "def": "v. 做广告"
+  },
+  {
+   "word": "perspective",
+   "def": "n. 透视,透视画法;视角,观点"
+  },
+  {
+   "word": "incur",
+   "def": "vt. 招致,遭受"
+  },
+  {
+   "word": "ingenious",
+   "def": "a. 设计独特的;别致的,巧妙的;灵巧的"
+  },
+  {
+   "word": "compact",
+   "def": "a./n. 紧密的,紧凑的;合同"
+  },
+  {
+   "word": "jerk",
+   "def": "vt.猛地一拉vi.急拉"
+  },
+  {
+   "word": "duke",
+   "def": "n.公爵，君主；手"
+  },
+  {
+   "word": "instruction",
+   "def": "n. 教授；指导；(pl.)用法说明(书)，操作指南"
+  }
+ ]
+}

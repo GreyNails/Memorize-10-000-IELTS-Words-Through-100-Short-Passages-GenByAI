@@ -1,0 +1,381 @@
+{
+ "id": 60,
+ "words": [
+  {
+   "word": "coral",
+   "def": "n.珊瑚, 珊瑚虫。"
+  },
+  {
+   "word": "popularity",
+   "def": "n.通俗性；普及，流行"
+  },
+  {
+   "word": "appraisal",
+   "def": "n.评价, 估价(尤指估价财产,以便征税), 鉴定。"
+  },
+  {
+   "word": "navel",
+   "def": "n.脐，中心"
+  },
+  {
+   "word": "slight",
+   "def": "a. 轻微的,不足道的;纤细的,瘦弱的;vt./n. 轻视,藐视"
+  },
+  {
+   "word": "notable",
+   "def": "a. 值得注意的,著名的;可觉察的;n. 名人,要人"
+  },
+  {
+   "word": "splendid",
+   "def": "a. 壮丽的,辉煌的"
+  },
+  {
+   "word": "knot",
+   "def": "n. 绳结;结合;树节;海里;小群人;v. 打结"
+  },
+  {
+   "word": "reluctant",
+   "def": "a. 不愿的,勉强的"
+  },
+  {
+   "word": "tank",
+   "def": "n. 罐，槽，箱；坦克vt. 储于槽中"
+  },
+  {
+   "word": "dwindle",
+   "def": "v.缩小。"
+  },
+  {
+   "word": "forever",
+   "def": "adv. 永远；总是"
+  },
+  {
+   "word": "theatre",
+   "def": "n.戏院；戏剧；教室"
+  },
+  {
+   "word": "earnings",
+   "def": "n.工资，收入；收益"
+  },
+  {
+   "word": "sleepy",
+   "def": "a.想睡的；寂静的"
+  },
+  {
+   "word": "fortress",
+   "def": "n.堡垒，要塞"
+  },
+  {
+   "word": "shelf",
+   "def": "n. 架子，搁板"
+  },
+  {
+   "word": "inveterate",
+   "def": "adj.根深的, 成癖的。"
+  },
+  {
+   "word": "aloud",
+   "def": "adv. 出声地，大声地"
+  },
+  {
+   "word": "coastal",
+   "def": "adj.沿海的"
+  },
+  {
+   "word": "train",
+   "def": "n. 列车；行列，系列，一串v. 训练，培养"
+  },
+  {
+   "word": "fake",
+   "def": "n. 假货,骗子;vt. 伪造"
+  },
+  {
+   "word": "strap",
+   "def": "n. 带;皮带;vt. 用带束住;捆扎"
+  },
+  {
+   "word": "haste",
+   "def": "n. 匆忙，急速；草率v. 赶快；匆忙"
+  },
+  {
+   "word": "organism",
+   "def": "n. 生物,有机体,有机的组织"
+  },
+  {
+   "word": "curriculum vitae",
+   "def": "n.履历, 简历。"
+  },
+  {
+   "word": "acre",
+   "def": "n. 英亩；田地；地产"
+  },
+  {
+   "word": "animation",
+   "def": "n.生气，生机"
+  },
+  {
+   "word": "about",
+   "def": "ad. 在周围；大约prep. 关于；在周围a. 准备"
+  },
+  {
+   "word": "immerse",
+   "def": "vt. 沉浸,沉浸于;使陷入"
+  },
+  {
+   "word": "counselor",
+   "def": "n.顾问, 法律顾问。"
+  },
+  {
+   "word": "bough",
+   "def": "n.树枝"
+  },
+  {
+   "word": "neat",
+   "def": "a. 整洁的;雅致的;灵巧的;纯的;不掺水的"
+  },
+  {
+   "word": "select",
+   "def": "v. 选择，挑选a. 精选的，选择的"
+  },
+  {
+   "word": "stern",
+   "def": "a. 严厉的,严格的;n. 船尾"
+  },
+  {
+   "word": "December",
+   "def": "n. 十二月"
+  },
+  {
+   "word": "chamber",
+   "def": "n. 房间;议院;贸易团体;弹膛"
+  },
+  {
+   "word": "exertion",
+   "def": "n.尽力，竭力"
+  },
+  {
+   "word": "pork",
+   "def": "n. 猪肉"
+  },
+  {
+   "word": "seniority",
+   "def": "n.资历。"
+  },
+  {
+   "word": "twilight",
+   "def": "n. 曙光,黎明,黄昏"
+  },
+  {
+   "word": "Arabian",
+   "def": "a.阿拉伯的"
+  },
+  {
+   "word": "thanks",
+   "def": "n.感谢 int.谢谢"
+  },
+  {
+   "word": "strand",
+   "def": "n.(绳)股，缕"
+  },
+  {
+   "word": "ventilation",
+   "def": "n.通风"
+  },
+  {
+   "word": "share",
+   "def": "v. (with)分配，共用；分担n. 一份，份额；股份"
+  },
+  {
+   "word": "auxiliary",
+   "def": "a. 辅助的,协助的"
+  },
+  {
+   "word": "means",
+   "def": "n. 方法，手段"
+  },
+  {
+   "word": "lark",
+   "def": "n.云雀，百灵鸟"
+  },
+  {
+   "word": "degradation",
+   "def": "n.降级；退化；衰变"
+  },
+  {
+   "word": "aside",
+   "def": "ad. 在旁边，到一边n. 旁白；离题的话"
+  },
+  {
+   "word": "vinegar",
+   "def": "n. 醋"
+  },
+  {
+   "word": "depression",
+   "def": "n.消沉；不景气萧条期"
+  },
+  {
+   "word": "occurrence",
+   "def": "n. 发生，出现；事件，事故，发生的事情"
+  },
+  {
+   "word": "respond",
+   "def": "v. 回答，响应，作出反应"
+  },
+  {
+   "word": "airplane",
+   "def": "n. (美)飞机"
+  },
+  {
+   "word": "brainstorm",
+   "def": "n.灵机一动。v.集体讨论"
+  },
+  {
+   "word": "outlaw",
+   "def": "n. 被剥夺公民权者;vt. 禁止"
+  },
+  {
+   "word": "to",
+   "def": "prep. (表示方向)到；向；(表示间接关系)给."
+  },
+  {
+   "word": "optical",
+   "def": "a. 光(学)的;眼的,视力的;视觉的"
+  },
+  {
+   "word": "Christ",
+   "def": "n. 基督，救世主，耶稣"
+  },
+  {
+   "word": "deeply",
+   "def": "adv.深深的，深切地"
+  },
+  {
+   "word": "incentive",
+   "def": "n. 刺激；动力；鼓励；诱因；动机"
+  },
+  {
+   "word": "index",
+   "def": "n. 索引v. 附以索引"
+  },
+  {
+   "word": "ensure",
+   "def": "v. 确保，保证；使安全"
+  },
+  {
+   "word": "transformer",
+   "def": "n.变压器，转换器"
+  },
+  {
+   "word": "chief",
+   "def": "n. 领袖;部门主任;a. 主要的,首席的"
+  },
+  {
+   "word": "acidity",
+   "def": "n.酸度, 酸性, [医]酸过多, 胃酸过多。"
+  },
+  {
+   "word": "regular",
+   "def": "a. 有规律的；整齐的，匀称的，正规的，正式的"
+  },
+  {
+   "word": "across",
+   "def": "prep. 横过，越过；在的对面ad. 横过，穿过"
+  },
+  {
+   "word": "Brazilian",
+   "def": "adj. &n.巴西的(人)"
+  },
+  {
+   "word": "clinic",
+   "def": "n. 诊所,门诊所"
+  },
+  {
+   "word": "morality",
+   "def": "n. 道德,美德;伦理体系"
+  },
+  {
+   "word": "municipal",
+   "def": "a. 市的;市政的"
+  },
+  {
+   "word": "scholar",
+   "def": "n. 学者"
+  },
+  {
+   "word": "aptitude",
+   "def": "n.才智，天资"
+  },
+  {
+   "word": "sixty",
+   "def": "num.六十，六十个"
+  },
+  {
+   "word": "maker",
+   "def": "n.制造者，制造商"
+  },
+  {
+   "word": "quiet",
+   "def": "a. 安静的，平静的n. 安静v. 使安静，平静"
+  },
+  {
+   "word": "people",
+   "def": "n. 人们，人；[the -"
+  },
+  {
+   "word": "take-off",
+   "def": "n.起飞"
+  },
+  {
+   "word": "school",
+   "def": "n. 学校，(大学里的)学院；上学，学业；学派"
+  },
+  {
+   "word": "supper",
+   "def": "n. 晚餐"
+  },
+  {
+   "word": "sunlight",
+   "def": "n.日光，阳光"
+  },
+  {
+   "word": "parlor",
+   "def": "n.客厅,休息室,<美>店"
+  },
+  {
+   "word": "sluggish",
+   "def": "adj.行动迟缓的。"
+  },
+  {
+   "word": "shipwreck",
+   "def": "n.船舶失事"
+  },
+  {
+   "word": "asset",
+   "def": "n.资产, 有用的东西。"
+  },
+  {
+   "word": "mind",
+   "def": "n. 精神，理智，意见，记忆力v. 注意，介意，反对"
+  },
+  {
+   "word": "unjust",
+   "def": "a.非正义的；不公平的"
+  },
+  {
+   "word": "postman",
+   "def": "n. 邮递员"
+  },
+  {
+   "word": "merely",
+   "def": "adv. 仅仅，只不过"
+  },
+  {
+   "word": "leopard",
+   "def": "n.豹"
+  },
+  {
+   "word": "feather",
+   "def": "n. 羽毛"
+  }
+ ]
+}

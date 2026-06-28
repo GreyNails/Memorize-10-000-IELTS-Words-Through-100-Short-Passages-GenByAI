@@ -1,0 +1,377 @@
+{
+ "id": 93,
+ "words": [
+  {
+   "word": "fractionally",
+   "def": "adv 极少地；微小地。"
+  },
+  {
+   "word": "foresee",
+   "def": "vt. 预见,预知"
+  },
+  {
+   "word": "computerize",
+   "def": "v.使计算机化"
+  },
+  {
+   "word": "breakdown",
+   "def": "n. 损坏;故障;垮下来;会谈破裂"
+  },
+  {
+   "word": "main",
+   "def": "a. 主要的，总的n. 总管道；干线"
+  },
+  {
+   "word": "remittance",
+   "def": "n. 汇款(海外),汇款额"
+  },
+  {
+   "word": "lip",
+   "def": "n. 嘴唇"
+  },
+  {
+   "word": "round",
+   "def": "a. 圆的prep. 围绕ad. 在周围v. 绕行n. (一)回合"
+  },
+  {
+   "word": "scissors",
+   "def": "n. 剪刀"
+  },
+  {
+   "word": "unicorn",
+   "def": "n.独角兽, 麒麟。"
+  },
+  {
+   "word": "toad",
+   "def": "n.蟾蜍，癞蛤蟆"
+  },
+  {
+   "word": "grammatical",
+   "def": "a.语法上的"
+  },
+  {
+   "word": "rapid",
+   "def": "a. 快，急速的n. (pl.)急流，湍滩"
+  },
+  {
+   "word": "criminal",
+   "def": "a. 犯罪的,刑事上的 n. 罪犯"
+  },
+  {
+   "word": "huddle",
+   "def": "v.拥挤, 卷缩, 草率从事, 挤作一团。n.杂乱的一堆, 拥挤"
+  },
+  {
+   "word": "civilian",
+   "def": "n.平民, 公务员, 文官。adj.民间的, 民用的。"
+  },
+  {
+   "word": "utilize",
+   "def": "vt. 利用"
+  },
+  {
+   "word": "displease",
+   "def": "vt.使不愉快，使生气"
+  },
+  {
+   "word": "disuse",
+   "def": "v. &n.废止"
+  },
+  {
+   "word": "blond",
+   "def": "n.白肤金发碧眼的人"
+  },
+  {
+   "word": "carving",
+   "def": "n.雕塑"
+  },
+  {
+   "word": "story",
+   "def": "n. 故事，传说，小说；(=storey)楼层"
+  },
+  {
+   "word": "procession",
+   "def": "n. 队伍，行列"
+  },
+  {
+   "word": "bumpy",
+   "def": "adj.颠簸不平的"
+  },
+  {
+   "word": "counsel",
+   "def": "n. 忠告,劝告;评议;律师;vt. 忠告,劝告"
+  },
+  {
+   "word": "somewhere",
+   "def": "ad. 某地，在某处；在附近，前后，大约"
+  },
+  {
+   "word": "idol",
+   "def": "n.偶像，被崇拜的人"
+  },
+  {
+   "word": "biography",
+   "def": "n. 传记,传记文学"
+  },
+  {
+   "word": "exhilarate",
+   "def": "vt.使高兴, 使愉快。"
+  },
+  {
+   "word": "ninth",
+   "def": "num.第九；九分之一"
+  },
+  {
+   "word": "rivet",
+   "def": "n.铆钉。v.固定。"
+  },
+  {
+   "word": "sound",
+   "def": "n. 声音v. 发声，响a. 健全的，完好的；正当的"
+  },
+  {
+   "word": "skim",
+   "def": "vt. 浏览,略读,掠过,抹去"
+  },
+  {
+   "word": "killer",
+   "def": "n.杀人者，杀手"
+  },
+  {
+   "word": "afternoon",
+   "def": "n. 下午，午后"
+  },
+  {
+   "word": "confirm",
+   "def": "vt. 证实;确认;批准"
+  },
+  {
+   "word": "stitch",
+   "def": "n. 缝纫;缝线;(肋部)突然剧痛"
+  },
+  {
+   "word": "umbrella",
+   "def": "n. 伞"
+  },
+  {
+   "word": "legal",
+   "def": "a. 法律的"
+  },
+  {
+   "word": "boarding",
+   "def": "n.伙食"
+  },
+  {
+   "word": "bathroom",
+   "def": "n. 浴室；盥洗室，卫生间"
+  },
+  {
+   "word": "interview",
+   "def": "v./n. 接见，会见；采访；面试"
+  },
+  {
+   "word": "dean",
+   "def": "n. (大学)院长,系主任,教务长"
+  },
+  {
+   "word": "aim",
+   "def": "n. 目的；瞄准vi. (at)目的在于vt. 把…瞄准"
+  },
+  {
+   "word": "loyalty",
+   "def": "n. 忠诚，忠心"
+  },
+  {
+   "word": "eve",
+   "def": "n. (节日等的)前夜，前夕"
+  },
+  {
+   "word": "overture",
+   "def": "n.建议。"
+  },
+  {
+   "word": "gravitation",
+   "def": "n.地心吸力, 引力作用。"
+  },
+  {
+   "word": "limestone",
+   "def": "n.石灰石"
+  },
+  {
+   "word": "fatigue",
+   "def": "n./vt. 疲劳,(金属)疲劳,杂役"
+  },
+  {
+   "word": "conclude",
+   "def": "v. 结束，终止；断定，下结论；缔结，议定"
+  },
+  {
+   "word": "justifiable",
+   "def": "adj.有理由的"
+  },
+  {
+   "word": "top",
+   "def": "n. 顶，顶端；首位；顶点a. 最高的；顶上的"
+  },
+  {
+   "word": "invigilate",
+   "def": "vi.看守, 监考。"
+  },
+  {
+   "word": "sprawl",
+   "def": "n.四肢伸开的躺卧姿势, 蔓生。v.四肢伸开地坐(或卧), 爬行, 蔓生, 蔓延。"
+  },
+  {
+   "word": "fussy",
+   "def": "adj.爱大惊小怪的"
+  },
+  {
+   "word": "fall",
+   "def": "v. 跌倒；下降；减弱；坠落；变成，陷于n. 秋季"
+  },
+  {
+   "word": "expect",
+   "def": "v. 预期；期望，指望"
+  },
+  {
+   "word": "crow",
+   "def": "n. 乌鸦v./n. 鸡啼，鸣叫"
+  },
+  {
+   "word": "melon",
+   "def": "n. 甜瓜"
+  },
+  {
+   "word": "far",
+   "def": "a./ad. 远，久远，遥远ad. 到…程度，…得多"
+  },
+  {
+   "word": "cubism",
+   "def": "n.立体主义"
+  },
+  {
+   "word": "guidance",
+   "def": "n. 引导，指导"
+  },
+  {
+   "word": "ice-cream",
+   "def": "n. 冰淇淋"
+  },
+  {
+   "word": "male",
+   "def": "n./a. 男性(的)，雄性(的)"
+  },
+  {
+   "word": "insufficient",
+   "def": "a.不足的；不适当的"
+  },
+  {
+   "word": "secretariat",
+   "def": "n.秘书处"
+  },
+  {
+   "word": "only",
+   "def": "ad. 仅仅，只不过a. 唯一的conj. 可是，不过"
+  },
+  {
+   "word": "motto",
+   "def": "n. 座右铭,箴言"
+  },
+  {
+   "word": "regulation",
+   "def": "n. 规则，规章；调节，校准；调整"
+  },
+  {
+   "word": "notoriety",
+   "def": "n.恶名, 丑名, 声名狼藉, 远扬的名声。"
+  },
+  {
+   "word": "tremor",
+   "def": "n.震动, 颤动。vi.震颤, 战栗。"
+  },
+  {
+   "word": "smuggling",
+   "def": "n.走私"
+  },
+  {
+   "word": "patriotism",
+   "def": "n. 爱国主义,民族主义"
+  },
+  {
+   "word": "make-shift",
+   "def": "adj.临时的n.权宜之计"
+  },
+  {
+   "word": "his",
+   "def": "pron.他的(所有物)"
+  },
+  {
+   "word": "properly",
+   "def": "ad.适当地；彻底地"
+  },
+  {
+   "word": "glance",
+   "def": "v. (at，over)扫视n. 匆匆看，一瞥，一眼"
+  },
+  {
+   "word": "liable",
+   "def": "a. 有…倾向的;可能遭受…的;有责任的,有义务的"
+  },
+  {
+   "word": "come",
+   "def": "v. 来；出现于，产生；是，成为；开始，终于"
+  },
+  {
+   "word": "alluvial",
+   "def": "adj.冲积的, 淤积的。"
+  },
+  {
+   "word": "Saturn",
+   "def": "n.农神；土星"
+  },
+  {
+   "word": "stirring",
+   "def": "adj.动人的,萌动的"
+  },
+  {
+   "word": "soil",
+   "def": "n. 泥土;v. 弄脏"
+  },
+  {
+   "word": "herbalist",
+   "def": "n.草药医生。5h。:bElIst;"
+  },
+  {
+   "word": "virtual",
+   "def": "a. 实际上的，事实上的"
+  },
+  {
+   "word": "vex",
+   "def": "vt. 使烦恼,使苦恼"
+  },
+  {
+   "word": "heroine",
+   "def": "n. 女英雄；女主角"
+  },
+  {
+   "word": "clan",
+   "def": "n.部落, 氏族, 宗族, 党派。"
+  },
+  {
+   "word": "faint",
+   "def": "a. 微弱的;不清楚的;n./vi. 昏晕"
+  },
+  {
+   "word": "therefrom",
+   "def": "adv.由此"
+  },
+  {
+   "word": "adverse",
+   "def": "a. 不利的;逆的;(天气)恶劣的"
+  },
+  {
+   "word": "investigate",
+   "def": "vt. 调查,调查研究"
+  }
+ ]
+}

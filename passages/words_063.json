@@ -1,0 +1,381 @@
+{
+ "id": 63,
+ "words": [
+  {
+   "word": "hotelling",
+   "def": "n.旅馆业"
+  },
+  {
+   "word": "probation",
+   "def": "n.试用, 见习, 鉴定, 查验, 证明, 察看, 缓刑。"
+  },
+  {
+   "word": "fulfillment",
+   "def": "n.完成，成就"
+  },
+  {
+   "word": "contract",
+   "def": "n. 合同,契约;v. 缔结;负(债); 感染(疾病);使皱缩"
+  },
+  {
+   "word": "widow",
+   "def": "n. 寡妇"
+  },
+  {
+   "word": "inland",
+   "def": "a. 内地的,内陆的;ad. 在内地,向内地"
+  },
+  {
+   "word": "pinpoint",
+   "def": "n.精确。adj.极微小的。v.查明。"
+  },
+  {
+   "word": "evade",
+   "def": "v.规避, 逃避, 躲避。"
+  },
+  {
+   "word": "occident",
+   "def": "n.西方,欧美"
+  },
+  {
+   "word": "should",
+   "def": "aux./v. 应该；万一；可能，该；就；竟然会"
+  },
+  {
+   "word": "mermaid",
+   "def": "n.美人鱼"
+  },
+  {
+   "word": "grocery",
+   "def": "n.食品杂货店"
+  },
+  {
+   "word": "beautician",
+   "def": "n.美容师。"
+  },
+  {
+   "word": "abound",
+   "def": "vi.多, 大量存在, 富于, 充满。"
+  },
+  {
+   "word": "leak",
+   "def": "n. 漏洞,泄漏"
+  },
+  {
+   "word": "effort",
+   "def": "n. 努力；成就；艰难的尝试"
+  },
+  {
+   "word": "hoe",
+   "def": "vt.&vi.锄地"
+  },
+  {
+   "word": "grave",
+   "def": "a. 严重的;严肃的,庄重的;n. 墓"
+  },
+  {
+   "word": "exist",
+   "def": "v. 存在；生存；生活"
+  },
+  {
+   "word": "obscene",
+   "def": "adj.淫秽的, 猥亵的。"
+  },
+  {
+   "word": "detour",
+   "def": "v.绕道，绕开"
+  },
+  {
+   "word": "restorative",
+   "def": "adj.有助于复元的。n.滋补剂"
+  },
+  {
+   "word": "fitness",
+   "def": "n.适当，恰当；健康"
+  },
+  {
+   "word": "psychological",
+   "def": "a.心理的，心理学的"
+  },
+  {
+   "word": "merchant",
+   "def": "n. 商人，零售商"
+  },
+  {
+   "word": "author",
+   "def": "n. 作者，作家，著作人；创始人，发起人"
+  },
+  {
+   "word": "stand",
+   "def": "vi. 站立；位于；经受n. 台，座；货摊；立场"
+  },
+  {
+   "word": "tissue",
+   "def": "n. 生理组织;薄纸,棉纸;织物;一套,一连串"
+  },
+  {
+   "word": "forefather",
+   "def": "n.祖先，先辈"
+  },
+  {
+   "word": "valley",
+   "def": "n. (山)谷；流域"
+  },
+  {
+   "word": "denounce",
+   "def": "vt. 谴责,斥责"
+  },
+  {
+   "word": "vortex",
+   "def": "n.旋涡, 旋风, 涡流, (动乱, 争论等的)中心。"
+  },
+  {
+   "word": "trench",
+   "def": "n./v. (挖)沟，(挖)战壕"
+  },
+  {
+   "word": "cap",
+   "def": "n. 便帽，军帽；盖，罩，套v. 覆盖于…顶端"
+  },
+  {
+   "word": "passionate",
+   "def": "adj.多情的，热烈的"
+  },
+  {
+   "word": "fence",
+   "def": "n. 篱笆；围栏；剑术v. 用篱笆瓦围住；击剑"
+  },
+  {
+   "word": "whatever",
+   "def": "pron. 无论什么a. 无论什么样的"
+  },
+  {
+   "word": "owe",
+   "def": "vt./vi 欠债,感激,由于"
+  },
+  {
+   "word": "earth",
+   "def": "n. 地球；陆地；泥土，土壤；尘世，人间"
+  },
+  {
+   "word": "smoking",
+   "def": "n.抽烟"
+  },
+  {
+   "word": "carp",
+   "def": "n.鲤鱼。vi.吹毛求疵。"
+  },
+  {
+   "word": "writing",
+   "def": "n. 写，写作；著作，作品"
+  },
+  {
+   "word": "burnt",
+   "def": "adj.烧焦的，烧坏的"
+  },
+  {
+   "word": "offspring",
+   "def": "n. 子孙后代,动物的幼仔"
+  },
+  {
+   "word": "brush",
+   "def": "n. 刷(子)，毛刷；画笔v. 刷，擦，掸，拂；掠过"
+  },
+  {
+   "word": "reinforce",
+   "def": "vt. 加强;加固"
+  },
+  {
+   "word": "detective",
+   "def": "n. 侦探"
+  },
+  {
+   "word": "arms",
+   "def": "n.武器"
+  },
+  {
+   "word": "fold",
+   "def": "v. 折叠；合拢；抱住n. 褶，褶痕；羊栏；信徒"
+  },
+  {
+   "word": "buzzword",
+   "def": "强意词 buzzing。"
+  },
+  {
+   "word": "beginning",
+   "def": "n. 开始，开端；起源，早期阶段"
+  },
+  {
+   "word": "new",
+   "def": "a. 新(近)的；新来的；不熟悉的；没经验的"
+  },
+  {
+   "word": "imprisonment",
+   "def": "n.监禁，徒刑"
+  },
+  {
+   "word": "demolition",
+   "def": "n.拆除"
+  },
+  {
+   "word": "sweet",
+   "def": "a. 甜的；可爱的，美好的n. (常pl. )糖果；甜食"
+  },
+  {
+   "word": "sympathize",
+   "def": "v. (with)同情；共鸣，同感；赞成"
+  },
+  {
+   "word": "discord",
+   "def": "n.不一致, 意见不合, 嘈杂声, [音乐] 不和谐。v.不和"
+  },
+  {
+   "word": "secretion",
+   "def": "n.分泌, 分泌物(液)。"
+  },
+  {
+   "word": "eccentricity",
+   "def": "n.怪僻"
+  },
+  {
+   "word": "cigarette",
+   "def": "n. 香烟，纸烟，卷烟"
+  },
+  {
+   "word": "inspector",
+   "def": "n.检查员；巡官"
+  },
+  {
+   "word": "reside",
+   "def": "vi.居住，驻扎；属于"
+  },
+  {
+   "word": "diagnosis",
+   "def": "n.诊断"
+  },
+  {
+   "word": "respectable",
+   "def": "a.可敬的；人格高尚的"
+  },
+  {
+   "word": "epidemic",
+   "def": "a. (疾病)流行性的,传染的 n. 流行病"
+  },
+  {
+   "word": "kingdom",
+   "def": "n. 王国，领域"
+  },
+  {
+   "word": "army",
+   "def": "n. 军队，陆军，军；大群，大批"
+  },
+  {
+   "word": "congress",
+   "def": "n. 代表会议,(C-)(美国等)议会"
+  },
+  {
+   "word": "congratulate",
+   "def": "v. (on)祝贺，向…致贺词"
+  },
+  {
+   "word": "shimmer",
+   "def": "n.微光。"
+  },
+  {
+   "word": "manifest",
+   "def": "a. 明白的,明显的;vt. 显示,出现"
+  },
+  {
+   "word": "choir",
+   "def": "n.唱诗班, 唱诗班的席位。"
+  },
+  {
+   "word": "frown",
+   "def": "vi./n. 皱眉,不赞成"
+  },
+  {
+   "word": "vulnerability",
+   "def": "n.易损性"
+  },
+  {
+   "word": "maiden",
+   "def": "n.(文学)少女,未嫁女子; a. 未婚女子的,初次的,处女的"
+  },
+  {
+   "word": "pedestal",
+   "def": "n.基架, 底座, 基础。vt.加座, 搁在台上, 支持"
+  },
+  {
+   "word": "ephemeral",
+   "def": "adj.朝生暮死的, 短暂的, 短命的。"
+  },
+  {
+   "word": "now",
+   "def": "ad. 现在，如今，目前；当时，于是，然后"
+  },
+  {
+   "word": "lewd",
+   "def": "adj.淫荡的, 猥亵的, 下流的。"
+  },
+  {
+   "word": "consider",
+   "def": "v. 考虑，细想；体谅，顾及；认为，把…看作"
+  },
+  {
+   "word": "crimson",
+   "def": "adj. &n.深红色(的)"
+  },
+  {
+   "word": "probability",
+   "def": "n. 可能性，或然性，概率"
+  },
+  {
+   "word": "generous",
+   "def": "a. 慷慨的;丰盛的;厚的,宽宏大量的;大量的,丰富的"
+  },
+  {
+   "word": "bankruptcy",
+   "def": "n.破产。"
+  },
+  {
+   "word": "entrance",
+   "def": "n. 入口，门口；进入；入学，入会vt. 使某人(着魔般)狂喜, 着迷"
+  },
+  {
+   "word": "defy",
+   "def": "v. (公然)违抗，反抗；蔑视"
+  },
+  {
+   "word": "proficiency",
+   "def": "n. 熟练,进步"
+  },
+  {
+   "word": "alkali",
+   "def": "n.[化]碱。adj.碱性的。"
+  },
+  {
+   "word": "remainder",
+   "def": "n. 剩余物，剩下的；余数，余项"
+  },
+  {
+   "word": "quarter",
+   "def": "n. 四分之一；季；一刻钟；(pl.)方向；(pl.)住处"
+  },
+  {
+   "word": "skating",
+   "def": "n.滑冰，溜冰"
+  },
+  {
+   "word": "binding",
+   "def": "n.装订"
+  },
+  {
+   "word": "frequency",
+   "def": "n. 频率，周率"
+  },
+  {
+   "word": "wealth",
+   "def": "n. 财富，财产；大量"
+  }
+ ]
+}

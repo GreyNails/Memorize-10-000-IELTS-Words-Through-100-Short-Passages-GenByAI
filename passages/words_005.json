@@ -1,0 +1,381 @@
+{
+ "id": 5,
+ "words": [
+  {
+   "word": "presentation",
+   "def": "n. 赠送;提出;显示;描述"
+  },
+  {
+   "word": "bandit",
+   "def": "n.土匪，盗匪，歹徒"
+  },
+  {
+   "word": "betray",
+   "def": "vt. 背叛,泄漏,暴露,表现"
+  },
+  {
+   "word": "shear",
+   "def": "v. 剪，修剪"
+  },
+  {
+   "word": "ensemble",
+   "def": "n.<法>全体, [音]合唱曲, 全体演出者。"
+  },
+  {
+   "word": "lioness",
+   "def": "n.母狮子"
+  },
+  {
+   "word": "sorry",
+   "def": "a. 对不起，抱歉的；难过，悔恨的；使人伤心"
+  },
+  {
+   "word": "arrest",
+   "def": "n. 逮捕，扣留vt. 逮捕，扣留；阻止；吸引"
+  },
+  {
+   "word": "shampoo",
+   "def": "n. 洗发膏，香波；洗发，洗头v. 洗发，洗头"
+  },
+  {
+   "word": "ineffectiveness",
+   "def": "n.低效率"
+  },
+  {
+   "word": "eighty",
+   "def": "num./a. 八十pron. 八十(个，只…)"
+  },
+  {
+   "word": "escalator",
+   "def": "n.电动扶梯"
+  },
+  {
+   "word": "fork",
+   "def": "n. 叉，耙；叉形物；餐叉"
+  },
+  {
+   "word": "emancipation",
+   "def": "n.解放"
+  },
+  {
+   "word": "boxing",
+   "def": "n.拳击"
+  },
+  {
+   "word": "malaise",
+   "def": "n.不舒服"
+  },
+  {
+   "word": "scope",
+   "def": "n. (活动)范围；机会，余地"
+  },
+  {
+   "word": "smoke",
+   "def": "n. 烟，烟尘；吸烟，抽烟v. 抽(烟)；冒烟，冒气"
+  },
+  {
+   "word": "illegal",
+   "def": "a. 不合法的，非法的"
+  },
+  {
+   "word": "cruise",
+   "def": "v. 巡航;以节省燃料的速度前进;n. 乘船巡游"
+  },
+  {
+   "word": "reproduction",
+   "def": "n.再生(产)；繁殖"
+  },
+  {
+   "word": "click",
+   "def": "v.发出滴答声。n.滴答声。"
+  },
+  {
+   "word": "polar",
+   "def": "a. 两极的，极地的，南辕北辙的n. 极线，极面"
+  },
+  {
+   "word": "dump",
+   "def": "n. 垃圾站,军需品堆集处 vt. 倒垃圾,随便抛弃,倾销"
+  },
+  {
+   "word": "skyrocket",
+   "def": "v.猛涨"
+  },
+  {
+   "word": "showroom",
+   "def": "n.展室，陈列室"
+  },
+  {
+   "word": "member",
+   "def": "n. 成员，会员"
+  },
+  {
+   "word": "hunger",
+   "def": "n./v. 饥饿；渴望"
+  },
+  {
+   "word": "scold",
+   "def": "vt./vi. 责骂,申斥"
+  },
+  {
+   "word": "thirst",
+   "def": "vi./n. 渴;渴望"
+  },
+  {
+   "word": "resignation",
+   "def": "n.放弃，辞职，反抗"
+  },
+  {
+   "word": "voluntary",
+   "def": "a. 自愿的,志愿的;有意的"
+  },
+  {
+   "word": "notification",
+   "def": "n.通知(书)，布告"
+  },
+  {
+   "word": "skirt",
+   "def": "n. 裙子；边缘，郊区"
+  },
+  {
+   "word": "shrub",
+   "def": "n. 灌木,灌木丛"
+  },
+  {
+   "word": "commit",
+   "def": "vt. 犯(罪),干(坏事);使(自己)承担义务,作出保证,承诺;把…交托给"
+  },
+  {
+   "word": "digestion",
+   "def": "n.消化"
+  },
+  {
+   "word": "purity",
+   "def": "n. 纯净,纯洁"
+  },
+  {
+   "word": "bias",
+   "def": "n./vt. 偏见;嗜好;偏倚"
+  },
+  {
+   "word": "better",
+   "def": "a. 较好的ad. 更好(地)v. 改良n. 较佳者"
+  },
+  {
+   "word": "sight",
+   "def": "n. 视力；望见，瞥见；视域；眼界；情景，奇观"
+  },
+  {
+   "word": "pie",
+   "def": "n. 馅饼"
+  },
+  {
+   "word": "delete",
+   "def": "vt. 删除(文字),擦去(字迹)"
+  },
+  {
+   "word": "back",
+   "def": "a. 后面的ad. 向后v. 倒退；支持n. 背；后面"
+  },
+  {
+   "word": "detach",
+   "def": "vt. 使分开,拆卸;派遣"
+  },
+  {
+   "word": "vest",
+   "def": "n. 背心，马甲；汗衫，内衣"
+  },
+  {
+   "word": "have",
+   "def": "v. 有，具有；体会，经受；从事；使；吃，喝"
+  },
+  {
+   "word": "defeat",
+   "def": "v.击败n.失败"
+  },
+  {
+   "word": "angle",
+   "def": "n. 角，角度v. 钓鱼；(采用各种方法)取得"
+  },
+  {
+   "word": "cock",
+   "def": "n. 公鸡，雄鸡；龙头，开关"
+  },
+  {
+   "word": "easy-going",
+   "def": "adj.逍遥自在的"
+  },
+  {
+   "word": "berry",
+   "def": "n.浆果(如草莓等)"
+  },
+  {
+   "word": "slander",
+   "def": "n./vt. 诽谤,污蔑"
+  },
+  {
+   "word": "clothing",
+   "def": "n. 服装，被褥"
+  },
+  {
+   "word": "air-conditioning",
+   "def": "n. 空调，空调系统。空调机"
+  },
+  {
+   "word": "poverty",
+   "def": "n. 贫困,贫穷"
+  },
+  {
+   "word": "earnest",
+   "def": "a. 认真的,坚决的"
+  },
+  {
+   "word": "itself",
+   "def": "pron. (it的反身代词)它自己，它本身"
+  },
+  {
+   "word": "testimony",
+   "def": "n. 证据，证词；表明，说明"
+  },
+  {
+   "word": "stagger",
+   "def": "v./n. 摇晃;蹒跚;vt. 使吃惊;使错开,使交错"
+  },
+  {
+   "word": "unprecedented",
+   "def": "adj.前所未有的"
+  },
+  {
+   "word": "gymnastics",
+   "def": "n.体操"
+  },
+  {
+   "word": "perfectly",
+   "def": "ad.很，完全"
+  },
+  {
+   "word": "tilt",
+   "def": "vt./vi. (使)倾斜;n. 倾斜,斜坡"
+  },
+  {
+   "word": "inept",
+   "def": "adj.不适当的, 无能的, 不称职的"
+  },
+  {
+   "word": "leg",
+   "def": "n. 腿，腿部；支柱；(旅程的)一段，一站"
+  },
+  {
+   "word": "predisposition",
+   "def": "n.易患病的体质。"
+  },
+  {
+   "word": "turmoil",
+   "def": "n.骚动, 混乱。"
+  },
+  {
+   "word": "periscope",
+   "def": "n.潜望镜, 展望镜。"
+  },
+  {
+   "word": "pain",
+   "def": "n. 痛，痛苦；(pl.)努力，劳苦vt. 使痛苦"
+  },
+  {
+   "word": "dove",
+   "def": "n. 鸽子"
+  },
+  {
+   "word": "cone",
+   "def": "n.锥体，锥形"
+  },
+  {
+   "word": "effluent",
+   "def": "adj.发出的, 流出的。n.流出物, 排水道, 污水, 排水渠"
+  },
+  {
+   "word": "fret",
+   "def": "v./n. 烦恼,侵蚀"
+  },
+  {
+   "word": "methodology",
+   "def": "n.方法(论)"
+  },
+  {
+   "word": "body",
+   "def": "n. 身体，本体；主体；尸体；物体；(一)群，批，堆"
+  },
+  {
+   "word": "murderer",
+   "def": "n.杀人犯，凶手"
+  },
+  {
+   "word": "grove",
+   "def": "n.林子，小树林，园林"
+  },
+  {
+   "word": "coalition",
+   "def": "n.合并, 接合, 联合。"
+  },
+  {
+   "word": "misfortune",
+   "def": "n. 不幸,灾祸"
+  },
+  {
+   "word": "icy",
+   "def": "a.冰冷的；冷冰冰的"
+  },
+  {
+   "word": "character",
+   "def": "n. 性格，品质，特性；人物，角色；字符，(汉)字"
+  },
+  {
+   "word": "youth",
+   "def": "n. 青年；年轻人"
+  },
+  {
+   "word": "harmony",
+   "def": "n. 和谐,融洽,一致"
+  },
+  {
+   "word": "anthem",
+   "def": "n.圣歌, 赞美诗。"
+  },
+  {
+   "word": "sphinx",
+   "def": "[Sphinx ][希神]斯芬克斯(有翼的狮身女怪, 传说她常叫过路行人猜谜, 猜不出者即遭杀害)。"
+  },
+  {
+   "word": "ask",
+   "def": "vt. 问，询问；请求，要求；邀请，约请"
+  },
+  {
+   "word": "discourage",
+   "def": "v. 使泄气，使失去信心"
+  },
+  {
+   "word": "foreseeable",
+   "def": "adj.可预知的, 能预测的, 能看透的。"
+  },
+  {
+   "word": "gap",
+   "def": "n. 缺口；差距；空白；缺乏"
+  },
+  {
+   "word": "minimize",
+   "def": "v. 使减少到最少，使降到最低"
+  },
+  {
+   "word": "bravely",
+   "def": "adv.勇敢地"
+  },
+  {
+   "word": "bestow",
+   "def": "vt.把…赠与"
+  },
+  {
+   "word": "soon",
+   "def": "ad. 不久，即刻；快，早"
+  }
+ ]
+}

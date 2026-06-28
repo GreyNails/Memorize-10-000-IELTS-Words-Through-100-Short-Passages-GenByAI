@@ -1,0 +1,381 @@
+{
+ "id": 11,
+ "words": [
+  {
+   "word": "farming",
+   "def": "n.农业，种植业"
+  },
+  {
+   "word": "leaf",
+   "def": "n. 叶子；(书刊的)一页，一张；金属薄片"
+  },
+  {
+   "word": "preface",
+   "def": "n./v. 序言;为…加序"
+  },
+  {
+   "word": "consignment",
+   "def": "n.委托，货物"
+  },
+  {
+   "word": "founder",
+   "def": "n.创办人，奠基人"
+  },
+  {
+   "word": "post",
+   "def": "v. 贴出；公告；投寄n. (支)柱；邮政，邮寄；职位"
+  },
+  {
+   "word": "toothbrush",
+   "def": "n.牙刷"
+  },
+  {
+   "word": "courier",
+   "def": "n.送快信的人, 旅行从仆。"
+  },
+  {
+   "word": "beside",
+   "def": "prep. 在…旁边，在…附近；和…相比"
+  },
+  {
+   "word": "humiliate",
+   "def": "vt. 羞辱,使丢脸"
+  },
+  {
+   "word": "metro",
+   "def": "n.伦敦地下铁道, 地下铁道。"
+  },
+  {
+   "word": "technique",
+   "def": "n. 技术,技能,行家手法"
+  },
+  {
+   "word": "ubiquitous",
+   "def": "adj.到处存在的, (同时)普遍存在的。"
+  },
+  {
+   "word": "multifunction",
+   "def": "n.多功能的"
+  },
+  {
+   "word": "strengthen",
+   "def": "v. 加强,巩固"
+  },
+  {
+   "word": "custom",
+   "def": "n. 习俗,惯例;光顾"
+  },
+  {
+   "word": "vaccinate",
+   "def": "vt.给…种牛痘"
+  },
+  {
+   "word": "as yet",
+   "def": "adv.至今。"
+  },
+  {
+   "word": "thermometer",
+   "def": "n. 温度计"
+  },
+  {
+   "word": "launch",
+   "def": "v. 使(船)下水,发射(火箭);开始,开办;n. (船)下水,汽艇"
+  },
+  {
+   "word": "gathering",
+   "def": "n.集会，聚会，聚集"
+  },
+  {
+   "word": "scene",
+   "def": "n. 景色，景象，舞台；(戏)一场"
+  },
+  {
+   "word": "probe",
+   "def": "n./v. 医学探针;新闻调查;探测"
+  },
+  {
+   "word": "apparent",
+   "def": "a. 明显的;表面上的"
+  },
+  {
+   "word": "blast",
+   "def": "n. 一阵;爆炸气浪;巨响; vt. (用炸药)炸,摧毁"
+  },
+  {
+   "word": "porous",
+   "def": "adj.多孔渗水的。"
+  },
+  {
+   "word": "agency",
+   "def": "n. 代理商(社)"
+  },
+  {
+   "word": "demonstration",
+   "def": "n.示范，表演，示威"
+  },
+  {
+   "word": "ramification",
+   "def": "n.分枝, 分叉, 衍生物, 支流。"
+  },
+  {
+   "word": "prayer",
+   "def": "n. 祈祷，祷告，祷文"
+  },
+  {
+   "word": "thereby",
+   "def": "ad. 借以,从而"
+  },
+  {
+   "word": "fixture",
+   "def": "n. 固定装置;体育项目;长期与某地(或某活动)相联系的人(或物)"
+  },
+  {
+   "word": "sentiment",
+   "def": "n. 情操,思想感情;情绪"
+  },
+  {
+   "word": "elliptical",
+   "def": "a.椭圆的；省略的"
+  },
+  {
+   "word": "unlimited",
+   "def": "a.无限的；不定的"
+  },
+  {
+   "word": "interruption",
+   "def": "n.中断，打断；障碍物"
+  },
+  {
+   "word": "staple",
+   "def": "n. 订书钉,U形钉;主食;主要产品;vt. 用订书钉订;a. 主要的;基本的;标准的"
+  },
+  {
+   "word": "wrongly",
+   "def": "adv.错误地，不正当地"
+  },
+  {
+   "word": "crumble",
+   "def": "v. 弄碎,灭亡,消失"
+  },
+  {
+   "word": "parcel",
+   "def": "n. 包裹，邮包，部分v. 打包，捆扎，分配"
+  },
+  {
+   "word": "drainage",
+   "def": "n.排水；下水道"
+  },
+  {
+   "word": "compensation",
+   "def": "n. 补偿(或赔偿)的款物；补偿，赔偿"
+  },
+  {
+   "word": "chord",
+   "def": "n.弦, 和音, 情绪。n.[解]腱"
+  },
+  {
+   "word": "flexible",
+   "def": "a. 易弯曲的,柔软的;灵活的"
+  },
+  {
+   "word": "interval",
+   "def": "n. 间隔的时间,间隔,间歇"
+  },
+  {
+   "word": "assemble",
+   "def": "v. 聚集;装配"
+  },
+  {
+   "word": "subdue",
+   "def": "vt. 使屈服、征服,克制;使柔和,使安静"
+  },
+  {
+   "word": "Jesus",
+   "def": "n.耶稣"
+  },
+  {
+   "word": "secondary",
+   "def": "a. 第二的,中级的,次要的"
+  },
+  {
+   "word": "mother-in-law",
+   "def": "n.岳母，婆婆"
+  },
+  {
+   "word": "arthritis",
+   "def": "n.关节炎。"
+  },
+  {
+   "word": "graduation",
+   "def": "n.毕业"
+  },
+  {
+   "word": "stony",
+   "def": "a.多石的；冷酷的"
+  },
+  {
+   "word": "esteem",
+   "def": "n./vt. 尊重,珍重"
+  },
+  {
+   "word": "smuggle",
+   "def": "vt. 私运,走私"
+  },
+  {
+   "word": "spaceship",
+   "def": "n. 宇宙飞船"
+  },
+  {
+   "word": "garlic",
+   "def": "n. 蒜，大蒜粉"
+  },
+  {
+   "word": "chest",
+   "def": "n. 胸腔，胸膛；箱，柜"
+  },
+  {
+   "word": "scrub",
+   "def": "n.&vt.擦洗，擦净"
+  },
+  {
+   "word": "carpet",
+   "def": "n. 地毯"
+  },
+  {
+   "word": "lash",
+   "def": "n.鞭子, 鞭打, 睫毛, 责骂, 讽刺。vt.鞭打, 摆动, 扎捆, 冲击, 煽动, 讽刺。vi.猛击, 急速甩动。"
+  },
+  {
+   "word": "economic",
+   "def": "a. 经济学的,经济的,便宜的"
+  },
+  {
+   "word": "blockage",
+   "def": "n.封锁"
+  },
+  {
+   "word": "paramount",
+   "def": "adj.极为重要的。"
+  },
+  {
+   "word": "unravel",
+   "def": "v.拆开"
+  },
+  {
+   "word": "glad",
+   "def": "a. 高兴的，快活的；乐意的，情愿的"
+  },
+  {
+   "word": "conscientious",
+   "def": "a. 审慎正直的，认真的，本着良心的"
+  },
+  {
+   "word": "appear",
+   "def": "vi. 出现；出场；问世；仿佛；出版，发表"
+  },
+  {
+   "word": "community",
+   "def": "n. 同一地区的全体居民，社会，社区；共同体"
+  },
+  {
+   "word": "safety",
+   "def": "n. 安全，保险；安全设备，保险装置"
+  },
+  {
+   "word": "successfully",
+   "def": "ad.成功地"
+  },
+  {
+   "word": "blame",
+   "def": "vt. 责备,找…的差错 n. 责任"
+  },
+  {
+   "word": "bride",
+   "def": "n. 新娘"
+  },
+  {
+   "word": "tide",
+   "def": "n. 潮汐;(舆论,公众情绪)潮流趋势"
+  },
+  {
+   "word": "disallow",
+   "def": "v.不允许"
+  },
+  {
+   "word": "tell",
+   "def": "vt. 告诉，讲述；告诫；吩咐，命令；辨/区别"
+  },
+  {
+   "word": "design",
+   "def": "v. 设计；构思；绘制；图案；企图n. 设计，图样"
+  },
+  {
+   "word": "ease",
+   "def": "v./n. 减轻,放松,小心移置;舒适"
+  },
+  {
+   "word": "healthy",
+   "def": "a. 健康的，健壮的；有益健康的，卫生的"
+  },
+  {
+   "word": "fearful",
+   "def": "a. 可怕的，吓人的；害怕，担心，惊恐"
+  },
+  {
+   "word": "rock-bottom",
+   "def": "n.adj.(价格)最低(的),底层的"
+  },
+  {
+   "word": "raise",
+   "def": "v. 举起，提升；增加；饲养；引起；竖起；提出"
+  },
+  {
+   "word": "intent",
+   "def": "a. (目光)不能移的,集中的,专心的;坚决的 n. 意图,意向,目的"
+  },
+  {
+   "word": "dealer",
+   "def": "n. 商人"
+  },
+  {
+   "word": "clue",
+   "def": "n. 线索"
+  },
+  {
+   "word": "memento",
+   "def": "n.纪念品。"
+  },
+  {
+   "word": "reserve",
+   "def": "n./v. 保存;预定"
+  },
+  {
+   "word": "brisk",
+   "def": "a. 轻快的;兴隆的;寒冷而清新的"
+  },
+  {
+   "word": "practically",
+   "def": "ad. 几乎，实际上，简直"
+  },
+  {
+   "word": "kilometer",
+   "def": "n. 公里，千米(略作km)"
+  },
+  {
+   "word": "tack",
+   "def": "n.平头打vt.钉住"
+  },
+  {
+   "word": "sanitary",
+   "def": "a. 有关卫生的;清洁的"
+  },
+  {
+   "word": "police",
+   "def": "n. 警察，警察机关a. 警察的v. 管辖"
+  },
+  {
+   "word": "pretty",
+   "def": "ad. 相当，很a. 漂亮的，俊俏的，标致的"
+  }
+ ]
+}

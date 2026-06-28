@@ -1,0 +1,381 @@
+{
+ "id": 80,
+ "words": [
+  {
+   "word": "relate",
+   "def": "v. 叙述，讲述；使互相关联"
+  },
+  {
+   "word": "by",
+   "def": "prep. 被；凭借；经由；由于ad. 在近旁；经过"
+  },
+  {
+   "word": "briefcase",
+   "def": "n.(扁平的, 柔韧的, 装文件, 书报的)公文包。"
+  },
+  {
+   "word": "conceptive",
+   "def": "adj.有想像力的; 构想的"
+  },
+  {
+   "word": "honorable",
+   "def": "a. 可敬的；荣誉的，光荣的"
+  },
+  {
+   "word": "obliging",
+   "def": "adj.亲切的, 有礼貌的, 愿意帮人忙的。"
+  },
+  {
+   "word": "dilate",
+   "def": "vi.扩大, 详述, 膨胀。vt.使扩大, 使膨胀。"
+  },
+  {
+   "word": "major",
+   "def": "a. 主要的n. 成年人，专业学生，主修课程v. 主修"
+  },
+  {
+   "word": "consumer",
+   "def": "n.消费者，用户"
+  },
+  {
+   "word": "glut",
+   "def": "n.供过于求v.狼吞虎咽"
+  },
+  {
+   "word": "onus",
+   "def": "n.责任, 负担。"
+  },
+  {
+   "word": "defer",
+   "def": "vt. 推迟,延期;听从"
+  },
+  {
+   "word": "politics",
+   "def": "n. 政治，政治学；政纲，政见"
+  },
+  {
+   "word": "voting",
+   "def": "adj.有投票权的"
+  },
+  {
+   "word": "westerner",
+   "def": "n.西方人，欧美人"
+  },
+  {
+   "word": "jewelry",
+   "def": "n. (总称)珠宝"
+  },
+  {
+   "word": "fashionable",
+   "def": "a. 流行的，时髦的"
+  },
+  {
+   "word": "incidentally",
+   "def": "ad. 偶然地,顺便地"
+  },
+  {
+   "word": "vibrate",
+   "def": "v. 摆动;振动"
+  },
+  {
+   "word": "trophy",
+   "def": "n.战利品, 奖品。vt.用战利品装饰, 授予...奖品。"
+  },
+  {
+   "word": "past",
+   "def": "a. 过去的ad. 过n. 过去，昔日prep. (经)过"
+  },
+  {
+   "word": "aggression",
+   "def": "n.侵略"
+  },
+  {
+   "word": "bore",
+   "def": "v. 钻孔;厌烦;n. 孔;口径;惹人厌烦的人"
+  },
+  {
+   "word": "dark",
+   "def": "a. 黑暗的，深(色)的；隐秘的n. 无光，黑暗"
+  },
+  {
+   "word": "deuterium",
+   "def": "n.[化]氘。"
+  },
+  {
+   "word": "misunderstanding",
+   "def": "n.误会，曲解"
+  },
+  {
+   "word": "drive",
+   "def": "v. 开(车)；驱；驱动，把(钉，桩)打入n. 驾驶"
+  },
+  {
+   "word": "filing",
+   "def": "n.档案管理"
+  },
+  {
+   "word": "wavelength",
+   "def": "n.波长"
+  },
+  {
+   "word": "infest",
+   "def": "v.大批滋生。"
+  },
+  {
+   "word": "slam",
+   "def": "vt. 砰地关上;猛力拉/扔,砰地放下;猛烈抨击; vi. (门、窗等)砰地关上;n. 砰的一声"
+  },
+  {
+   "word": "lag",
+   "def": "vi. 走得慢,落后;n. 相隔时间"
+  },
+  {
+   "word": "autonomy",
+   "def": "n. 自治,自治权"
+  },
+  {
+   "word": "smart",
+   "def": "a. 漂亮的；聪明的；巧妙的v. 剧痛，刺疼"
+  },
+  {
+   "word": "volunteer",
+   "def": "n./v. 自愿(者，兵)；自愿(提供)"
+  },
+  {
+   "word": "experimental",
+   "def": "a. 实验(性)的，试验(性)的"
+  },
+  {
+   "word": "expedition",
+   "def": "n. 远征,探险(队),考察(队)"
+  },
+  {
+   "word": "grab",
+   "def": "v./n. 攫取,抓取,掠夺"
+  },
+  {
+   "word": "never",
+   "def": "ad. 永不，从不，决不；从来没有；不，没有"
+  },
+  {
+   "word": "cemetery",
+   "def": "n. 公墓,墓地"
+  },
+  {
+   "word": "timid",
+   "def": "a. 胆怯的，怯懦的"
+  },
+  {
+   "word": "all",
+   "def": "a. 全部的；非常的ad. 完全地，很pron. 全部"
+  },
+  {
+   "word": "kerosene",
+   "def": "n.煤油"
+  },
+  {
+   "word": "faithfully",
+   "def": "adv.忠诚地"
+  },
+  {
+   "word": "exaggerate",
+   "def": "v. 夸大,夸张"
+  },
+  {
+   "word": "exclusivity",
+   "def": "n.独家经营权"
+  },
+  {
+   "word": "miracle",
+   "def": "n. 奇迹"
+  },
+  {
+   "word": "portable",
+   "def": "a. 轻便的，手提(式)的，可移动的"
+  },
+  {
+   "word": "creditworthy",
+   "def": "adj.有信誉的"
+  },
+  {
+   "word": "association",
+   "def": "n. 联盟，协会，社团；交往，联合；联想"
+  },
+  {
+   "word": "brother-in-law",
+   "def": "n.姻兄(弟)"
+  },
+  {
+   "word": "almost",
+   "def": "adv. 几乎，差不多"
+  },
+  {
+   "word": "generalize",
+   "def": "v. 概括,归纳"
+  },
+  {
+   "word": "posterity",
+   "def": "n.子孙，后代"
+  },
+  {
+   "word": "net",
+   "def": "n. 网，网状物v. 用网捕，使落网a. 纯净的"
+  },
+  {
+   "word": "machine",
+   "def": "n. 机器，机械v. 用机器加工"
+  },
+  {
+   "word": "regeneration",
+   "def": "n.再生, 重建。"
+  },
+  {
+   "word": "tow",
+   "def": "vt. (用绳、链等)拖(车、船等)n. 拖，牵引"
+  },
+  {
+   "word": "alga",
+   "def": "n.藻类, 海藻。"
+  },
+  {
+   "word": "chart",
+   "def": "n. 海图,图表"
+  },
+  {
+   "word": "news",
+   "def": "n. 新闻，消息；新闻报道，新闻广播"
+  },
+  {
+   "word": "persevere",
+   "def": "vi. 锲而不舍"
+  },
+  {
+   "word": "proceeds",
+   "def": "n.收益"
+  },
+  {
+   "word": "impose",
+   "def": "v. 征(税);把…强加于;利用"
+  },
+  {
+   "word": "exasperation",
+   "def": "n.愤慨，加剧"
+  },
+  {
+   "word": "fleeting",
+   "def": "adj.飞逝的；短暂的。"
+  },
+  {
+   "word": "metric",
+   "def": "a. 米制的，公制的"
+  },
+  {
+   "word": "narrative",
+   "def": "adj.叙述性的。n.叙述。"
+  },
+  {
+   "word": "auspice",
+   "def": "n.赞助，主办"
+  },
+  {
+   "word": "archives",
+   "def": "n.档案, 公文, 档案室, 案卷保管处。"
+  },
+  {
+   "word": "preparatory",
+   "def": "adj.预备的。"
+  },
+  {
+   "word": "unkind",
+   "def": "a.不仁慈的，不和善的"
+  },
+  {
+   "word": "desk",
+   "def": "n. 书桌，办公桌，服务台"
+  },
+  {
+   "word": "garage",
+   "def": "n. 车库，飞机库；修车厂"
+  },
+  {
+   "word": "silver",
+   "def": "n. 银；银器；银币v. 镀银"
+  },
+  {
+   "word": "equivalent",
+   "def": "a./n. 相等的,相同"
+  },
+  {
+   "word": "seminar",
+   "def": "n. (大学的)研究班，研讨会"
+  },
+  {
+   "word": "restless",
+   "def": "a. 焦躁不安的"
+  },
+  {
+   "word": "palm",
+   "def": "n. 手掌,棕榈"
+  },
+  {
+   "word": "stride",
+   "def": "v./n. 大踏步走"
+  },
+  {
+   "word": "goal",
+   "def": "n. (足球)球门,得分,目标"
+  },
+  {
+   "word": "equally",
+   "def": "adv.相等地，相同地"
+  },
+  {
+   "word": "glide",
+   "def": "vi./n. 滑动,滑翔"
+  },
+  {
+   "word": "nuance",
+   "def": "n.细微差别。"
+  },
+  {
+   "word": "chore",
+   "def": "n.家务杂事。"
+  },
+  {
+   "word": "Friday",
+   "def": "n. 星期五"
+  },
+  {
+   "word": "ovation",
+   "def": "n.热烈欢迎, 大喝采, 大受欢迎, 欢呼。"
+  },
+  {
+   "word": "lot",
+   "def": "n. 许多，大量；签，抽签；命运；场地"
+  },
+  {
+   "word": "ventilate",
+   "def": "vt. 使通风;公开讨论"
+  },
+  {
+   "word": "dog",
+   "def": "n. 狗，雄兽vt. 尾随，跟踪"
+  },
+  {
+   "word": "dishonor",
+   "def": "n.耻辱v.凌辱"
+  },
+  {
+   "word": "motor",
+   "def": "n. 发动机，电动机"
+  },
+  {
+   "word": "Egypt",
+   "def": "n.埃及"
+  },
+  {
+   "word": "awkwardness",
+   "def": "n.笨拙"
+  }
+ ]
+}

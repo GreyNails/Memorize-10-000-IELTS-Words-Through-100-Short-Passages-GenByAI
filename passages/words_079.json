@@ -1,0 +1,381 @@
+{
+ "id": 79,
+ "words": [
+  {
+   "word": "east",
+   "def": "n. 东，东方，东部a. 东方的，东部的"
+  },
+  {
+   "word": "cheer",
+   "def": "n./v. 振奋,高兴,欢呼"
+  },
+  {
+   "word": "chill",
+   "def": "n./a./v. 寒冷,扫兴的,(使)感冒"
+  },
+  {
+   "word": "divergence",
+   "def": "n.分歧"
+  },
+  {
+   "word": "cellular",
+   "def": "adj.细胞的。"
+  },
+  {
+   "word": "incision",
+   "def": "n.切割, 切开, 切口。"
+  },
+  {
+   "word": "Britain",
+   "def": "n.不列颠，英国"
+  },
+  {
+   "word": "solid",
+   "def": "a. 固体的；结实的，稳固的，可靠的n. 固体"
+  },
+  {
+   "word": "Arab",
+   "def": "n.阿拉伯"
+  },
+  {
+   "word": "respect",
+   "def": "n./v. 尊敬，尊重n. 敬意，问候，关系，方面"
+  },
+  {
+   "word": "snobbery",
+   "def": "n.势利"
+  },
+  {
+   "word": "fuss",
+   "def": "n. 大惊,小怪;v. 忙乱,使烦躁"
+  },
+  {
+   "word": "building",
+   "def": "n. 建筑(物)，房屋，大楼"
+  },
+  {
+   "word": "player",
+   "def": "n.游戏的人；比赛者"
+  },
+  {
+   "word": "coincidence",
+   "def": "n. 巧合；同时发生，共同存在；符合，一致"
+  },
+  {
+   "word": "levy",
+   "def": "v./n. 征收,征税"
+  },
+  {
+   "word": "mien",
+   "def": "n.风度。"
+  },
+  {
+   "word": "invariably",
+   "def": "ad. 不变地,永恒地"
+  },
+  {
+   "word": "possessive",
+   "def": "adj.所有(格)的"
+  },
+  {
+   "word": "radius",
+   "def": "n. 半径,以半径度量的面积"
+  },
+  {
+   "word": "rift",
+   "def": "n.裂缝, 裂口, 断裂, 长狭谷, 不和。"
+  },
+  {
+   "word": "buffet",
+   "def": "n. (火车内)餐室,冷餐桌"
+  },
+  {
+   "word": "enjoyable",
+   "def": "adj.愉快的"
+  },
+  {
+   "word": "inch",
+   "def": "n. 英寸"
+  },
+  {
+   "word": "nickel",
+   "def": "n. 镍,美国五分镍币"
+  },
+  {
+   "word": "ham",
+   "def": "n. 火腿"
+  },
+  {
+   "word": "grace",
+   "def": "n. 优美，文雅；恩惠，恩泽；宽限，缓刑；感恩祷告"
+  },
+  {
+   "word": "standing",
+   "def": "n. 持续,期间;身分,地位,名望;a. 永存的,常务的"
+  },
+  {
+   "word": "millimetre",
+   "def": "n.毫米"
+  },
+  {
+   "word": "dull",
+   "def": "a. 阴暗的,迟钝的,沉闷的,钝的 v. 变钝"
+  },
+  {
+   "word": "broker",
+   "def": "n.经纪人"
+  },
+  {
+   "word": "audible",
+   "def": "adj.听得见的。"
+  },
+  {
+   "word": "landed",
+   "def": "adj.卸货的"
+  },
+  {
+   "word": "tolerate",
+   "def": "vt. 容忍，默许；对(药物、毒品等)有耐力"
+  },
+  {
+   "word": "fluid",
+   "def": "a. 流动的,不固定的 n. 流体"
+  },
+  {
+   "word": "plenary",
+   "def": "adj.完全的,绝对的 n.全体会议,全会"
+  },
+  {
+   "word": "softness",
+   "def": "n.温和，柔和；软弱"
+  },
+  {
+   "word": "indulge",
+   "def": "v. 放纵,沉迷于"
+  },
+  {
+   "word": "helium",
+   "def": "n.氦（化学元素, 符号为He）。"
+  },
+  {
+   "word": "overdue",
+   "def": "adj.迟到的。"
+  },
+  {
+   "word": "theatrical",
+   "def": "adj.戏剧的"
+  },
+  {
+   "word": "fill",
+   "def": "v. (with)填满，充满"
+  },
+  {
+   "word": "dot",
+   "def": "n. 小圆点,小点 vt. 加上小点,散布于,点缀"
+  },
+  {
+   "word": "assertion",
+   "def": "n.断言"
+  },
+  {
+   "word": "bang",
+   "def": "n./v. 猛击,猛敲,砰然作声"
+  },
+  {
+   "word": "rope",
+   "def": "n. 绳，索"
+  },
+  {
+   "word": "majority",
+   "def": "n. 多数;多得票数,法定年龄"
+  },
+  {
+   "word": "bullet",
+   "def": "n. 子弹，枪弹"
+  },
+  {
+   "word": "invention",
+   "def": "n. 发明，创造，发明物"
+  },
+  {
+   "word": "profile",
+   "def": "n. 侧面;轮廓"
+  },
+  {
+   "word": "handle",
+   "def": "n. 柄，把手，拉手v. 处理，对待，操纵；触，抚养"
+  },
+  {
+   "word": "exile",
+   "def": "n./vt. 流放,离乡背井"
+  },
+  {
+   "word": "lab",
+   "def": "n.实验室，研究室"
+  },
+  {
+   "word": "involvement",
+   "def": "n.卷入，涉足"
+  },
+  {
+   "word": "evident",
+   "def": "a. 明显的，明白的"
+  },
+  {
+   "word": "agitate",
+   "def": "v. 摇动(液体)；使焦虑不安；困扰；鼓动"
+  },
+  {
+   "word": "steady",
+   "def": "a. 稳的,平稳的;稳定的,持续的;稳重的,坚定的; v. (使)平稳,(使)稳定"
+  },
+  {
+   "word": "prelude",
+   "def": "n. 序言,序幕"
+  },
+  {
+   "word": "crime",
+   "def": "n. 罪行，犯罪"
+  },
+  {
+   "word": "velvet",
+   "def": "n. 丝绒，天鹅绒a. 丝绒制的，柔软的"
+  },
+  {
+   "word": "prerogative",
+   "def": "n.特权。"
+  },
+  {
+   "word": "therapy",
+   "def": "n.治疗。"
+  },
+  {
+   "word": "brew",
+   "def": "v.酿造, 酝酿。"
+  },
+  {
+   "word": "corporate",
+   "def": "a. 社团的;公司的;共同的"
+  },
+  {
+   "word": "immense",
+   "def": "a. 广大的,巨大的"
+  },
+  {
+   "word": "evolve",
+   "def": "v. (使)发展；(使)进化；(使)进展"
+  },
+  {
+   "word": "presidential",
+   "def": "adj.总统的"
+  },
+  {
+   "word": "clever",
+   "def": "a. 聪明的，伶俐的，机敏的，精巧的"
+  },
+  {
+   "word": "metropolitan",
+   "def": "a. 首都的，主要都市的，大城市"
+  },
+  {
+   "word": "superfluous",
+   "def": "adj.多余的, 过剩的, 过量的。"
+  },
+  {
+   "word": "sculpture",
+   "def": "n./v. 雕塑,雕刻"
+  },
+  {
+   "word": "orthodox",
+   "def": "adj.正统的, 传统的, 习惯的, 保守的, 东正教的。"
+  },
+  {
+   "word": "whiting",
+   "def": "n.白粉, 白垩。"
+  },
+  {
+   "word": "rehearse",
+   "def": "v.排练"
+  },
+  {
+   "word": "dissatisfy",
+   "def": "vi.使不满，使不平"
+  },
+  {
+   "word": "sailing",
+   "def": "adj.启航的n.航行"
+  },
+  {
+   "word": "disappointment",
+   "def": "n.失望"
+  },
+  {
+   "word": "insult",
+   "def": "vt. 侮辱,凌辱;n. 侮辱的言词或行为"
+  },
+  {
+   "word": "survivor",
+   "def": "n.幸存者"
+  },
+  {
+   "word": "assassinate",
+   "def": "vt. 暗杀，行刺；中伤"
+  },
+  {
+   "word": "stream",
+   "def": "n. 小河，溪流；流，一股，一串v. 流出，涌"
+  },
+  {
+   "word": "entertainment",
+   "def": "n. 娱乐,招待,表演"
+  },
+  {
+   "word": "muster",
+   "def": "n.集合, 阅, 样品, 清单, 一群。v.集合, 召集, 征召, 鼓起(勇气等), 集聚。"
+  },
+  {
+   "word": "dweller",
+   "def": "n.居住者，住客"
+  },
+  {
+   "word": "refer",
+   "def": "v. 参考，查询；提到，引用，涉及；提交，上呈"
+  },
+  {
+   "word": "No.",
+   "def": "n.(缩)号，号码"
+  },
+  {
+   "word": "prosaic",
+   "def": "adj.散文的, 散文体的, 平凡的。"
+  },
+  {
+   "word": "barely",
+   "def": "ad. 赤裸裸地，无遮蔽地；仅仅，勉强，几乎没有"
+  },
+  {
+   "word": "gloomy",
+   "def": "a. 黑暗的;郁闷的"
+  },
+  {
+   "word": "oust",
+   "def": "vt.剥夺, 取代, 驱逐。"
+  },
+  {
+   "word": "scarcity",
+   "def": "n.缺乏，不足，萧条"
+  },
+  {
+   "word": "classmate",
+   "def": "n. 同班同学"
+  },
+  {
+   "word": "grandfather",
+   "def": "n.祖父；外祖父"
+  },
+  {
+   "word": "thirsty",
+   "def": "a. 口渴的；(for)渴望的，热望的"
+  }
+ ]
+}

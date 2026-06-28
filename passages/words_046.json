@@ -1,0 +1,381 @@
+{
+ "id": 46,
+ "words": [
+  {
+   "word": "disastrous",
+   "def": "a. 灾难性的"
+  },
+  {
+   "word": "line",
+   "def": "n. 线；路线，航线；排；线路；界线v. 排队；加衬"
+  },
+  {
+   "word": "part-time",
+   "def": "adj.计时(干活)的"
+  },
+  {
+   "word": "pastry",
+   "def": "n.面粉糕饼, 馅饼皮。"
+  },
+  {
+   "word": "stationery",
+   "def": "n. 文具"
+  },
+  {
+   "word": "quaint",
+   "def": "adj.离奇有趣的, 奇怪的, 做得很精巧的。"
+  },
+  {
+   "word": "limit",
+   "def": "n. 界限，限度，范围v. (to)限制，限定"
+  },
+  {
+   "word": "altogether",
+   "def": "ad. 完全，总之，全部地；总共；总而言之"
+  },
+  {
+   "word": "constitute",
+   "def": "vt. 组成，构成，形成；设立，建立，任命"
+  },
+  {
+   "word": "payable",
+   "def": "adj.支付给的"
+  },
+  {
+   "word": "terrible",
+   "def": "a. 很糟的；可怕的，骇人的；极度的，厉害的"
+  },
+  {
+   "word": "illustrate",
+   "def": "vt. 举例或以图表说明,配以插图"
+  },
+  {
+   "word": "voluptuous",
+   "def": "adj.艳丽的, 奢侈逸乐的。"
+  },
+  {
+   "word": "steel",
+   "def": "n. 钢"
+  },
+  {
+   "word": "vase",
+   "def": "n. 花瓶，瓶"
+  },
+  {
+   "word": "mathematical",
+   "def": "a. 数学的；数学上的"
+  },
+  {
+   "word": "reconnaissance",
+   "def": "n.探索，勘查"
+  },
+  {
+   "word": "solo",
+   "def": "n. 独奏;独唱"
+  },
+  {
+   "word": "devotion",
+   "def": "n.献身，热诚，专心"
+  },
+  {
+   "word": "meagre",
+   "def": "adj.瘦的, 贫弱的。"
+  },
+  {
+   "word": "struggle",
+   "def": "n./v. 斗争，奋斗，努力"
+  },
+  {
+   "word": "blush",
+   "def": "vi./n. 脸红,羞愧"
+  },
+  {
+   "word": "historic",
+   "def": "a. 有历史意义的"
+  },
+  {
+   "word": "loose",
+   "def": "a. (宽)松的；不精确的；自由的，散漫的"
+  },
+  {
+   "word": "interested",
+   "def": "adj.感兴趣的"
+  },
+  {
+   "word": "glorious",
+   "def": "a. 辉煌的,壮丽的,光荣的"
+  },
+  {
+   "word": "gust",
+   "def": "n. 阵风;(感情的)迸发"
+  },
+  {
+   "word": "henceforth",
+   "def": "ad. (=henceforward)今后"
+  },
+  {
+   "word": "perverse",
+   "def": "adj.不正当的。"
+  },
+  {
+   "word": "middleman",
+   "def": "n.中人，中间人"
+  },
+  {
+   "word": "eventful",
+   "def": "adj.多事的"
+  },
+  {
+   "word": "withdraw",
+   "def": "vt./vi. 收回,取回;撤回;撤退"
+  },
+  {
+   "word": "gasoline",
+   "def": "n. [美"
+  },
+  {
+   "word": "convinced",
+   "def": "adj.信服的"
+  },
+  {
+   "word": "cute",
+   "def": "adj.可爱的, 聪明的, 伶俐的, 装腔作势的。"
+  },
+  {
+   "word": "parrot",
+   "def": "n.鹦鹉"
+  },
+  {
+   "word": "abstract",
+   "def": "a. 抽象的;n. (书籍、演说等的)摘要"
+  },
+  {
+   "word": "save",
+   "def": "v. 救，拯救；储蓄，贮存；节省"
+  },
+  {
+   "word": "frugal",
+   "def": "a. 俭朴的,花钱少的"
+  },
+  {
+   "word": "they",
+   "def": "商店。(一般人经常用复数they来指一家商店)"
+  },
+  {
+   "word": "exceptional",
+   "def": "a. 优越的,杰出的;特殊的,例外的"
+  },
+  {
+   "word": "pressure",
+   "def": "n. 压，压力，压迫，强制，紧迫，困苦，困难"
+  },
+  {
+   "word": "widespread",
+   "def": "a. 分布广泛的，普遍的"
+  },
+  {
+   "word": "eighteen",
+   "def": "num. 十八，十八个"
+  },
+  {
+   "word": "gradually",
+   "def": "ad.逐渐地，逐步地"
+  },
+  {
+   "word": "hindrance",
+   "def": "n.障碍，妨碍"
+  },
+  {
+   "word": "installment",
+   "def": "n. 分期付款；(连载的)一期"
+  },
+  {
+   "word": "speculation",
+   "def": "n.推测，投机"
+  },
+  {
+   "word": "asymmetric",
+   "def": "adj.不均匀的, 不对称的。"
+  },
+  {
+   "word": "prisoner",
+   "def": "n. 囚犯"
+  },
+  {
+   "word": "better-off",
+   "def": "adj.经济情况较好的"
+  },
+  {
+   "word": "lamp",
+   "def": "n. 灯"
+  },
+  {
+   "word": "buffalo",
+   "def": "n.水牛；水陆坦克"
+  },
+  {
+   "word": "turbot",
+   "def": "n.大比目鱼, 大菱鲆。"
+  },
+  {
+   "word": "thereafter",
+   "def": "ad. 此后，以后"
+  },
+  {
+   "word": "mill",
+   "def": "n. 磨粉机，磨坊；作坊，工厂"
+  },
+  {
+   "word": "compression",
+   "def": "n.压缩，压紧，浓缩"
+  },
+  {
+   "word": "majestic",
+   "def": "adj.宏伟的, 庄严的。"
+  },
+  {
+   "word": "dating",
+   "def": "n.约会"
+  },
+  {
+   "word": "provision",
+   "def": "n. 准备;供应;条款"
+  },
+  {
+   "word": "disarray",
+   "def": "v.混乱。"
+  },
+  {
+   "word": "attributable",
+   "def": "adj.归于的"
+  },
+  {
+   "word": "guide",
+   "def": "n. 领路人；指南，导游v. 领路；指导；支配；管理"
+  },
+  {
+   "word": "approximate",
+   "def": "a. 近似的,约略的 v. 接近,近似"
+  },
+  {
+   "word": "cohesive",
+   "def": "a. 粘合性的，有结合力的"
+  },
+  {
+   "word": "both",
+   "def": "prep. 两者(都)，双方(都)adj. 两个…(都)"
+  },
+  {
+   "word": "tenable",
+   "def": "adj.可维持的。"
+  },
+  {
+   "word": "wreathe",
+   "def": "v.环绕盘旋。"
+  },
+  {
+   "word": "convert",
+   "def": "vt. 转变;兑换;使改变信仰"
+  },
+  {
+   "word": "premier",
+   "def": "n. 首相，总理"
+  },
+  {
+   "word": "instructor",
+   "def": "n.指导者，教员"
+  },
+  {
+   "word": "serious",
+   "def": "a. 严肃的；主要的；严重的，危急的；认真的"
+  },
+  {
+   "word": "windmill",
+   "def": "n.风车"
+  },
+  {
+   "word": "progressive",
+   "def": "a. 进步的，先进的；前进的"
+  },
+  {
+   "word": "consonant",
+   "def": "n.辅音,辅音字母,子音;adj. 一致的,调和的,辅音的"
+  },
+  {
+   "word": "tourism",
+   "def": "n. 旅游事业"
+  },
+  {
+   "word": "considerable",
+   "def": "a. 相当大的;重要的"
+  },
+  {
+   "word": "unacceptable",
+   "def": "adj.不能接受的"
+  },
+  {
+   "word": "ball-pointpen",
+   "def": "n.圆珠笔"
+  },
+  {
+   "word": "valve",
+   "def": "n. 阀,活门"
+  },
+  {
+   "word": "absurd",
+   "def": "a. 荒谬的,可笑的"
+  },
+  {
+   "word": "analysis",
+   "def": "n. 分析；分解"
+  },
+  {
+   "word": "iodine",
+   "def": "n.碘, 碘酒。5aIEdi:n;"
+  },
+  {
+   "word": "prospectus",
+   "def": "n.内容说明书, 样张。"
+  },
+  {
+   "word": "acid",
+   "def": "a. 酸的,尖刻的 n. 酸"
+  },
+  {
+   "word": "plume",
+   "def": "n.羽毛，羽饰"
+  },
+  {
+   "word": "tower",
+   "def": "n. 塔v. 高耸"
+  },
+  {
+   "word": "captive",
+   "def": "n./a. 俘虏,迷恋者;被俘虏的,被拴住的"
+  },
+  {
+   "word": "rare",
+   "def": "a. 稀有的，难得的，珍奇的；稀薄的，稀疏的"
+  },
+  {
+   "word": "federal",
+   "def": "a. 联邦的；联邦制的；联合的；同盟的"
+  },
+  {
+   "word": "million",
+   "def": "num./n. 百万，百万个"
+  },
+  {
+   "word": "install",
+   "def": "vt. 任命;安装,安置"
+  },
+  {
+   "word": "chain",
+   "def": "n. 链(条)；(pl.)镣铐；一连串v. 用链条拴住"
+  },
+  {
+   "word": "hazardous",
+   "def": "adj.危险的, 冒险的, 碰运气的。"
+  }
+ ]
+}

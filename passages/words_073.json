@@ -1,0 +1,381 @@
+{
+ "id": 73,
+ "words": [
+  {
+   "word": "hole",
+   "def": "n. 洞，孔"
+  },
+  {
+   "word": "leather",
+   "def": "n. 皮革，皮革制品"
+  },
+  {
+   "word": "outspoken",
+   "def": "adj.坦率直言的。"
+  },
+  {
+   "word": "conflict",
+   "def": "n. 战斗,斗争;(意见)分歧;vi. 抵触,冲突"
+  },
+  {
+   "word": "nickname",
+   "def": "n. 绰号，浑名vt. 给…起绰号"
+  },
+  {
+   "word": "boutique",
+   "def": "n.专卖流行衣服的小商店。"
+  },
+  {
+   "word": "giggle",
+   "def": "v./n. 咯咯地笑,傻笑"
+  },
+  {
+   "word": "underground",
+   "def": "n. 地铁a. 地下的；秘密的ad. 在地下"
+  },
+  {
+   "word": "stuff",
+   "def": "n. 原料;材料;素质,本质;东西,物品;vt. 把…装满,塞进"
+  },
+  {
+   "word": "childlike",
+   "def": "adj.孩子似的，天真的"
+  },
+  {
+   "word": "cataract",
+   "def": "n.大瀑布, 奔流, 白内障。"
+  },
+  {
+   "word": "ridicule",
+   "def": "vi.&n.嘲弄，挖苦"
+  },
+  {
+   "word": "laboratory",
+   "def": "n. 实验室"
+  },
+  {
+   "word": "condemnation",
+   "def": "n.谴责，判决"
+  },
+  {
+   "word": "rip",
+   "def": "v./n. 撕裂,撕开;扯破"
+  },
+  {
+   "word": "interpreter",
+   "def": "n.译员，口译者"
+  },
+  {
+   "word": "articulate",
+   "def": "adj.有关节的, 发音清晰的。vt.用关节连接, 接合, 清晰明白地说。"
+  },
+  {
+   "word": "their",
+   "def": "pron.他(她、它)们的"
+  },
+  {
+   "word": "jug",
+   "def": "n. (有柄，小口，可盛水等的)大壶，罐，盂"
+  },
+  {
+   "word": "averagely",
+   "def": "adv.平均"
+  },
+  {
+   "word": "exacerbate",
+   "def": "vt.恶化, 增剧, 激怒, 使加剧, 使烦恼。"
+  },
+  {
+   "word": "onset",
+   "def": "n. 进攻;开始,发作"
+  },
+  {
+   "word": "infant",
+   "def": "n. 婴儿"
+  },
+  {
+   "word": "redeem",
+   "def": "vt. 买回,赎回;补偿,补救"
+  },
+  {
+   "word": "renewal",
+   "def": "n.更新，续订"
+  },
+  {
+   "word": "background",
+   "def": "n. 背景，经历；幕后"
+  },
+  {
+   "word": "precipitate",
+   "def": "n.沉淀物。vt.猛抛, 使陷入, 促成, 使沉淀。vi.猛地落下。adj.突如其来的, 陡然下降(或下落)的, 贸然轻率的"
+  },
+  {
+   "word": "literal",
+   "def": "a.文字(上)的；字面的"
+  },
+  {
+   "word": "pharmaceutist",
+   "def": "n.药师, 药剂师。"
+  },
+  {
+   "word": "reverent",
+   "def": "adj.尊敬的, 虔诚的。"
+  },
+  {
+   "word": "dad",
+   "def": "n.爸爸"
+  },
+  {
+   "word": "pine",
+   "def": "vi. 消瘦,衰弱;n. 松树"
+  },
+  {
+   "word": "contrary",
+   "def": "a.相反的，矛盾的n. 反对，矛盾；相反"
+  },
+  {
+   "word": "quietly",
+   "def": "adv.安静地，静静地"
+  },
+  {
+   "word": "muddle",
+   "def": "vt.混合, 使微醉, 使咬字不清晰, 鬼混。vi.胡乱对付。n.困惑, 混浊状态, 糊涂。"
+  },
+  {
+   "word": "prodigious",
+   "def": "adj.巨大的。"
+  },
+  {
+   "word": "insignificant",
+   "def": "a.无意义的；低微的"
+  },
+  {
+   "word": "physically",
+   "def": "ad.物质上；体格上"
+  },
+  {
+   "word": "harmful",
+   "def": "a.有害的"
+  },
+  {
+   "word": "unload",
+   "def": "vi. 卸货；退子弹vt. 摆脱…之负担；倾销"
+  },
+  {
+   "word": "old",
+   "def": "a. 年老的；…岁的；长时间的，老的；过去的"
+  },
+  {
+   "word": "forest",
+   "def": "n. 森林"
+  },
+  {
+   "word": "exploit",
+   "def": "n. 英雄行为,辉煌功绩; vt. 开拓,开采;剥削;用以自肥"
+  },
+  {
+   "word": "lull",
+   "def": "n.暂停, 麻痹。vt.使平静, 哄骗, 使安静。vi.变平静"
+  },
+  {
+   "word": "perishable",
+   "def": "adj.容易腐烂的。"
+  },
+  {
+   "word": "therefore",
+   "def": "ad. 因此，所以conj. 因此"
+  },
+  {
+   "word": "cellulose",
+   "def": "n.纤维素。"
+  },
+  {
+   "word": "heighten",
+   "def": "v. 加高,提高,增大"
+  },
+  {
+   "word": "bushel",
+   "def": "n.蒲式耳(容量单位)"
+  },
+  {
+   "word": "controversial",
+   "def": "a. 引起争论的"
+  },
+  {
+   "word": "convey",
+   "def": "vt. 运送;转达,传达"
+  },
+  {
+   "word": "manage",
+   "def": "v. 经营，管理，处理；设法，对付；操纵，运用"
+  },
+  {
+   "word": "exercise-book",
+   "def": "n.练习簿"
+  },
+  {
+   "word": "recently",
+   "def": "ad.最近，新近"
+  },
+  {
+   "word": "recall",
+   "def": "vt./n. 召回;回忆"
+  },
+  {
+   "word": "boy",
+   "def": "n. 男孩子，儿子；男性服务员"
+  },
+  {
+   "word": "relish",
+   "def": "n. 美味，味道，调味品，食欲，乐趣v. 喜欢，品味"
+  },
+  {
+   "word": "yearn",
+   "def": "vi. 想念,渴望"
+  },
+  {
+   "word": "plot",
+   "def": "n. 小块土地;阴谋;情节;vt. 绘制,标绘;密谋,策划"
+  },
+  {
+   "word": "unfortunately",
+   "def": "ad. 不幸地"
+  },
+  {
+   "word": "ice",
+   "def": "n. 冰；冰冻甜食vt. 冰冻，使成冰"
+  },
+  {
+   "word": "notch",
+   "def": "n.槽口, 凹口。vt.刻凹痕, 用刻痕计算, 开槽, 切口, 得分。n.<美语>山间小路, 刻痕, 峡谷"
+  },
+  {
+   "word": "wade",
+   "def": "vt.趟(河)，跋涉"
+  },
+  {
+   "word": "robe",
+   "def": "n. 长袍，上衣"
+  },
+  {
+   "word": "dogma",
+   "def": "n.教条。"
+  },
+  {
+   "word": "hall",
+   "def": "n. 礼堂，会堂，办公大楼，门厅"
+  },
+  {
+   "word": "brake",
+   "def": "n./v. 刹车"
+  },
+  {
+   "word": "sincerity",
+   "def": "n.真诚，诚意；真实"
+  },
+  {
+   "word": "voltage",
+   "def": "n. 电压"
+  },
+  {
+   "word": "thrill",
+   "def": "n./v. 激动;震颤"
+  },
+  {
+   "word": "solicitor",
+   "def": "n.律师"
+  },
+  {
+   "word": "eventually",
+   "def": "ad. 终于，最后"
+  },
+  {
+   "word": "molest",
+   "def": "vt.骚乱, 困扰, 调戏。"
+  },
+  {
+   "word": "definition",
+   "def": "n. 定义，解释；(轮廓影像等的)清晰度；阐明；"
+  },
+  {
+   "word": "acknowledge",
+   "def": "vt. 承认;表示收到信件;表示感谢"
+  },
+  {
+   "word": "labor-intensive",
+   "def": "adj.劳动密集型的"
+  },
+  {
+   "word": "owner",
+   "def": "n. 物主，所有者"
+  },
+  {
+   "word": "tradition",
+   "def": "n. 传统，惯例，传说"
+  },
+  {
+   "word": "distortion",
+   "def": "n.弄歪，歪曲；畸变"
+  },
+  {
+   "word": "spend",
+   "def": "v. 花费；消耗，用尽；度过，消磨"
+  },
+  {
+   "word": "democratic",
+   "def": "a. 民主的"
+  },
+  {
+   "word": "petal",
+   "def": "n.花瓣。"
+  },
+  {
+   "word": "GNP",
+   "def": "n.(缩)国民总收入"
+  },
+  {
+   "word": "creature",
+   "def": "n. 人，动物；生物"
+  },
+  {
+   "word": "falsify",
+   "def": "v.伪造。"
+  },
+  {
+   "word": "deficient",
+   "def": "a.缺乏的；欠缺的"
+  },
+  {
+   "word": "acceptance",
+   "def": "n. 接受，接收，验收，接纳；承认，认可"
+  },
+  {
+   "word": "dam",
+   "def": "n./vt. 水坝,筑坝,抑制,阻拦"
+  },
+  {
+   "word": "eccentric",
+   "def": "n./a. 古怪(的),偏执(的);不同心(的)"
+  },
+  {
+   "word": "refrain",
+   "def": "vi. 抑制"
+  },
+  {
+   "word": "cancer",
+   "def": "n. 癌"
+  },
+  {
+   "word": "colorful",
+   "def": "adj.色彩丰富的"
+  },
+  {
+   "word": "behalf",
+   "def": "n. 利益;方面;支持"
+  },
+  {
+   "word": "mystify",
+   "def": "v.迷惑。"
+  }
+ ]
+}

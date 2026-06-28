@@ -1,0 +1,381 @@
+{
+ "id": 87,
+ "words": [
+  {
+   "word": "shave",
+   "def": "v./n. 剃,刮"
+  },
+  {
+   "word": "grown-up",
+   "def": "a. 成长的，成熟的，成人的n. 成年人"
+  },
+  {
+   "word": "tobacco",
+   "def": "n. 烟草，烟叶"
+  },
+  {
+   "word": "gasp",
+   "def": "n./v. 喘气,气喘吁吁地说"
+  },
+  {
+   "word": "anatomy",
+   "def": "n.剖析, 解剖学。"
+  },
+  {
+   "word": "tan",
+   "def": "n./a. (皮肤因日晒而成)棕褐色(的)vt. 晒黑"
+  },
+  {
+   "word": "reply",
+   "def": "v./n. (to)回答，答复，以…作答"
+  },
+  {
+   "word": "fifty",
+   "def": "num. 五十，五十个"
+  },
+  {
+   "word": "viewer",
+   "def": "n.观察者，电视观众"
+  },
+  {
+   "word": "erratic",
+   "def": "adj.无确定路线, 不稳定的, 奇怪的。n.古怪的人, 漂泊无定的人。"
+  },
+  {
+   "word": "prominence",
+   "def": "n.显着，突出"
+  },
+  {
+   "word": "mute",
+   "def": "a. 哑的，缄默的n. 哑巴；弱音器v. 减弱…的声音"
+  },
+  {
+   "word": "rate",
+   "def": "n. 速率；等级；价格，费用v. 估价；评级，评价"
+  },
+  {
+   "word": "jail",
+   "def": "n. 监狱"
+  },
+  {
+   "word": "hush",
+   "def": "n.沉默int.嘘！"
+  },
+  {
+   "word": "country",
+   "def": "n. 国家；农村，乡下"
+  },
+  {
+   "word": "trigger",
+   "def": "n. (枪)扳机;引起反应的行动;vt. 触发,引起"
+  },
+  {
+   "word": "ingredient",
+   "def": "n.成分, 因素。"
+  },
+  {
+   "word": "variance",
+   "def": "n.分歧，不一致"
+  },
+  {
+   "word": "bulb",
+   "def": "n. 鳞茎,球茎,球状物"
+  },
+  {
+   "word": "clinical",
+   "def": "adj.临床的, 病房用的。"
+  },
+  {
+   "word": "yearly",
+   "def": "a. 每年的，一年一度的ad. 每年，一年一次地"
+  },
+  {
+   "word": "periodic",
+   "def": "n.周期的；一定时期的"
+  },
+  {
+   "word": "humanitarian",
+   "def": "a.博爱的n.慈善家"
+  },
+  {
+   "word": "accommodate",
+   "def": "vt. 提供住宿;使适应;容纳"
+  },
+  {
+   "word": "supplementary",
+   "def": "adj.补充的,额外的"
+  },
+  {
+   "word": "Egyptian",
+   "def": "a.埃及的n.埃及人"
+  },
+  {
+   "word": "disagree",
+   "def": "vi.有分歧；不一致"
+  },
+  {
+   "word": "deception",
+   "def": "n.欺诈"
+  },
+  {
+   "word": "pity",
+   "def": "v. (觉得)可怜，惋惜n. 憾事，怜悯"
+  },
+  {
+   "word": "synopsis",
+   "def": "n.大纲。"
+  },
+  {
+   "word": "platypus",
+   "def": "n.[动]鸭嘴兽。"
+  },
+  {
+   "word": "console",
+   "def": "vt. 安慰,慰问;n. 控制台,仪表板;落地柜"
+  },
+  {
+   "word": "weekly",
+   "def": "a. 每星期的，一周的ad. 每周一次n. 周刊，周报"
+  },
+  {
+   "word": "distinctly",
+   "def": "ad.显然，清楚地"
+  },
+  {
+   "word": "yawn",
+   "def": "vi. 打呵欠,张开"
+  },
+  {
+   "word": "acclaim",
+   "def": "n.喝彩, 欢呼v.欢呼, 称赞。"
+  },
+  {
+   "word": "April",
+   "def": "n. 四月"
+  },
+  {
+   "word": "locust",
+   "def": "n.蝗虫；洋槐，刺槐"
+  },
+  {
+   "word": "strain",
+   "def": "n. 拉紧,紧张,拉力;劳累,过分疲劳; vt./vi. 尽量利用;拉紧;扭伤;过滤"
+  },
+  {
+   "word": "few",
+   "def": "a.有些，几个；[表否定"
+  },
+  {
+   "word": "conversely",
+   "def": "ad. 相反地,逆地"
+  },
+  {
+   "word": "annuity",
+   "def": "n.年金, 养老金, 年金享受权。"
+  },
+  {
+   "word": "doom",
+   "def": "n. 毁灭,死亡;vt. 注定,判定"
+  },
+  {
+   "word": "music",
+   "def": "n. 音乐，乐曲，乐谱"
+  },
+  {
+   "word": "inefficient",
+   "def": "a.效率低的，无能的"
+  },
+  {
+   "word": "trivial",
+   "def": "a. 不重要的,琐屑的;平常的,平凡的"
+  },
+  {
+   "word": "limp",
+   "def": "a. 柔软的,软弱的;vt./n. 跛行,蹒跚"
+  },
+  {
+   "word": "neutral",
+   "def": "a. 中立的；中性的，中和的"
+  },
+  {
+   "word": "network",
+   "def": "n. 网状物；广播网，电视网；网络"
+  },
+  {
+   "word": "diet",
+   "def": "n./vi. 饮食,规定的饮食,忌食"
+  },
+  {
+   "word": "bomber",
+   "def": "n.轰炸机"
+  },
+  {
+   "word": "fully",
+   "def": "adv.完全，彻底"
+  },
+  {
+   "word": "enlightening",
+   "def": "adj.给人启发的"
+  },
+  {
+   "word": "borrow",
+   "def": "vt. 借，借入；(思想、文字等)采用，抄袭"
+  },
+  {
+   "word": "imply",
+   "def": "v. 意指，含…意思，暗示"
+  },
+  {
+   "word": "phase",
+   "def": "n. 阶段，状态，时期；相，相位"
+  },
+  {
+   "word": "contemporary",
+   "def": "a. 同时代的,当代的 n. 同龄人,同时代的人"
+  },
+  {
+   "word": "descendant",
+   "def": "n. 子孙，后代"
+  },
+  {
+   "word": "forecast",
+   "def": "vt./n. 预报,预测"
+  },
+  {
+   "word": "ginger",
+   "def": "n.姜，生姜"
+  },
+  {
+   "word": "luxurious",
+   "def": "a.爱好奢侈的，豪华的"
+  },
+  {
+   "word": "type",
+   "def": "n. 型式，类型；印刷字体；活/铅字v. 打字"
+  },
+  {
+   "word": "freak",
+   "def": "n.怪诞的思想、行动或事件, 畸形人, 畸形的动物或植物, 反复无常。adj.奇异的, 反常的。"
+  },
+  {
+   "word": "mountain",
+   "def": "n. 山"
+  },
+  {
+   "word": "Swede",
+   "def": "n.瑞典人"
+  },
+  {
+   "word": "deprive",
+   "def": "vt. 剥夺,使丧失"
+  },
+  {
+   "word": "back-call",
+   "def": "n.(推销员对顾客的)第二次访问"
+  },
+  {
+   "word": "nearly",
+   "def": "ad. 差不多，几乎"
+  },
+  {
+   "word": "apiece",
+   "def": "adv.每个, 每人, 各。"
+  },
+  {
+   "word": "temptation",
+   "def": "n. 引诱,诱惑"
+  },
+  {
+   "word": "threat",
+   "def": "n. 恐吓，威胁；坏兆头，危险迹象"
+  },
+  {
+   "word": "suffering",
+   "def": "n.苦难"
+  },
+  {
+   "word": "certainly",
+   "def": "ad. 一定，必定，无疑；当然，行"
+  },
+  {
+   "word": "sunrise",
+   "def": "n. 日出，拂晓；朝霞"
+  },
+  {
+   "word": "romantic",
+   "def": "a. 浪漫的，传奇式的；不切实际的，好幻想的"
+  },
+  {
+   "word": "ballooning",
+   "def": "n.热气球飞行运动"
+  },
+  {
+   "word": "literature",
+   "def": "n. 文学,文学作品,文献,著作"
+  },
+  {
+   "word": "zest",
+   "def": "n.风味, 强烈的兴趣, 热情, 热心。vt.给...调味。"
+  },
+  {
+   "word": "sleep",
+   "def": "v. (slept，slept)睡n. 睡眠"
+  },
+  {
+   "word": "popcorn",
+   "def": "n.爆米花"
+  },
+  {
+   "word": "economically",
+   "def": "ad.节约地，在经济上"
+  },
+  {
+   "word": "overtime",
+   "def": "a. 超时的，加班的ad. 加班"
+  },
+  {
+   "word": "drain",
+   "def": "n. 排水管,排水沟;消耗;v. 排水,耗尽"
+  },
+  {
+   "word": "expand",
+   "def": "v. (使)扩大,展开;膨胀"
+  },
+  {
+   "word": "champagne",
+   "def": "n.香槟酒, 香槟色。"
+  },
+  {
+   "word": "endeavor",
+   "def": "v./n. 努力，尽力，力图"
+  },
+  {
+   "word": "grasshopper",
+   "def": "n.蚱蜢，蝗虫，蚂蚱"
+  },
+  {
+   "word": "fortune",
+   "def": "n. 运气；命运；财产；财富"
+  },
+  {
+   "word": "extend",
+   "def": "v. 伸出,延长;给予;扩大"
+  },
+  {
+   "word": "contaminate",
+   "def": "v.污染。"
+  },
+  {
+   "word": "volley",
+   "def": "n. &v.齐射"
+  },
+  {
+   "word": "performance",
+   "def": "n. 演出,表演;履行,执行;工作情况,表现;(机器等)工作性能"
+  },
+  {
+   "word": "be",
+   "def": "v. (就)是，等于；(存)在；到达，来到，发生"
+  }
+ ]
+}

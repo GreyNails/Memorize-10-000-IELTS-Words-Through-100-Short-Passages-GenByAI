@@ -1,0 +1,381 @@
+{
+ "id": 34,
+ "words": [
+  {
+   "word": "obscure",
+   "def": "a. 不出名的,不重要的;费解的;模糊不清的; vt. 使变模糊,掩盖"
+  },
+  {
+   "word": "pill",
+   "def": "n. 药丸"
+  },
+  {
+   "word": "eject",
+   "def": "v. 喷射,排出;驱逐"
+  },
+  {
+   "word": "circuit",
+   "def": "n. 周游,电路,协会"
+  },
+  {
+   "word": "utterance",
+   "def": "n.说话"
+  },
+  {
+   "word": "macroeconomics",
+   "def": "n.宏观经济学"
+  },
+  {
+   "word": "spectrum",
+   "def": "n. 光谱,系列"
+  },
+  {
+   "word": "basis",
+   "def": "n. 基础，根据"
+  },
+  {
+   "word": "pink",
+   "def": "n. 粉红色a. 粉红色的"
+  },
+  {
+   "word": "applicant",
+   "def": "n. 申请人,请求者"
+  },
+  {
+   "word": "construction",
+   "def": "n. 建造，构造；建筑物，结构；释义，解释"
+  },
+  {
+   "word": "liberal",
+   "def": "a. 慷慨的,大方的,胸怀宽大的;n. 自由主义者"
+  },
+  {
+   "word": "therewith",
+   "def": "adv.对此"
+  },
+  {
+   "word": "countermand",
+   "def": "v.撤回，取消"
+  },
+  {
+   "word": "emit",
+   "def": "vt. 散发,发射"
+  },
+  {
+   "word": "thing",
+   "def": "n. 物，东西；事，事情；所有物；局面，情况"
+  },
+  {
+   "word": "thigh",
+   "def": "n. 大腿,股"
+  },
+  {
+   "word": "vote",
+   "def": "n. 投票，表决；选票，选票数v. 投票，表决"
+  },
+  {
+   "word": "appraise",
+   "def": "v.评价。"
+  },
+  {
+   "word": "institution",
+   "def": "n. 公共机构；协会；学校；研究所；制度；惯例"
+  },
+  {
+   "word": "multiplication",
+   "def": "n.增加；繁殖；乘法"
+  },
+  {
+   "word": "insubstantial",
+   "def": "adj.无实质色, 无实体的, 非实在的, 幻想的, 不坚固的, 脆弱的。"
+  },
+  {
+   "word": "export",
+   "def": "v. 出口,输出;n. 出口,出口企业,出口品"
+  },
+  {
+   "word": "financier",
+   "def": "n.金融家"
+  },
+  {
+   "word": "horsepower",
+   "def": "n.马力"
+  },
+  {
+   "word": "vibration",
+   "def": "n.颤动，振动；摆动"
+  },
+  {
+   "word": "peg",
+   "def": "n.桩v.(汇率)钉住"
+  },
+  {
+   "word": "wide",
+   "def": "a. 宽阔的；睁大的；远离的ad. 广阔地；偏差地"
+  },
+  {
+   "word": "senate",
+   "def": "n. 参议院，上院"
+  },
+  {
+   "word": "degrade",
+   "def": "vt. 贬低;恶化;分解,降解"
+  },
+  {
+   "word": "belong",
+   "def": "v. (to)属于，附属，隶属；应归入(类别，范畴等)"
+  },
+  {
+   "word": "beg",
+   "def": "vt. 请求，乞求vi. 恳请，行乞"
+  },
+  {
+   "word": "pounce",
+   "def": "v.突袭。n.突袭。"
+  },
+  {
+   "word": "delivery",
+   "def": "n. 递送；交付；分娩；交货；引渡"
+  },
+  {
+   "word": "me",
+   "def": "pron.我"
+  },
+  {
+   "word": "sprinkle",
+   "def": "n. 洒，喷，淋"
+  },
+  {
+   "word": "membrane",
+   "def": "n.膜, 隔膜。"
+  },
+  {
+   "word": "postulate",
+   "def": "vt.要求，假定，假设"
+  },
+  {
+   "word": "defect",
+   "def": "n. 欠缺,缺点;vi. 背叛,逃跑,开小差"
+  },
+  {
+   "word": "blot",
+   "def": "n. 墨水渍;污点;缺点;vi. 涂污;(用吸水纸)吸干墨水;遮暗"
+  },
+  {
+   "word": "surcharge",
+   "def": "n. 额外费用,过高的要价"
+  },
+  {
+   "word": "cavern",
+   "def": "n.酒馆"
+  },
+  {
+   "word": "alongside",
+   "def": "ad./prep. 在旁,靠近"
+  },
+  {
+   "word": "exemplify",
+   "def": "vt. 举例说明,作为…的例证"
+  },
+  {
+   "word": "sift",
+   "def": "vt.筛，过滤vi.通过"
+  },
+  {
+   "word": "identity",
+   "def": "n. 身份；本体；特征；同一(性)；一致；国籍；等式"
+  },
+  {
+   "word": "burrow",
+   "def": "n.洞穴。v.挖地洞"
+  },
+  {
+   "word": "mayor",
+   "def": "n. 市长"
+  },
+  {
+   "word": "airliner",
+   "def": "n.定期航班"
+  },
+  {
+   "word": "strip",
+   "def": "vt./vi. 剥去,除去;剥夺财产;n. 狭长一片"
+  },
+  {
+   "word": "pawn",
+   "def": "v.典当,抵押,以...担保 n.小卒,被人利用的人"
+  },
+  {
+   "word": "conquest",
+   "def": "n. 征服，征服地，掠取物"
+  },
+  {
+   "word": "obedience",
+   "def": "n. 服从，顺从"
+  },
+  {
+   "word": "remedy",
+   "def": "n. 补救办法,纠正办法;药品,治疗法 vt. 补救,纠正;治疗,医治"
+  },
+  {
+   "word": "glorify",
+   "def": "vt.赞美(上帝)；颂扬"
+  },
+  {
+   "word": "Russian",
+   "def": "a.俄罗斯的 n.俄国人"
+  },
+  {
+   "word": "obliterate",
+   "def": "adj.删去，抹掉"
+  },
+  {
+   "word": "sequence",
+   "def": "n. (事件、观念等的)系列;顺序;关联"
+  },
+  {
+   "word": "gape",
+   "def": "v.打呵欠。n.呵欠"
+  },
+  {
+   "word": "customary",
+   "def": "a. 习惯的，惯例的"
+  },
+  {
+   "word": "mucous",
+   "def": "adj.黏液的, 黏液似的。"
+  },
+  {
+   "word": "bitterness",
+   "def": "n.苦味，辛酸，苦难"
+  },
+  {
+   "word": "will",
+   "def": "aux./v. 将；会；愿意n. 意志；决心；愿望"
+  },
+  {
+   "word": "alphabet",
+   "def": "n. 字母表；初步，入门"
+  },
+  {
+   "word": "even",
+   "def": "a. 一致的,双数的,均等的 vt. 使平坦 ad. 即使"
+  },
+  {
+   "word": "district",
+   "def": "n. 地区，行政区；美国各州的众议院选区"
+  },
+  {
+   "word": "tibia",
+   "def": "n.[解] 胫骨, [昆]胫节, 从前的一种笛。"
+  },
+  {
+   "word": "collective",
+   "def": "n. 集体a. 集体的，共同的"
+  },
+  {
+   "word": "perceptible",
+   "def": "adj.可察觉的, 显而易见的, 感觉得到的。"
+  },
+  {
+   "word": "link",
+   "def": "v. 连接，联系n. 环节，链环"
+  },
+  {
+   "word": "interference",
+   "def": "n. (in)干涉，干预；(with)妨碍，打扰"
+  },
+  {
+   "word": "holocaust",
+   "def": "n.大毁灭, 大屠杀。"
+  },
+  {
+   "word": "peninsular",
+   "def": "n.半岛"
+  },
+  {
+   "word": "schooling",
+   "def": "n.学校教育"
+  },
+  {
+   "word": "rumour",
+   "def": "n.[亦作rumor] 谣言, 传闻。v.谣传。"
+  },
+  {
+   "word": "ejection",
+   "def": "n.喷射"
+  },
+  {
+   "word": "ruling",
+   "def": "adj.统治的"
+  },
+  {
+   "word": "reverence",
+   "def": "n.尊敬，崇敬"
+  },
+  {
+   "word": "whichever",
+   "def": "pron./a. 无论哪个，无论哪些"
+  },
+  {
+   "word": "adjacent",
+   "def": "a. 邻接的,邻近的"
+  },
+  {
+   "word": "apartment",
+   "def": "n.房间，套间；[美"
+  },
+  {
+   "word": "behind",
+   "def": "prep. 在…的背后，(遗留)在…后面；落后于"
+  },
+  {
+   "word": "pitcher",
+   "def": "n.水罐"
+  },
+  {
+   "word": "melt",
+   "def": "v. (使)融化，(使)熔化"
+  },
+  {
+   "word": "sake",
+   "def": "n. 缘故;目的"
+  },
+  {
+   "word": "pope",
+   "def": "n. 罗马教皇，主教，大腿上要害部位"
+  },
+  {
+   "word": "handling",
+   "def": "n.处理，管理"
+  },
+  {
+   "word": "sculptor",
+   "def": "n.雕塑家"
+  },
+  {
+   "word": "leadership",
+   "def": "n. 领导"
+  },
+  {
+   "word": "remote",
+   "def": "a. 远的，遥远的，疏远的，偏僻的，细微的"
+  },
+  {
+   "word": "elapse",
+   "def": "vi. (时间)流逝"
+  },
+  {
+   "word": "frequently",
+   "def": "ad.时常，常常"
+  },
+  {
+   "word": "sew",
+   "def": "v. 缝，缝纫"
+  },
+  {
+   "word": "waterproof",
+   "def": "a. 防水的，耐水的"
+  }
+ ]
+}

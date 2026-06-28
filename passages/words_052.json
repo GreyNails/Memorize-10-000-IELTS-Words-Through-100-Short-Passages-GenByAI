@@ -1,0 +1,381 @@
+{
+ "id": 52,
+ "words": [
+  {
+   "word": "adolescence",
+   "def": "n. 青春,青春期"
+  },
+  {
+   "word": "communism",
+   "def": "n. 共产主义"
+  },
+  {
+   "word": "regionalize",
+   "def": "v.使区域化"
+  },
+  {
+   "word": "earthly",
+   "def": "adj.世俗的"
+  },
+  {
+   "word": "recipe",
+   "def": "n. 烹饪法,食谱,配方"
+  },
+  {
+   "word": "potential",
+   "def": "a. 可能的,潜在的;n. 潜能;潜力"
+  },
+  {
+   "word": "momentary",
+   "def": "a.瞬息间的，片刻的"
+  },
+  {
+   "word": "inject",
+   "def": "vt. 注射;注入"
+  },
+  {
+   "word": "somebody",
+   "def": "pron. 某人，有人n. 重要人物"
+  },
+  {
+   "word": "liability",
+   "def": "n. 责任，义务；(pl.)债务"
+  },
+  {
+   "word": "fallible",
+   "def": "adj.易错的, 可能犯错的。"
+  },
+  {
+   "word": "vow",
+   "def": "n. 誓约,许愿"
+  },
+  {
+   "word": "fry",
+   "def": "v. 油煎,油炒"
+  },
+  {
+   "word": "notebook",
+   "def": "n. 笔记本"
+  },
+  {
+   "word": "nonsense",
+   "def": "n. 胡说，废话"
+  },
+  {
+   "word": "gallery",
+   "def": "n. 画廊,美术品陈列室,剧场顶层"
+  },
+  {
+   "word": "bulk",
+   "def": "n. 容量;体积;大块"
+  },
+  {
+   "word": "stove",
+   "def": "n. 炉子，火炉"
+  },
+  {
+   "word": "worldwide",
+   "def": "a. 全世界的，世界范围的ad. 遍及全世界"
+  },
+  {
+   "word": "chaos",
+   "def": "n. 混乱,纷乱"
+  },
+  {
+   "word": "trademark",
+   "def": "n. 商标；特征vt. 注册的…商标"
+  },
+  {
+   "word": "salesman",
+   "def": "n. 售货员，推销员"
+  },
+  {
+   "word": "conservation",
+   "def": "n. 保存，保护，保守；守恒，不灭"
+  },
+  {
+   "word": "reliability",
+   "def": "n.可靠性"
+  },
+  {
+   "word": "spectator",
+   "def": "n. 观众,旁观者"
+  },
+  {
+   "word": "absorption",
+   "def": "n.吸收；专注"
+  },
+  {
+   "word": "undulate",
+   "def": "v.波动, 起伏, 成波浪形。adj.波浪形的, 起伏的"
+  },
+  {
+   "word": "writer",
+   "def": "n. 作者，作家，复写器"
+  },
+  {
+   "word": "closet",
+   "def": "n. 小储藏室"
+  },
+  {
+   "word": "wasp",
+   "def": "n.黄蜂，蚂蜂"
+  },
+  {
+   "word": "hitherto",
+   "def": "ad. 到目前为止，迄今"
+  },
+  {
+   "word": "baby",
+   "def": "n. 婴儿；年龄最小的人；小动物a. 婴儿似的"
+  },
+  {
+   "word": "coerce",
+   "def": "vt.强制, 强迫。"
+  },
+  {
+   "word": "willingly",
+   "def": "adv.乐意地，自愿地"
+  },
+  {
+   "word": "proprietorship",
+   "def": "n.所有权"
+  },
+  {
+   "word": "repeat",
+   "def": "v. 重复，重说，重做n. 重复"
+  },
+  {
+   "word": "kind",
+   "def": "a. 仁慈的，友好的，亲切的，和蔼的n. 种类"
+  },
+  {
+   "word": "meeting",
+   "def": "n. 会议，集合，汇合，会见，接见，汇合点"
+  },
+  {
+   "word": "engaged",
+   "def": "adj.占用的，从事的"
+  },
+  {
+   "word": "concern",
+   "def": "vt. 影响;涉及;忙于;关心;n. 所关切的事;企业;关心"
+  },
+  {
+   "word": "calamity",
+   "def": "n.灾难, 不幸事件。"
+  },
+  {
+   "word": "sprint",
+   "def": "v.疾跑。美国著名的通讯公司。"
+  },
+  {
+   "word": "appropriate",
+   "def": "a. 合适的;v. 挪用;拨款"
+  },
+  {
+   "word": "football",
+   "def": "n. 足球"
+  },
+  {
+   "word": "pumpkin",
+   "def": "n.南瓜，南瓜藤"
+  },
+  {
+   "word": "natal",
+   "def": "adj.出生的, 诞生的。"
+  },
+  {
+   "word": "fade",
+   "def": "v. (使)褪色;逐渐消失"
+  },
+  {
+   "word": "bread-earner",
+   "def": "n.挣钱养家的人"
+  },
+  {
+   "word": "policeman",
+   "def": "n. 警察"
+  },
+  {
+   "word": "completely",
+   "def": "ad.十分，完全地"
+  },
+  {
+   "word": "tail",
+   "def": "n. 尾巴；尾部；跟踪者vt. 尾随，跟踪"
+  },
+  {
+   "word": "attachment",
+   "def": "n.连接物，附件；爱慕"
+  },
+  {
+   "word": "layer",
+   "def": "n. 层"
+  },
+  {
+   "word": "research",
+   "def": "v. (into，on)研究，调查n.研究，调查"
+  },
+  {
+   "word": "valued",
+   "def": "adj.宝贵的"
+  },
+  {
+   "word": "hardy",
+   "def": "a. 勇敢的,果断的,吃苦的;耐寒的"
+  },
+  {
+   "word": "secular",
+   "def": "adj.长期的。"
+  },
+  {
+   "word": "habitable",
+   "def": "adj.可居住的。"
+  },
+  {
+   "word": "discriminate",
+   "def": "v. 区别,区分;歧视"
+  },
+  {
+   "word": "lemonade",
+   "def": "n.柠檬汽水"
+  },
+  {
+   "word": "defiant",
+   "def": "adj.无礼的，挑战的"
+  },
+  {
+   "word": "waitress",
+   "def": "n. 女侍者，女服务员"
+  },
+  {
+   "word": "electronics",
+   "def": "n.电子学"
+  },
+  {
+   "word": "foster",
+   "def": "vt. 养育；收养；怀抱；鼓励a. 收养的n. 养育者"
+  },
+  {
+   "word": "doll",
+   "def": "n. 玩偶，玩具娃娃"
+  },
+  {
+   "word": "cord",
+   "def": "n. 绳，索"
+  },
+  {
+   "word": "especial",
+   "def": "adj.特别的，专门的"
+  },
+  {
+   "word": "womb",
+   "def": "n.子宫, 发源地。vt.(如子宫般的)包含, 容纳。"
+  },
+  {
+   "word": "steam",
+   "def": "n. 水汽，蒸汽，水蒸气v. 蒸发；蒸；用蒸汽开动"
+  },
+  {
+   "word": "ulcer",
+   "def": "n.溃疡"
+  },
+  {
+   "word": "park",
+   "def": "n. 公园，停车场，运动场v. 停放(汽车等)，寄放"
+  },
+  {
+   "word": "janitor",
+   "def": "n.看门人。"
+  },
+  {
+   "word": "snatch",
+   "def": "vt. 夺,夺走;一下子拉,一把抓住;抓住机会做;vi. (at)一把抓住;n. 片断"
+  },
+  {
+   "word": "Buddhist",
+   "def": "n.佛教徒"
+  },
+  {
+   "word": "harm",
+   "def": "n./v. 伤害，损害，危害"
+  },
+  {
+   "word": "penalty",
+   "def": "n. 处罚;惩罚"
+  },
+  {
+   "word": "shack",
+   "def": "n.小室。"
+  },
+  {
+   "word": "coherent",
+   "def": "a. 一致的，协调的；(话语等)条理清楚的"
+  },
+  {
+   "word": "velocity",
+   "def": "n. 速度，速率"
+  },
+  {
+   "word": "city",
+   "def": "n．城市；都市；市"
+  },
+  {
+   "word": "strife",
+   "def": "n. 争吵；冲突，斗争；竞争"
+  },
+  {
+   "word": "respective",
+   "def": "a. 各自的，各个的"
+  },
+  {
+   "word": "evaluation",
+   "def": "n.估价，评价"
+  },
+  {
+   "word": "hearing",
+   "def": "n. 听力,听力所及距离,被听到机会;(法律)审讯"
+  },
+  {
+   "word": "inlet",
+   "def": "n. 水湾，小湾；进口，入口"
+  },
+  {
+   "word": "cooperative",
+   "def": "a. 合作的，协作的n. 合作社"
+  },
+  {
+   "word": "engineering",
+   "def": "n. 工程学"
+  },
+  {
+   "word": "roam",
+   "def": "vt./vi. 漫步,漫游"
+  },
+  {
+   "word": "manacle",
+   "def": "n.手铐, 脚镣, 束缚。vt.给...上手铐, 束缚"
+  },
+  {
+   "word": "least",
+   "def": "a. 最小的；最少的ad. 最小；最少"
+  },
+  {
+   "word": "severe",
+   "def": "a. 严厉的,严重的,剧烈的"
+  },
+  {
+   "word": "tree",
+   "def": "n. 树，树状物vi. 爬上树"
+  },
+  {
+   "word": "flare",
+   "def": "vi./n. 熊熊燃烧,突然燃烧,火光;v./n. (衣裙等)张开"
+  },
+  {
+   "word": "fort",
+   "def": "n. 堡垒,要塞"
+  }
+ ]
+}

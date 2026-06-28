@@ -1,0 +1,381 @@
+{
+ "id": 19,
+ "words": [
+  {
+   "word": "finance",
+   "def": "n./vt. 财政,金融,资金"
+  },
+  {
+   "word": "practicable",
+   "def": "a. 可实行的,能用的,可行的"
+  },
+  {
+   "word": "except",
+   "def": "prep. 除…之外v. 除外；反对"
+  },
+  {
+   "word": "morale",
+   "def": "n.士气，斗志"
+  },
+  {
+   "word": "wholesaler",
+   "def": "n.批发商"
+  },
+  {
+   "word": "piecemeal",
+   "def": "v.粉碎。"
+  },
+  {
+   "word": "straight",
+   "def": "a. 直的；整齐的，端正的ad. 直接；正直，直率"
+  },
+  {
+   "word": "software",
+   "def": "n. 软件"
+  },
+  {
+   "word": "arouse",
+   "def": "vt. 激发,引起;唤醒"
+  },
+  {
+   "word": "biology",
+   "def": "n. 生物学"
+  },
+  {
+   "word": "recline",
+   "def": "v.放置。"
+  },
+  {
+   "word": "prosecute",
+   "def": "vt. 起诉,告发;实行,从事"
+  },
+  {
+   "word": "temperate",
+   "def": "adj.有节制的, 适度的, 戒酒的, (气候)温和的。"
+  },
+  {
+   "word": "separately",
+   "def": "ad.分离地"
+  },
+  {
+   "word": "terminal",
+   "def": "a. 晚期的,末期的;学期的;末端的,终点的 n. 终点站;航空枢扭"
+  },
+  {
+   "word": "petrol",
+   "def": "n. 汽油"
+  },
+  {
+   "word": "fellow",
+   "def": "n. 人，家伙；伙伴，同事a. 同样的，同事的"
+  },
+  {
+   "word": "hound",
+   "def": "n. 猎狗;卑鄙的人 vt. 用猎狗追,追逐"
+  },
+  {
+   "word": "decipher",
+   "def": "vt.译解(密码等), 解释。n.密电译文"
+  },
+  {
+   "word": "receipt",
+   "def": "n. 收到,收据"
+  },
+  {
+   "word": "distribution",
+   "def": "n.分发，分配；分布"
+  },
+  {
+   "word": "concurrence",
+   "def": "n.合作，并发"
+  },
+  {
+   "word": "enquire",
+   "def": "v. 询问,打听"
+  },
+  {
+   "word": "lightly",
+   "def": "ad.轻轻地，轻松地"
+  },
+  {
+   "word": "streak",
+   "def": "n.纹理，条纹 vt.裸奔,飞驰"
+  },
+  {
+   "word": "much",
+   "def": "a. 多的，大量的ad. 十分，非常；到极大程度"
+  },
+  {
+   "word": "evolution",
+   "def": "n. 演变,进展,进化"
+  },
+  {
+   "word": "closely",
+   "def": "ad.紧密地，接近地"
+  },
+  {
+   "word": "affect",
+   "def": "vt. 影响"
+  },
+  {
+   "word": "announcer",
+   "def": "n.宣告者；播音员"
+  },
+  {
+   "word": "summary",
+   "def": "a. 概括的;即时的;n. 摘要,概要"
+  },
+  {
+   "word": "aboard",
+   "def": "ad./prep. 在船(飞机、车)上ad. 上船(飞机)"
+  },
+  {
+   "word": "triumphant",
+   "def": "a.得胜的；得意洋洋的"
+  },
+  {
+   "word": "bribery",
+   "def": "v.贿赂"
+  },
+  {
+   "word": "absence",
+   "def": "n. 缺乏，不存在；缺席，不在；缺席的时间"
+  },
+  {
+   "word": "lovely",
+   "def": "a. 可爱的，好看的；令人愉快的，美好的"
+  },
+  {
+   "word": "tantalize",
+   "def": "vt.逗弄, 使干着急。"
+  },
+  {
+   "word": "necessarily",
+   "def": "ad.必然，必定"
+  },
+  {
+   "word": "laudable",
+   "def": "adj.值得赞美的, 值得称赞的。"
+  },
+  {
+   "word": "courage",
+   "def": "n. 勇气，胆量"
+  },
+  {
+   "word": "eight",
+   "def": "num. 八pron. 八(个，只…)"
+  },
+  {
+   "word": "age",
+   "def": "n. 年龄；时代；老年；长时间v. (使)变老"
+  },
+  {
+   "word": "please",
+   "def": "v. 请；使愉快，使满意；喜欢，愿意"
+  },
+  {
+   "word": "accurately",
+   "def": "adj.准确地"
+  },
+  {
+   "word": "careful",
+   "def": "a. 小心的，仔细的；细致的，精心的"
+  },
+  {
+   "word": "arrogant",
+   "def": "a. 傲慢的,自负的"
+  },
+  {
+   "word": "bob",
+   "def": "v.上下或来回的动, 剪短(头发)。n.振动, 短发, 振子锤。"
+  },
+  {
+   "word": "nourishment",
+   "def": "n. 食物"
+  },
+  {
+   "word": "disappearance",
+   "def": "n.消失，消散；失踪"
+  },
+  {
+   "word": "monstrous",
+   "def": "a.可怕的；极大的"
+  },
+  {
+   "word": "list",
+   "def": "n. 表，目录，名单v. 把…编列成表，列入表内"
+  },
+  {
+   "word": "relapse",
+   "def": "n.复发, 回复原状。vi.故态复萌, 旧病复发。"
+  },
+  {
+   "word": "drown",
+   "def": "v. 淹死;(高声音)遮掩(低声音)"
+  },
+  {
+   "word": "refinement",
+   "def": "n.精炼,改进,改善,优雅高贵的举止"
+  },
+  {
+   "word": "indirectly",
+   "def": "adj.间接地"
+  },
+  {
+   "word": "official",
+   "def": "n. 官员，行政官员a. 官方的，官方的，正式的"
+  },
+  {
+   "word": "hostage",
+   "def": "n. 人质"
+  },
+  {
+   "word": "routine",
+   "def": "n. 例行公事,惯例,常规"
+  },
+  {
+   "word": "smash",
+   "def": "vt./vi. 打碎,打破;击溃"
+  },
+  {
+   "word": "suspend",
+   "def": "vt. 吊,悬挂;悬浮;暂停"
+  },
+  {
+   "word": "regarding",
+   "def": "prep. 关于，有关"
+  },
+  {
+   "word": "decimal",
+   "def": "a. 十进法的,小数的"
+  },
+  {
+   "word": "steal",
+   "def": "v. 偷，窃取；偷偷地做，巧取"
+  },
+  {
+   "word": "gypsum",
+   "def": "n.[矿]石膏, [农]石膏肥料。vt.施石膏肥料于, 用石膏处理"
+  },
+  {
+   "word": "surround",
+   "def": "vt. 包围，环绕n. 环绕物"
+  },
+  {
+   "word": "tomb",
+   "def": "n. 坟，冢"
+  },
+  {
+   "word": "reception",
+   "def": "n. 招待会,接收,接待处"
+  },
+  {
+   "word": "scent",
+   "def": "n. 气味,香味;香水;踪迹,臭迹,线索;vt. 嗅出,闻到,察觉,怀疑有"
+  },
+  {
+   "word": "snob",
+   "def": "n.势利小人"
+  },
+  {
+   "word": "caption",
+   "def": "n. 报纸文章的标题,照片说明"
+  },
+  {
+   "word": "fiance",
+   "def": "n.<法>未婚夫。"
+  },
+  {
+   "word": "alas",
+   "def": "int.唉，哎呀"
+  },
+  {
+   "word": "geometry",
+   "def": "n. 几何学"
+  },
+  {
+   "word": "October",
+   "def": "n. 十月"
+  },
+  {
+   "word": "light",
+   "def": "a. 明亮的,轻的,不重要的 n. 光,光线,光源"
+  },
+  {
+   "word": "jumble",
+   "def": "v./n. 混杂,混乱,杂乱"
+  },
+  {
+   "word": "skillful",
+   "def": "a. (in，at)灵巧的，娴熟的"
+  },
+  {
+   "word": "resolution",
+   "def": "n. 坚决,坚定;决议,决定;决心,解决;分解"
+  },
+  {
+   "word": "occidental",
+   "def": "adj.西方的，西洋的"
+  },
+  {
+   "word": "refuge",
+   "def": "n. 避难处，藏身处"
+  },
+  {
+   "word": "ugly",
+   "def": "a. 丑陋的,险恶的"
+  },
+  {
+   "word": "trek",
+   "def": "vi.牛拉车, 艰苦跋涉。vt.（牛）拉（货车）, 搬, 运。n.牛拉车旅行, 艰苦跋涉。"
+  },
+  {
+   "word": "correspond",
+   "def": "vi. 符合;通信;相当于"
+  },
+  {
+   "word": "aquarium",
+   "def": "n.养鱼池, 玻璃缸, 水族馆。"
+  },
+  {
+   "word": "ditto",
+   "def": "n.同上"
+  },
+  {
+   "word": "hepatitis",
+   "def": "n.[医]肝炎。"
+  },
+  {
+   "word": "cast",
+   "def": "n./v. 投,掷,抛;铸造;扮演角色"
+  },
+  {
+   "word": "failure",
+   "def": "n. 失败，不及格；失败者；故障，失灵；未能"
+  },
+  {
+   "word": "air",
+   "def": "n. 空气；(复数)神气vt. (使)通风；晾干"
+  },
+  {
+   "word": "wing",
+   "def": "n. 翅，翅膀；翼，机翼；派别vt. 装以翼"
+  },
+  {
+   "word": "horrify",
+   "def": "v.使恐惧"
+  },
+  {
+   "word": "howl",
+   "def": "n./v. 嚎叫,怒吼"
+  },
+  {
+   "word": "mister",
+   "def": "n.先生"
+  },
+  {
+   "word": "suspense",
+   "def": "n. (新闻、决定)不确定,悬而未决"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "id": 35,
+ "words": [
+  {
+   "word": "illness",
+   "def": "n. 病，疾病"
+  },
+  {
+   "word": "dysentery",
+   "def": "n.[医] 痢疾。"
+  },
+  {
+   "word": "confine",
+   "def": "vt. 限制;禁闭"
+  },
+  {
+   "word": "check-out",
+   "def": "n.结帐，离店时限"
+  },
+  {
+   "word": "canoe",
+   "def": "n. 独木舟，小游艇"
+  },
+  {
+   "word": "lukewarm",
+   "def": "adj.冷淡的。"
+  },
+  {
+   "word": "immigration",
+   "def": "n.移居入境"
+  },
+  {
+   "word": "unnecessary",
+   "def": "a.不必要的，多余的"
+  },
+  {
+   "word": "hurdle",
+   "def": "n.篱笆, 栏, 障碍, 跨栏, 活动篱笆。v.用篱笆围住, 跳过(栏栅), 克服(障碍)。"
+  },
+  {
+   "word": "touchy",
+   "def": "adj.暴躁的, 难以处理的, 易起火的。"
+  },
+  {
+   "word": "principal",
+   "def": "a. 主要的;n. 校长"
+  },
+  {
+   "word": "gain",
+   "def": "v. 获得；增加；表等走快n. 增进，增加；收益"
+  },
+  {
+   "word": "fierce",
+   "def": "a. 凶猛的,凶狠的,愤怒的;强烈的"
+  },
+  {
+   "word": "competitor",
+   "def": "n.竞争者，敌手"
+  },
+  {
+   "word": "recapture",
+   "def": "n.取回, 夺回, 政府对公司超额收益或利润的征收。vt.拿回, 夺回, 再体验, 政府征收再经历, 再体验"
+  },
+  {
+   "word": "elaborate",
+   "def": "a. 精心计划的;复杂的,详尽的;vt. 做详细说明"
+  },
+  {
+   "word": "postgraduate",
+   "def": "n.研究所学生, 研究生。adj.毕业后的。"
+  },
+  {
+   "word": "everywhere",
+   "def": "ad. 到处，各处，无论何处"
+  },
+  {
+   "word": "speedy",
+   "def": "adj.快速的"
+  },
+  {
+   "word": "nervous",
+   "def": "a. 神经的；神经过敏的，紧张不安的"
+  },
+  {
+   "word": "triple",
+   "def": "n. 三倍数a. 三倍的；三部分构成的v. 使成三倍"
+  },
+  {
+   "word": "slay",
+   "def": "v.屠杀"
+  },
+  {
+   "word": "midst",
+   "def": "n. 中间，当中"
+  },
+  {
+   "word": "polite",
+   "def": "a. 有礼貌的，客气的；有教养的，文雅的"
+  },
+  {
+   "word": "quarantine",
+   "def": "n.检疫, 隔离, (政治或商业上的)封锁, 检疫期间。vt.检疫, 使在政治或商业上孤立。"
+  },
+  {
+   "word": "bearing",
+   "def": "n. 举止;关系;方位"
+  },
+  {
+   "word": "prescribe",
+   "def": "v. 吩咐使用;开(药)"
+  },
+  {
+   "word": "commonplace",
+   "def": "a. 普通的,平凡的"
+  },
+  {
+   "word": "dealing",
+   "def": "n.交往，生意"
+  },
+  {
+   "word": "Dutch",
+   "def": "n.荷兰人, 荷兰语。adj.荷兰的, <俚> 德国的, 条顿民族的。"
+  },
+  {
+   "word": "shopkeeper",
+   "def": "n. 店主"
+  },
+  {
+   "word": "abandon",
+   "def": "vt. 抛弃;放弃"
+  },
+  {
+   "word": "cosset",
+   "def": "n.亲手饲养的宠物, 宠儿。vt.宠爱, 珍爱, 溺爱。"
+  },
+  {
+   "word": "collision",
+   "def": "n. 碰撞；(利益，意见等的)冲突，抵触"
+  },
+  {
+   "word": "depiction",
+   "def": "n.描述"
+  },
+  {
+   "word": "start",
+   "def": "v. 开始；动身；吃惊；开办，开动n. 开端；惊起"
+  },
+  {
+   "word": "marble",
+   "def": "n. 大理石,(游戏用的)玻璃弹子"
+  },
+  {
+   "word": "correct",
+   "def": "a. 正确的，恰当的，端正的v. 改正，纠正，矫正"
+  },
+  {
+   "word": "fist",
+   "def": "n. 拳头"
+  },
+  {
+   "word": "reservoir",
+   "def": "n. 水库，蓄水池"
+  },
+  {
+   "word": "tropic",
+   "def": "n. 回归线"
+  },
+  {
+   "word": "ax",
+   "def": "n. 斧子；削减vt. 用斧砍"
+  },
+  {
+   "word": "handsome",
+   "def": "a. 漂亮的,大方的"
+  },
+  {
+   "word": "dispute",
+   "def": "v./n. 争论,争执,质疑"
+  },
+  {
+   "word": "seldom",
+   "def": "ad. 很少，不常"
+  },
+  {
+   "word": "participation",
+   "def": "n.参加，参与"
+  },
+  {
+   "word": "exclusively",
+   "def": "ad.专门地"
+  },
+  {
+   "word": "cheeky",
+   "def": "adj.胖乎乎的"
+  },
+  {
+   "word": "tour",
+   "def": "n. 旅游，旅行；巡回演出/比赛v. 旅游"
+  },
+  {
+   "word": "license",
+   "def": "n. 许可证，执照v. 准许，认可"
+  },
+  {
+   "word": "optimize",
+   "def": "v.最佳化"
+  },
+  {
+   "word": "differ",
+   "def": "v. (from)与…不同；(with)与…意见不同"
+  },
+  {
+   "word": "beggar",
+   "def": "n.乞丐，穷人"
+  },
+  {
+   "word": "curve",
+   "def": "n. 曲线;v. 弄弯,成曲线"
+  },
+  {
+   "word": "lumber",
+   "def": "n. 木材，木料"
+  },
+  {
+   "word": "undermine",
+   "def": "vt. (暗中)破坏;(逐渐)削弱"
+  },
+  {
+   "word": "marketplace",
+   "def": "n.市场，集市"
+  },
+  {
+   "word": "developing",
+   "def": "adj.发展中的"
+  },
+  {
+   "word": "socialism",
+   "def": "n. 社会主义"
+  },
+  {
+   "word": "erasure",
+   "def": "n.抹去"
+  },
+  {
+   "word": "neck",
+   "def": "n. 颈脖"
+  },
+  {
+   "word": "lawyer",
+   "def": "n. 律师"
+  },
+  {
+   "word": "scare",
+   "def": "n. 惊恐，恐慌v. 惊吓，受惊"
+  },
+  {
+   "word": "indicative",
+   "def": "a. 指示的,表示的"
+  },
+  {
+   "word": "hinder",
+   "def": "vt. 阻碍,阻止"
+  },
+  {
+   "word": "oven",
+   "def": "n. 炉，灶，灶箱"
+  },
+  {
+   "word": "commitment",
+   "def": "n.责任"
+  },
+  {
+   "word": "laborious",
+   "def": "adj.(指工作)艰苦的, 费力的, (指人)勤劳的。"
+  },
+  {
+   "word": "ache",
+   "def": "vi. 痛；哀怜n. (指连续)疼痛、酸痛"
+  },
+  {
+   "word": "belly",
+   "def": "n. 腹部,腹腔"
+  },
+  {
+   "word": "naked",
+   "def": "a. 裸体的,无遮蔽的"
+  },
+  {
+   "word": "wisdom",
+   "def": "n. 智慧,才智,明智的思想言论"
+  },
+  {
+   "word": "granule",
+   "def": "n.小粒, 颗粒, 细粒"
+  },
+  {
+   "word": "saline",
+   "def": "adj.盐的, 苦涩的, 由碱金属(或含镁之盐类)组成的。n.盐湖, 盐田, 装盐所。"
+  },
+  {
+   "word": "fir",
+   "def": "n.裘皮"
+  },
+  {
+   "word": "festivity",
+   "def": "n.欢宴, 欢庆。"
+  },
+  {
+   "word": "woe",
+   "def": "n.悲哀，悲痛，苦恼"
+  },
+  {
+   "word": "generation",
+   "def": "n. 产生，发生；一代(人)"
+  },
+  {
+   "word": "synonym",
+   "def": "n. 同义词"
+  },
+  {
+   "word": "pear",
+   "def": "n. 梨子，梨树"
+  },
+  {
+   "word": "ascribe",
+   "def": "vt. 把…归因于;把…归属于"
+  },
+  {
+   "word": "mystic",
+   "def": "adj.神秘的"
+  },
+  {
+   "word": "food",
+   "def": "n. 食物，粮食，养料"
+  },
+  {
+   "word": "denial",
+   "def": "n. 拒绝,否认;拒绝给予"
+  },
+  {
+   "word": "hardware",
+   "def": "n. 金属日用器皿,(计算机)硬件"
+  },
+  {
+   "word": "pimple",
+   "def": "n.[医]丘疹, 面泡, 疙瘩。"
+  },
+  {
+   "word": "turbulent",
+   "def": "a. 狂暴的,骚乱的;汹涌的"
+  },
+  {
+   "word": "intractable",
+   "def": "adj.难处理的。"
+  },
+  {
+   "word": "ajar",
+   "def": "adv.半开的"
+  },
+  {
+   "word": "scale",
+   "def": "n. 鳞,鳞状物;尺度;等级;比例规模,相对大小;天平"
+  },
+  {
+   "word": "rouse",
+   "def": "vt./vi. 唤醒,唤起;激励;激起"
+  },
+  {
+   "word": "president",
+   "def": "n. 总统，校长，会长，主席"
+  },
+  {
+   "word": "holy",
+   "def": "a. 神圣的，圣洁的"
+  },
+  {
+   "word": "haggard",
+   "def": "adj.消瘦的，憔悴的"
+  }
+ ]
+}

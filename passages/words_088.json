@@ -1,0 +1,381 @@
+{
+ "id": 88,
+ "words": [
+  {
+   "word": "thin",
+   "def": "a. 薄的，细的；稀薄的，淡的；瘦的v. 变薄；变稀"
+  },
+  {
+   "word": "stain",
+   "def": "n./v. 染料,着色剂,污点,沾污处"
+  },
+  {
+   "word": "menu",
+   "def": "n. 菜单"
+  },
+  {
+   "word": "thumbtack",
+   "def": "n.按钉，图钉"
+  },
+  {
+   "word": "canvas",
+   "def": "n. 粗帆布,油画布"
+  },
+  {
+   "word": "asylum",
+   "def": "n.庇护, 收容所, 救济院, 精神病院。"
+  },
+  {
+   "word": "fire",
+   "def": "n. 火；火灾，失火；炉火vi. 开火vt. 放(枪)"
+  },
+  {
+   "word": "moonlighting",
+   "def": "n.业余干活"
+  },
+  {
+   "word": "juvenile",
+   "def": "a. 青少年的,幼稚的 n. 青少年"
+  },
+  {
+   "word": "capitalist",
+   "def": "adj.资本主义的"
+  },
+  {
+   "word": "rest",
+   "def": "n. 休息；剩余部分v. 休息；睡；放，靠，搁"
+  },
+  {
+   "word": "coil",
+   "def": "v. 盘绕,缠绕;n. 一卷,一圈"
+  },
+  {
+   "word": "acceleration",
+   "def": "n.加速；加速度"
+  },
+  {
+   "word": "olive",
+   "def": "n.橄榄，橄榄树"
+  },
+  {
+   "word": "next",
+   "def": "a. 紧接的，其次的；贴近的ad. 其次；居后"
+  },
+  {
+   "word": "manufactured",
+   "def": "adj.制成的"
+  },
+  {
+   "word": "intermediate",
+   "def": "a./n. 中间的,中间物"
+  },
+  {
+   "word": "evidence",
+   "def": "n. 明显；显著；根据；证据；迹象"
+  },
+  {
+   "word": "themselves",
+   "def": "pron. 他(她、它)们自己；他(她、它)们亲自"
+  },
+  {
+   "word": "inn",
+   "def": "n. 小旅馆，客栈"
+  },
+  {
+   "word": "appointment",
+   "def": "n. 约会;职位"
+  },
+  {
+   "word": "removal",
+   "def": "n. 移动，迁居；除去"
+  },
+  {
+   "word": "grandparent",
+   "def": "n.(外)祖父(母)"
+  },
+  {
+   "word": "vender",
+   "def": "n.商贩"
+  },
+  {
+   "word": "countersign",
+   "def": "v.副署，会签"
+  },
+  {
+   "word": "passion",
+   "def": "n. 激情"
+  },
+  {
+   "word": "offensive",
+   "def": "a. 冒犯的，攻击的n. 攻势，进攻"
+  },
+  {
+   "word": "context",
+   "def": "n. 背景,环境;上下文"
+  },
+  {
+   "word": "goodwill",
+   "def": "n.商誉"
+  },
+  {
+   "word": "sphere",
+   "def": "n. 球,球面;天体;(兴趣,活动,势力等的)范围"
+  },
+  {
+   "word": "doubt",
+   "def": "n./v. 怀疑，疑虑"
+  },
+  {
+   "word": "fresh",
+   "def": "a. 新鲜的，无经验的"
+  },
+  {
+   "word": "wharf",
+   "def": "n.码头，停泊所"
+  },
+  {
+   "word": "ongoing",
+   "def": "adj.正在进行的。"
+  },
+  {
+   "word": "mathematician",
+   "def": "n.数字家"
+  },
+  {
+   "word": "terrorist",
+   "def": "n.恐怖分子"
+  },
+  {
+   "word": "biologist",
+   "def": "n.生物学家"
+  },
+  {
+   "word": "referendum",
+   "def": "n.公民投票, (外交使节)请示书。"
+  },
+  {
+   "word": "optics",
+   "def": "n.光学。"
+  },
+  {
+   "word": "though",
+   "def": "ad. 可是，然而，不过conj. 尽管，虽然"
+  },
+  {
+   "word": "curriculum",
+   "def": "n.课程。"
+  },
+  {
+   "word": "mosquito",
+   "def": "n. 蚊子"
+  },
+  {
+   "word": "breadth",
+   "def": "n. 宽度，幅"
+  },
+  {
+   "word": "defendant",
+   "def": "n.被告。adj.辩护的, 为自己辩护的。"
+  },
+  {
+   "word": "perch",
+   "def": "n.(禽鸟的)栖木"
+  },
+  {
+   "word": "competence",
+   "def": "n.能力。"
+  },
+  {
+   "word": "repute",
+   "def": "n.声誉v.看作，评价"
+  },
+  {
+   "word": "tigress",
+   "def": "n.母虎"
+  },
+  {
+   "word": "claim",
+   "def": "n. 要求;有所根据而索取的款项;要求权;要求之物; v. 要求承认;宣称;值得"
+  },
+  {
+   "word": "tongue",
+   "def": "n. 舌头;语言;舌状物(火舌)"
+  },
+  {
+   "word": "busy",
+   "def": "a. 忙，忙碌的；热闹的，繁忙的；(电话)占线"
+  },
+  {
+   "word": "snow",
+   "def": "n. 雪，下雪vi. 下雪；如雪一般地落下"
+  },
+  {
+   "word": "divorce",
+   "def": "v./n. 离婚，分离"
+  },
+  {
+   "word": "permissive",
+   "def": "adj.允许的，许可的"
+  },
+  {
+   "word": "impact",
+   "def": "n. 影响;冲击,碰撞"
+  },
+  {
+   "word": "surface",
+   "def": "n. 表面；外表a. 表面的，肤浅的"
+  },
+  {
+   "word": "relativity",
+   "def": "n. 相关(性)；相对论"
+  },
+  {
+   "word": "mathematics",
+   "def": "n. 数学"
+  },
+  {
+   "word": "commune",
+   "def": "n.公社"
+  },
+  {
+   "word": "rank",
+   "def": "n. 军衔，社会阶层；排v. 分等级，把…分类"
+  },
+  {
+   "word": "prime",
+   "def": "a. 主要的;最好的"
+  },
+  {
+   "word": "secondhand",
+   "def": "adj.二手的，间接的"
+  },
+  {
+   "word": "nestle",
+   "def": "v.安顿，建巢,依偎,温暖"
+  },
+  {
+   "word": "racket",
+   "def": "n. 吵闹声;球拍"
+  },
+  {
+   "word": "grey",
+   "def": "a.灰色的 n.灰色"
+  },
+  {
+   "word": "scrap",
+   "def": "n. 碎片,碎屑;少许,少量"
+  },
+  {
+   "word": "repatriate",
+   "def": "v.遣返。"
+  },
+  {
+   "word": "fumble",
+   "def": "v.摸索"
+  },
+  {
+   "word": "ultrasonic",
+   "def": "a.超声的n.超声波"
+  },
+  {
+   "word": "computerization",
+   "def": "n.计算机化"
+  },
+  {
+   "word": "repeal",
+   "def": "vt.撤销；放弃n.撤销"
+  },
+  {
+   "word": "willing",
+   "def": "a. 愿意的，乐意的，心甘情愿的"
+  },
+  {
+   "word": "lick",
+   "def": "v./n. 舔;(火焰)卷过;(波浪)轻拍"
+  },
+  {
+   "word": "pinch",
+   "def": "vt. 捏,拧,掐,夹痛,紧压;n. 压力,重压;微量"
+  },
+  {
+   "word": "mixture",
+   "def": "n. 混合；混合物，混合剂"
+  },
+  {
+   "word": "introduce",
+   "def": "vt. 介绍；引进，传入；提出(议案等)"
+  },
+  {
+   "word": "deadly",
+   "def": "a. 致命的,殊死的;ad. 死一般地;非常"
+  },
+  {
+   "word": "burden",
+   "def": "n. 担子，重担，负担vt. 给予负担或麻烦"
+  },
+  {
+   "word": "dismal",
+   "def": "adj.阴郁的，沉闷的"
+  },
+  {
+   "word": "minimum",
+   "def": "n. 最小量,最低限度"
+  },
+  {
+   "word": "check-up",
+   "def": "n.核对，检查"
+  },
+  {
+   "word": "carrot",
+   "def": "n. 胡萝卜"
+  },
+  {
+   "word": "rug",
+   "def": "n. (小)地毯；围毯"
+  },
+  {
+   "word": "stillness",
+   "def": "n.寂静，无声"
+  },
+  {
+   "word": "contend",
+   "def": "v.斗争, 竞争, 主张。"
+  },
+  {
+   "word": "rejoice",
+   "def": "vt./vi. 欣喜,高兴"
+  },
+  {
+   "word": "professor",
+   "def": "n. 教授"
+  },
+  {
+   "word": "south",
+   "def": "n. 南，南方，南部a. 南方的，南部的"
+  },
+  {
+   "word": "bribe",
+   "def": "n./vt. 贿赂,行贿"
+  },
+  {
+   "word": "as",
+   "def": "ad. 同样地conj. 由于；像…一样prep. 作为"
+  },
+  {
+   "word": "setting",
+   "def": "n. 镶嵌;环境,背景;(日月)沉落"
+  },
+  {
+   "word": "twist",
+   "def": "vt. 捻,搓;扭转;盘旋;n. 搓,扭拧;怪癖"
+  },
+  {
+   "word": "banking",
+   "def": "n.银行业务、金融业"
+  },
+  {
+   "word": "glamour",
+   "def": "n.[亦作glamor] 魔力, 魅力。v.迷惑。"
+  }
+ ]
+}

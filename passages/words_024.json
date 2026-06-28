@@ -1,0 +1,381 @@
+{
+ "id": 24,
+ "words": [
+  {
+   "word": "incite",
+   "def": "vt.激动, 煽动。"
+  },
+  {
+   "word": "proud",
+   "def": "a. (of)自豪的；引以自豪的；妄自尊大的"
+  },
+  {
+   "word": "farmhand",
+   "def": "n.农工，农场工人"
+  },
+  {
+   "word": "exempt",
+   "def": "vt./a. 免除,被豁免的"
+  },
+  {
+   "word": "villain",
+   "def": "n.坏蛋"
+  },
+  {
+   "word": "draft",
+   "def": "n. 草稿;汇票;征兵;vt. 起草;征兵"
+  },
+  {
+   "word": "cue",
+   "def": "n.暗示, 提示, 球杆。"
+  },
+  {
+   "word": "represent",
+   "def": "vt. 代表,声称"
+  },
+  {
+   "word": "shallow",
+   "def": "a. 浅的,肤浅的"
+  },
+  {
+   "word": "strongly",
+   "def": "ad.强壮地，强烈地"
+  },
+  {
+   "word": "quota",
+   "def": "n. 配额,限额(进口及移民人数)"
+  },
+  {
+   "word": "foreman",
+   "def": "n.领班"
+  },
+  {
+   "word": "send",
+   "def": "v. (sent，sent)1. 打发；派遣；2. 送；寄出"
+  },
+  {
+   "word": "nevertheless",
+   "def": "ad. 然而,不过,仍然"
+  },
+  {
+   "word": "dangle",
+   "def": "v.摇摆。"
+  },
+  {
+   "word": "abrupt",
+   "def": "a. 突然的;粗暴的"
+  },
+  {
+   "word": "constant",
+   "def": "a. 经常的;不变的;坚定的"
+  },
+  {
+   "word": "number",
+   "def": "n. 数，数字，数量，号码，一群v. 共计，编号"
+  },
+  {
+   "word": "psychiatry",
+   "def": "n.精神病学, 精神病治疗法。"
+  },
+  {
+   "word": "goad",
+   "def": "n.(赶牲口用的)刺棒, 激励物, 刺激物。vt.用刺棒驱赶, 驱策, 激励, 刺激, 唆使, 煽动"
+  },
+  {
+   "word": "dentist",
+   "def": "n. 牙医"
+  },
+  {
+   "word": "potter",
+   "def": "n.陶工, 制陶工人。"
+  },
+  {
+   "word": "constable",
+   "def": "adv.警官"
+  },
+  {
+   "word": "deceit",
+   "def": "n.欺骗，欺诈行为"
+  },
+  {
+   "word": "costly",
+   "def": "a. 昂贵的，价值高的，豪华的"
+  },
+  {
+   "word": "traditional",
+   "def": "a.传统的，惯例的"
+  },
+  {
+   "word": "wield",
+   "def": "vt. 使用,行使"
+  },
+  {
+   "word": "repent",
+   "def": "vi./vt. 悔悟,后悔"
+  },
+  {
+   "word": "highlight",
+   "def": "n.加亮区, 精彩场面, 最显著(重要)部分。vt.加亮, 使显著, 以强光照射, 突出。"
+  },
+  {
+   "word": "peculiar",
+   "def": "a. 奇怪的,古怪的;特有的,独具的,独特的"
+  },
+  {
+   "word": "settle",
+   "def": "v. 安定，安顿；停息；定居；解决，调停"
+  },
+  {
+   "word": "infectious",
+   "def": "a. 传染的，传染性的，有感染力的"
+  },
+  {
+   "word": "contradiction",
+   "def": "n. 反驳，否认；矛盾，不一致"
+  },
+  {
+   "word": "incorporate",
+   "def": "v. 结合,合并,组成公司"
+  },
+  {
+   "word": "attendant",
+   "def": "n. 服务员;仆人"
+  },
+  {
+   "word": "accommodation",
+   "def": "n. 住宿，留宿；膳宿供应"
+  },
+  {
+   "word": "play",
+   "def": "v. 玩，做游戏；参加比赛n. 游戏；玩耍；剧本"
+  },
+  {
+   "word": "academy",
+   "def": "n. (高等)专科院校；学术社团，协会，研究院"
+  },
+  {
+   "word": "transmit",
+   "def": "vt. 传输/导；转送；发射vi. 发射信号；发报"
+  },
+  {
+   "word": "movement",
+   "def": "n. 运动，活动；移动，迁移"
+  },
+  {
+   "word": "poor",
+   "def": "a. 贫困的；可怜的；贫乏的；贫瘠的；低劣的"
+  },
+  {
+   "word": "discuss",
+   "def": "vt. 讨论，商议"
+  },
+  {
+   "word": "consciousness",
+   "def": "n.意识，觉悟；知觉"
+  },
+  {
+   "word": "drama",
+   "def": "n. 剧本，戏剧；戏剧性事件或场面"
+  },
+  {
+   "word": "within",
+   "def": "prep. 在…里面，在…以内ad. 在内"
+  },
+  {
+   "word": "formula",
+   "def": "n. 公式；规则；分子式；药方"
+  },
+  {
+   "word": "serve",
+   "def": "v. 服务，尽责；招待，侍候；符合，适用"
+  },
+  {
+   "word": "meditate",
+   "def": "vt. 考虑,沉思;冥想"
+  },
+  {
+   "word": "odd",
+   "def": "a. 奇数的,单独的,零头的,临时的,古怪的,奇怪的"
+  },
+  {
+   "word": "manhood",
+   "def": "n.男子气"
+  },
+  {
+   "word": "continuous",
+   "def": "a. 连续的，持续的"
+  },
+  {
+   "word": "privilege",
+   "def": "n. 特权;优惠"
+  },
+  {
+   "word": "intelligent",
+   "def": "a. 聪明的，明智的，理智的"
+  },
+  {
+   "word": "may",
+   "def": "aux./v. 可能，也许；可以，被允许；祝，愿"
+  },
+  {
+   "word": "characteristical",
+   "def": "adj.特征的"
+  },
+  {
+   "word": "semiconductor",
+   "def": "n. 半导体"
+  },
+  {
+   "word": "sustenance",
+   "def": "n.食物, 生计, (受)支持。"
+  },
+  {
+   "word": "brace",
+   "def": "n. 用以夹住或支撑的东西;拉条;撑臂;背带;v. 支住;奋起振作"
+  },
+  {
+   "word": "entice",
+   "def": "v.诱惑, 诱使。"
+  },
+  {
+   "word": "foremost",
+   "def": "a./ad. 最重要的(地),第一流的(地)"
+  },
+  {
+   "word": "apt",
+   "def": "a. 聪明的;合适的;易于的"
+  },
+  {
+   "word": "embark",
+   "def": "v. 上船;从事;开始"
+  },
+  {
+   "word": "abandonment",
+   "def": "n.放弃"
+  },
+  {
+   "word": "terribly",
+   "def": "adv.可怕地，极"
+  },
+  {
+   "word": "violin",
+   "def": "n. 小提琴"
+  },
+  {
+   "word": "incident",
+   "def": "n. 事件，事变"
+  },
+  {
+   "word": "suspicion",
+   "def": "n. 怀疑，猜疑；一点儿，少量"
+  },
+  {
+   "word": "then",
+   "def": "ad. 当时，在那时；然后，于是；那么，因而"
+  },
+  {
+   "word": "sob",
+   "def": "v./n. 哭泣，呜咽"
+  },
+  {
+   "word": "substitute",
+   "def": "n. 代替人,代用品;vt. 代替"
+  },
+  {
+   "word": "unobtainable",
+   "def": "adj.无法得到的"
+  },
+  {
+   "word": "superstition",
+   "def": "n. 迷信;迷信行为"
+  },
+  {
+   "word": "turning",
+   "def": "n.旋转；变向；转弯处"
+  },
+  {
+   "word": "mountainous",
+   "def": "a.多山的；山一般的"
+  },
+  {
+   "word": "world",
+   "def": "n. 世界，地球；…界，领域；世间；全世界"
+  },
+  {
+   "word": "quantify",
+   "def": "vt.确定数量。v.量化。"
+  },
+  {
+   "word": "dominant",
+   "def": "a. 支配的，统治的，占优势的"
+  },
+  {
+   "word": "refuse",
+   "def": "v. 拒绝，谢绝n. 废物，垃圾"
+  },
+  {
+   "word": "benevolence",
+   "def": "n.慈悲，捐助"
+  },
+  {
+   "word": "cordially",
+   "def": "adv.亲切地"
+  },
+  {
+   "word": "complexity",
+   "def": "n.复杂(性)"
+  },
+  {
+   "word": "generally",
+   "def": "ad.一般地；通常地"
+  },
+  {
+   "word": "deliverance",
+   "def": "n.救助"
+  },
+  {
+   "word": "sophisticated",
+   "def": "adj. [人"
+  },
+  {
+   "word": "prosperous",
+   "def": "a. 繁荣的，兴旺的，茂盛的，顺利的"
+  },
+  {
+   "word": "informative",
+   "def": "adj.提供资料的"
+  },
+  {
+   "word": "expressive",
+   "def": "adj.有表现力的"
+  },
+  {
+   "word": "astronomy",
+   "def": "n. 天文学"
+  },
+  {
+   "word": "inclusive",
+   "def": "a. 包括的,包含的"
+  },
+  {
+   "word": "worthwhile",
+   "def": "a. 值得(花时间、精力)的;合算的"
+  },
+  {
+   "word": "suit",
+   "def": "v. 合适，适合；相配，适应n. 一套西服；诉讼"
+  },
+  {
+   "word": "hide",
+   "def": "v. 隐藏，躲藏；隐瞒n. 皮革，兽皮"
+  },
+  {
+   "word": "uncommon",
+   "def": "adj.罕见的，不常见的"
+  },
+  {
+   "word": "magistrate",
+   "def": "n. 地方法官"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "id": 58,
+ "words": [
+  {
+   "word": "steward",
+   "def": "n. 乘务员,服务员;组织者"
+  },
+  {
+   "word": "pistol",
+   "def": "n. 手枪"
+  },
+  {
+   "word": "sun",
+   "def": "n. 太阳；恒星"
+  },
+  {
+   "word": "review",
+   "def": "v./n. 回顾,检查,评论"
+  },
+  {
+   "word": "bare",
+   "def": "a. 赤裸的;光秃秃的;刚刚够的,勉强的; vt. 露出,暴露"
+  },
+  {
+   "word": "prophet",
+   "def": "n. 预言家；先知；提倡者"
+  },
+  {
+   "word": "physics",
+   "def": "n. 物理(学)"
+  },
+  {
+   "word": "invade",
+   "def": "vt. 侵略,侵犯,蜂拥而至"
+  },
+  {
+   "word": "follower",
+   "def": "n.契据的附面；从动件"
+  },
+  {
+   "word": "hundredth",
+   "def": "num.第一面，百分之一"
+  },
+  {
+   "word": "symposium",
+   "def": "n. 讨论会，专题报告会；专题论文集"
+  },
+  {
+   "word": "spice",
+   "def": "n.香料，调味品；香气"
+  },
+  {
+   "word": "typical",
+   "def": "a. 典型的"
+  },
+  {
+   "word": "mankind",
+   "def": "n. 人类"
+  },
+  {
+   "word": "margin",
+   "def": "n. (页边)空白;边缘;(时间,金钱)多余"
+  },
+  {
+   "word": "patrol",
+   "def": "vt./vi. 巡逻,巡查"
+  },
+  {
+   "word": "ally",
+   "def": "n. 同盟者，同盟国vt. 使结盟；与…有关联"
+  },
+  {
+   "word": "cassette",
+   "def": "n. 磁带盒,照相软片盒"
+  },
+  {
+   "word": "glow",
+   "def": "vi. 发出光和热;脸发红发热;n. 光辉"
+  },
+  {
+   "word": "narration",
+   "def": "n.叙述；故事；叙述法"
+  },
+  {
+   "word": "despair",
+   "def": "n./vi. 绝望,丧失信心"
+  },
+  {
+   "word": "commandment",
+   "def": "n.称赞"
+  },
+  {
+   "word": "consumption",
+   "def": "n. 消费(量);消耗,挥霍"
+  },
+  {
+   "word": "planetarium",
+   "def": "n.行星仪, 天文馆。"
+  },
+  {
+   "word": "oatmeal",
+   "def": "n.(燕)麦片, (燕)麦粥。"
+  },
+  {
+   "word": "fright",
+   "def": "n. 恐怖"
+  },
+  {
+   "word": "oh",
+   "def": "int.嗬，哦，唉呀"
+  },
+  {
+   "word": "watch",
+   "def": "v. 观看；看守；(for)窥伺，等待n. 看管；表"
+  },
+  {
+   "word": "palatable",
+   "def": "adj.美味的。"
+  },
+  {
+   "word": "feudalism",
+   "def": "n.封建主义"
+  },
+  {
+   "word": "gaily",
+   "def": "adv.华丽地, 欢乐地。"
+  },
+  {
+   "word": "xerox",
+   "def": "vt.&vi.用静电复印"
+  },
+  {
+   "word": "church",
+   "def": "n. 教堂；教会，教派；(宗教的)礼拜仪式"
+  },
+  {
+   "word": "rigor",
+   "def": "n.严格，严肃"
+  },
+  {
+   "word": "guesthouse",
+   "def": "n.宾馆"
+  },
+  {
+   "word": "systematically",
+   "def": "ad.系统地，有规则地"
+  },
+  {
+   "word": "user",
+   "def": "n.用户，使用者"
+  },
+  {
+   "word": "permanently",
+   "def": "ad.永久地，持久地"
+  },
+  {
+   "word": "theme",
+   "def": "n. 题目,主题"
+  },
+  {
+   "word": "build",
+   "def": "vt. 建造，建筑；建设，建立vi. 增大，增强"
+  },
+  {
+   "word": "glare",
+   "def": "n./v. 眩目地照射,闪耀;瞪视"
+  },
+  {
+   "word": "pursuit",
+   "def": "n. 追赶,追求;从事,消遣"
+  },
+  {
+   "word": "compromise",
+   "def": "n. 妥协,折衷;v. 妥协;使遭受危害"
+  },
+  {
+   "word": "aspire",
+   "def": "vi.热望, 立志。"
+  },
+  {
+   "word": "quash",
+   "def": "v.取消。"
+  },
+  {
+   "word": "seriously",
+   "def": "ad.严肃地，认真地"
+  },
+  {
+   "word": "deem",
+   "def": "vt. 认为,视为"
+  },
+  {
+   "word": "lenient",
+   "def": "adj.宽大的, 仁慈的, 慈悲为怀的。"
+  },
+  {
+   "word": "leap",
+   "def": "v. 扑向,欣然接受;n. 跳,跃"
+  },
+  {
+   "word": "bakery",
+   "def": "n.面包店"
+  },
+  {
+   "word": "staircase",
+   "def": "n. 楼梯"
+  },
+  {
+   "word": "meek",
+   "def": "a. 温顺的,谦逊的"
+  },
+  {
+   "word": "expert",
+   "def": "n. 专家，能手a. 熟练的，有经验的；专门的"
+  },
+  {
+   "word": "rheumatism",
+   "def": "n.风湿病"
+  },
+  {
+   "word": "computer",
+   "def": "n. 计算机，电脑；计算者"
+  },
+  {
+   "word": "my",
+   "def": "pron. (I的所有格)我的"
+  },
+  {
+   "word": "cooperation",
+   "def": "n.合作，协作"
+  },
+  {
+   "word": "radiation",
+   "def": "n.放射，发射；辐射能"
+  },
+  {
+   "word": "preacher",
+   "def": "n.鼓吹者，宣教士"
+  },
+  {
+   "word": "sole",
+   "def": "adj. 单独的,惟一的;独有的 n. 脚底,鞋底,袜底"
+  },
+  {
+   "word": "occupy",
+   "def": "vt. 占,占用,占领;使忙碌,使从事"
+  },
+  {
+   "word": "bilingual",
+   "def": "adj.能说两种语言的。"
+  },
+  {
+   "word": "sane",
+   "def": "adj.健全的。"
+  },
+  {
+   "word": "beforehand",
+   "def": "ad. 预先,事先"
+  },
+  {
+   "word": "darkness",
+   "def": "n.黑暗"
+  },
+  {
+   "word": "pharmacy",
+   "def": "n.药房, 药剂学, 配药业, 制药业, 一批备用药品。"
+  },
+  {
+   "word": "wounded",
+   "def": "adj.受伤的n.伤员"
+  },
+  {
+   "word": "grandmother",
+   "def": "n. 祖母，外祖母"
+  },
+  {
+   "word": "flannel",
+   "def": "n.法兰绒；法兰绒衣服"
+  },
+  {
+   "word": "alert",
+   "def": "a. 机警的，警觉的；机灵的vt. 使…警觉"
+  },
+  {
+   "word": "zero",
+   "def": "n. 零，零度num. 零"
+  },
+  {
+   "word": "telex",
+   "def": "n. 用户电报,直通专用电传"
+  },
+  {
+   "word": "dispose",
+   "def": "v. 处理,处置,除去;使愿意"
+  },
+  {
+   "word": "anyway",
+   "def": "ad. 不管怎么说，无论如何；不论以何种方式"
+  },
+  {
+   "word": "impossibility",
+   "def": "n.不可能性"
+  },
+  {
+   "word": "opposition",
+   "def": "n.敌对，反抗"
+  },
+  {
+   "word": "plus",
+   "def": "prep./n. 加,加号 a. 正的"
+  },
+  {
+   "word": "subscribe",
+   "def": "vt./vi. 捐款,捐助;订阅;同意,赞成"
+  },
+  {
+   "word": "opinion",
+   "def": "n. 意见,鉴定"
+  },
+  {
+   "word": "cash",
+   "def": "n. 现金，现款v. 兑现，付(或收)现款"
+  },
+  {
+   "word": "ego",
+   "def": "n.自我, 利已主义, 自负。"
+  },
+  {
+   "word": "container",
+   "def": "n. 容器；集装箱"
+  },
+  {
+   "word": "ampere",
+   "def": "n.安培"
+  },
+  {
+   "word": "loudspeaker",
+   "def": "n. 扬声器，扩音器"
+  },
+  {
+   "word": "thirty",
+   "def": "num. 三十，三十个(人或物)"
+  },
+  {
+   "word": "write",
+   "def": "v. 写，书写，写字；写作；写信(给)，函告"
+  },
+  {
+   "word": "basketball",
+   "def": "n. 篮球，篮球运动"
+  },
+  {
+   "word": "study",
+   "def": "vt. 学习；研究；细看vi. 读书n. 学习；研究"
+  },
+  {
+   "word": "volcano",
+   "def": "n. 火山"
+  },
+  {
+   "word": "gymnast",
+   "def": "n.体操运动员"
+  },
+  {
+   "word": "playground",
+   "def": "n. 运动场，游戏场"
+  },
+  {
+   "word": "slaughter",
+   "def": "n./vt. 屠宰,屠杀"
+  },
+  {
+   "word": "connection",
+   "def": "n. 联系，连接；亲戚，社会关系"
+  },
+  {
+   "word": "evaluate",
+   "def": "vt. 估…的价,定…的值"
+  }
+ ]
+}

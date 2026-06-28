@@ -1,0 +1,381 @@
+{
+ "id": 25,
+ "words": [
+  {
+   "word": "literate",
+   "def": "n.有文化的"
+  },
+  {
+   "word": "senseless",
+   "def": "a.愚蠢的，无意义的"
+  },
+  {
+   "word": "condolence",
+   "def": "n.哀悼, 吊唁。"
+  },
+  {
+   "word": "living",
+   "def": "a. 活的，有生命的，天然的，逼真的n. 生活，生计"
+  },
+  {
+   "word": "jettison",
+   "def": "n.投弃货物v.抛弃"
+  },
+  {
+   "word": "coordination",
+   "def": "n.协调，配合"
+  },
+  {
+   "word": "anyone",
+   "def": "pron. (用于疑问句，否定式)任何人"
+  },
+  {
+   "word": "fume",
+   "def": "n.(浓烈或难闻的)烟, 气体, 一阵愤怒(或不安)。v.用烟熏, 冒烟, 发怒。"
+  },
+  {
+   "word": "passive",
+   "def": "a. 被动的"
+  },
+  {
+   "word": "horizontal",
+   "def": "a. 地平线的；水平的"
+  },
+  {
+   "word": "lofty",
+   "def": "a. 高耸的;崇高的;高傲的"
+  },
+  {
+   "word": "traverse",
+   "def": "vt. 横越,穿过"
+  },
+  {
+   "word": "exotic",
+   "def": "adj.异国情调的, 外来的, 奇异的。"
+  },
+  {
+   "word": "exploitation",
+   "def": "n.开发，利用"
+  },
+  {
+   "word": "depth",
+   "def": "n. 深，深度，深奥，深刻"
+  },
+  {
+   "word": "clamp",
+   "def": "n./v. 螺丝钳;用钳夹;取缔"
+  },
+  {
+   "word": "impartial",
+   "def": "a.公正的，无偏见的"
+  },
+  {
+   "word": "substance",
+   "def": "n. 物质；实质，本质；主旨；财产，资产"
+  },
+  {
+   "word": "rust",
+   "def": "n./v. 锈;生锈;荒废"
+  },
+  {
+   "word": "transfuse",
+   "def": "vt.注入, 灌输, [医]输血。"
+  },
+  {
+   "word": "insist",
+   "def": "vi. (on)坚持要求，坚决主张，坚持"
+  },
+  {
+   "word": "pound",
+   "def": "n. 磅；英镑v. (连续)猛击，(猛烈)敲打，捣碎"
+  },
+  {
+   "word": "guitar",
+   "def": "n. 吉他vi. 弹吉他"
+  },
+  {
+   "word": "wage",
+   "def": "n. 周薪 vt. 从事(战争等)"
+  },
+  {
+   "word": "lurk",
+   "def": "n.潜伏, 埋伏。vi.潜藏, 潜伏, 埋伏。"
+  },
+  {
+   "word": "relentless",
+   "def": "adj.无情的。"
+  },
+  {
+   "word": "perpetual",
+   "def": "a. 永久的,永恒的"
+  },
+  {
+   "word": "report",
+   "def": "n./v. 报告，汇报；传说，传阅"
+  },
+  {
+   "word": "him",
+   "def": "pron.他(he的宾格形式)"
+  },
+  {
+   "word": "couple",
+   "def": "n. (一)对，双；夫妇v. 连接，结合"
+  },
+  {
+   "word": "delusive",
+   "def": "adj.令人产生错觉的"
+  },
+  {
+   "word": "shutter",
+   "def": "n. 百叶窗,照相机快门"
+  },
+  {
+   "word": "fascinating",
+   "def": "adj.迷人的, 醉人的, 着魔的。"
+  },
+  {
+   "word": "determine",
+   "def": "v. 决心，决定；确定，限定"
+  },
+  {
+   "word": "lover",
+   "def": "n. 爱好者；(pl.)情侣"
+  },
+  {
+   "word": "intercontinental",
+   "def": "adj.大陆间的, 洲际的。"
+  },
+  {
+   "word": "conditional",
+   "def": "adj.有条件的"
+  },
+  {
+   "word": "guess",
+   "def": "v./n. 猜测，推测；以为；猜想"
+  },
+  {
+   "word": "debris",
+   "def": "n.碎片, 残骸。"
+  },
+  {
+   "word": "Asia",
+   "def": "n.亚洲"
+  },
+  {
+   "word": "score",
+   "def": "n./v. 刻痕,记分,乐谱"
+  },
+  {
+   "word": "cane",
+   "def": "n. 茎,手杖,甘蔗"
+  },
+  {
+   "word": "FBI",
+   "def": "国际刑警"
+  },
+  {
+   "word": "effective",
+   "def": "a. 有效的，生效的；被实施的；给人深刻印象"
+  },
+  {
+   "word": "photography",
+   "def": "n.摄影术"
+  },
+  {
+   "word": "sharpener",
+   "def": "n.铅笔刀，磨石"
+  },
+  {
+   "word": "poster",
+   "def": "n.海报, 招贴, (布告, 标语, 海报等的)张贴者。"
+  },
+  {
+   "word": "pointless",
+   "def": "adj.无意义的。"
+  },
+  {
+   "word": "pail",
+   "def": "n. 桶，提桶一桶的量"
+  },
+  {
+   "word": "additive",
+   "def": "adj.附加的n.添加剂"
+  },
+  {
+   "word": "gimmick",
+   "def": "n.暗机关。vt.使暗机关。"
+  },
+  {
+   "word": "cosmic",
+   "def": "a. 宇宙的"
+  },
+  {
+   "word": "pose",
+   "def": "vt. 造成,引起(困难等);提出(问题等),陈述(论点等) ;vi. 摆姿势;假装,冒充,装腔作势;n. 样子,姿势"
+  },
+  {
+   "word": "readily",
+   "def": "ad. 乐意地,欣然地;容易地"
+  },
+  {
+   "word": "slowly",
+   "def": "ad.慢慢地"
+  },
+  {
+   "word": "vault",
+   "def": "n.拱顶；地下室，地窖"
+  },
+  {
+   "word": "coinage",
+   "def": "n.造币; 创造; 货币制度;创造新词"
+  },
+  {
+   "word": "harmonious",
+   "def": "a.和谐的，协调的"
+  },
+  {
+   "word": "thereon",
+   "def": "adv.关于那"
+  },
+  {
+   "word": "workable",
+   "def": "adj.可行的，起作用的"
+  },
+  {
+   "word": "surmount",
+   "def": "vt.战胜, 超越, 克服, 在...顶上。"
+  },
+  {
+   "word": "creation",
+   "def": "n. 创造,创作,创造物"
+  },
+  {
+   "word": "survive",
+   "def": "v. 幸免于，幸存；比…长命"
+  },
+  {
+   "word": "discrepancy",
+   "def": "n. 不一致,差异,不符"
+  },
+  {
+   "word": "couch",
+   "def": "n. 长沙发 vt. 表达"
+  },
+  {
+   "word": "layday",
+   "def": "n.装卸日期"
+  },
+  {
+   "word": "kindle",
+   "def": "v. 点燃,引起,激发"
+  },
+  {
+   "word": "happening",
+   "def": "n.事件"
+  },
+  {
+   "word": "oblique",
+   "def": "adj.倾斜的, 间接的, 不坦率的, 无诚意的。"
+  },
+  {
+   "word": "goddess",
+   "def": "n.女神；绝世美女"
+  },
+  {
+   "word": "region",
+   "def": "n. 地区，地带，行政区，(科学等)领域"
+  },
+  {
+   "word": "tone",
+   "def": "n. 音调，音色；风气，气氛；腔调，语气；色调"
+  },
+  {
+   "word": "democracy",
+   "def": "n. 民主政体,民主,民主社会"
+  },
+  {
+   "word": "priest",
+   "def": "n. 教士，神父"
+  },
+  {
+   "word": "choose",
+   "def": "v. 选择，挑选；甘愿"
+  },
+  {
+   "word": "fantasy",
+   "def": "n.幻想, 白日梦。"
+  },
+  {
+   "word": "provide",
+   "def": "v. 供应，供给，准备，预防，规定"
+  },
+  {
+   "word": "jagged",
+   "def": "adj.锯齿状的，有凹口的，（外形）参差不齐的。"
+  },
+  {
+   "word": "baseball",
+   "def": "n. 棒球"
+  },
+  {
+   "word": "component",
+   "def": "n. 组成部分,零件"
+  },
+  {
+   "word": "feeble",
+   "def": "a. 虚弱的,无力的"
+  },
+  {
+   "word": "angel",
+   "def": "n. 天使，安琪儿"
+  },
+  {
+   "word": "gallon",
+   "def": "n. 加仑"
+  },
+  {
+   "word": "comparatively",
+   "def": "adv.比较地"
+  },
+  {
+   "word": "appreciable",
+   "def": "a. 可(察觉到)的,明显的;v. 值得重视的"
+  },
+  {
+   "word": "phoenix",
+   "def": "n.凤凰, 长生鸟, 完人, 完美之物。"
+  },
+  {
+   "word": "stripe",
+   "def": "n. 长条，条纹；军服上表示军阶的臂章条纹"
+  },
+  {
+   "word": "adaptation",
+   "def": "n.适应"
+  },
+  {
+   "word": "assassination",
+   "def": "n. 暗杀"
+  },
+  {
+   "word": "wave",
+   "def": "n. 波浪；(挥手)示意；飘扬v. (挥手)示意，致意"
+  },
+  {
+   "word": "mercury",
+   "def": "n. 水银，汞"
+  },
+  {
+   "word": "full",
+   "def": "a. (of)满的，充满的a./ad. 完全，充分"
+  },
+  {
+   "word": "circumstance",
+   "def": "n. 情况,形势;环境;事件"
+  },
+  {
+   "word": "certainty",
+   "def": "n. 必然的事,必然,确实,肯定"
+  }
+ ]
+}

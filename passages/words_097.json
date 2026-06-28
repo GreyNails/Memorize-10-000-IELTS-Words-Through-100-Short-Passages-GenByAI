@@ -1,0 +1,377 @@
+{
+ "id": 97,
+ "words": [
+  {
+   "word": "hubbub",
+   "def": "n.吵闹声, 呐喊声, 叫嚷声。"
+  },
+  {
+   "word": "quart",
+   "def": "n. 夸脱"
+  },
+  {
+   "word": "muffle",
+   "def": "v.裹住，捂住"
+  },
+  {
+   "word": "evaporation",
+   "def": "n.蒸发，升华"
+  },
+  {
+   "word": "aphorism",
+   "def": "n.格言, 警语, 谚语。"
+  },
+  {
+   "word": "quest",
+   "def": "n./v. 寻找,追求"
+  },
+  {
+   "word": "errand",
+   "def": "n. 差使,差事"
+  },
+  {
+   "word": "ecstasy",
+   "def": "n.狂喜"
+  },
+  {
+   "word": "havoc",
+   "def": "n.大破坏, 浩劫。vt.严重破坏。"
+  },
+  {
+   "word": "dose",
+   "def": "n. (药)一剂,一服;vt. 给…服药"
+  },
+  {
+   "word": "washing-machine",
+   "def": "n.洗衣机"
+  },
+  {
+   "word": "optimal",
+   "def": "adj.最佳的"
+  },
+  {
+   "word": "conform",
+   "def": "v. 符合,遵从"
+  },
+  {
+   "word": "hungry",
+   "def": "a. 饥饿的，渴望的"
+  },
+  {
+   "word": "forum",
+   "def": "n. 论坛"
+  },
+  {
+   "word": "outlook",
+   "def": "n. 景色，风光；观点，见解；展望，前景"
+  },
+  {
+   "word": "awkward",
+   "def": "a. 难使用的;笨拙的;尴尬的"
+  },
+  {
+   "word": "par",
+   "def": "n.(跟)原价相等 a.常态的,平均的,平价的,意料之中的"
+  },
+  {
+   "word": "manifold",
+   "def": "n.复印本, 多种。adj.多种形式的, 有许多部分的, 多方面的。vt.复写, 繁殖, 增多"
+  },
+  {
+   "word": "bait",
+   "def": "n. 饵,诱惑物;v. 装饵;辱骂;欺侮"
+  },
+  {
+   "word": "deceive",
+   "def": "vt. 欺骗,诓骗"
+  },
+  {
+   "word": "renowned",
+   "def": "adj.有名的, 有声誉的。"
+  },
+  {
+   "word": "disintegration",
+   "def": "n.分散，解体"
+  },
+  {
+   "word": "patronage",
+   "def": "n.赞助,资助,恩赐的态度,互惠互利"
+  },
+  {
+   "word": "attention",
+   "def": "n. 注意，注意力；立正；特别照顾；照料"
+  },
+  {
+   "word": "use",
+   "def": "n. 使/应用；用法/途；益/用处vt. 用；消耗"
+  },
+  {
+   "word": "displacement",
+   "def": "n.移置；免职；置换"
+  },
+  {
+   "word": "category",
+   "def": "n. 种类,类目"
+  },
+  {
+   "word": "wholesome",
+   "def": "a. 健康的,有益于健康的"
+  },
+  {
+   "word": "advantage",
+   "def": "n. 优点，长处，有利条件；利益，好处"
+  },
+  {
+   "word": "relinquish",
+   "def": "vt. 放弃;撤回"
+  },
+  {
+   "word": "victory",
+   "def": "n. 胜利"
+  },
+  {
+   "word": "roof",
+   "def": "n. 屋顶，顶"
+  },
+  {
+   "word": "easy",
+   "def": "a. 容易的，不费力的，安逸的，宽裕的"
+  },
+  {
+   "word": "indifference",
+   "def": "n.冷淡，不关心"
+  },
+  {
+   "word": "definitive",
+   "def": "a. 可靠的,权威的;决定性的"
+  },
+  {
+   "word": "mushroom",
+   "def": "n. 蘑菇; vi. 迅速发展"
+  },
+  {
+   "word": "accessory",
+   "def": "n. 同谋者;附件"
+  },
+  {
+   "word": "bark",
+   "def": "n./v. 树皮,狗叫"
+  },
+  {
+   "word": "invitation",
+   "def": "n. 邀请，招待；请柬"
+  },
+  {
+   "word": "weaver",
+   "def": "n.织布工，编织者"
+  },
+  {
+   "word": "color-blind",
+   "def": "adj.色盲的"
+  },
+  {
+   "word": "bike",
+   "def": "n.自行车 vi.骑自行车"
+  },
+  {
+   "word": "I",
+   "def": "pron.(主格)我"
+  },
+  {
+   "word": "steadfast",
+   "def": "adj.坚定的。"
+  },
+  {
+   "word": "swerve",
+   "def": "v.突然转向。n.转向。"
+  },
+  {
+   "word": "inextricable",
+   "def": "adj.无法解脱的, 逃脱不掉的, 解不开的"
+  },
+  {
+   "word": "flimsy",
+   "def": "adj.易坏的, 脆弱的, 浅薄的, 没有价值的, 不足信的, (人)浮夸的。n.薄纸, 描图用薄纸, 薄纸稿纸。"
+  },
+  {
+   "word": "notably",
+   "def": "adj.尤其，值得注意地,明显地"
+  },
+  {
+   "word": "four",
+   "def": "num. 四pron./a. 四(个，只…)"
+  },
+  {
+   "word": "joy",
+   "def": "n. 欢乐，喜悦；乐事，乐趣"
+  },
+  {
+   "word": "intention",
+   "def": "n. 意图，意向，目的"
+  },
+  {
+   "word": "downwards",
+   "def": "adv.向下，以下"
+  },
+  {
+   "word": "windy",
+   "def": "a.多风的，刮风的"
+  },
+  {
+   "word": "consult",
+   "def": "v. 请教,咨询;查阅;商量"
+  },
+  {
+   "word": "courageous",
+   "def": "a.勇敢的，无畏的"
+  },
+  {
+   "word": "wrought",
+   "def": "vbl.work的过去式和过去分词。adj.做成的, 形成的, 精炼的, [冶](金属)锻造的。"
+  },
+  {
+   "word": "denote",
+   "def": "vt. 是…的符号,指示,表示"
+  },
+  {
+   "word": "congruent",
+   "def": "adj.适合的。"
+  },
+  {
+   "word": "lock",
+   "def": "n. 锁v. 锁，锁上"
+  },
+  {
+   "word": "adhere",
+   "def": "vi. 粘着;坚持;忠于"
+  },
+  {
+   "word": "translate",
+   "def": "v. 翻译，解释；转化，"
+  },
+  {
+   "word": "luck",
+   "def": "n. 运气；好运，侥幸"
+  },
+  {
+   "word": "unsuitable",
+   "def": "a.不合适的，不适宜的"
+  },
+  {
+   "word": "rib",
+   "def": "n. 肋骨，肋状物"
+  },
+  {
+   "word": "drudgery",
+   "def": "n.苦差事, 苦工。"
+  },
+  {
+   "word": "king",
+   "def": "n. 君主，国王"
+  },
+  {
+   "word": "paw",
+   "def": "n. 爪"
+  },
+  {
+   "word": "holding",
+   "def": "n.支持，控股"
+  },
+  {
+   "word": "calculate",
+   "def": "v. 计算，推算；计划，打算"
+  },
+  {
+   "word": "occur",
+   "def": "vi. 发生;想起,想到;存在"
+  },
+  {
+   "word": "delight",
+   "def": "n. 快乐，高兴v. (使)高兴，(使)欣喜"
+  },
+  {
+   "word": "warmth",
+   "def": "n. 暖和，温暖；热心，热情"
+  },
+  {
+   "word": "sword",
+   "def": "n. 剑，刀；武力"
+  },
+  {
+   "word": "friend",
+   "def": "n. 朋友"
+  },
+  {
+   "word": "unavoidable",
+   "def": "adj.不可避免的"
+  },
+  {
+   "word": "carpentry",
+   "def": "n.木工工作。"
+  },
+  {
+   "word": "conception",
+   "def": "n. 概念，观念"
+  },
+  {
+   "word": "seventeen",
+   "def": "num.十七，十七个"
+  },
+  {
+   "word": "adorn",
+   "def": "v.装饰，佩带"
+  },
+  {
+   "word": "cardinal",
+   "def": "a. 主要的,基本的;n. 深红色;基数"
+  },
+  {
+   "word": "memory",
+   "def": "n. 记忆，记忆力；回忆；存储(器)"
+  },
+  {
+   "word": "serenity",
+   "def": "n.安详,宁静,平静,沉着"
+  },
+  {
+   "word": "logical",
+   "def": "a. 逻辑的，符合逻辑的"
+  },
+  {
+   "word": "deflate",
+   "def": "v.收缩，紧缩"
+  },
+  {
+   "word": "prepare",
+   "def": "v. 准备，预备"
+  },
+  {
+   "word": "inform",
+   "def": "v. (of，about)通知，告诉，报告；告发，告密"
+  },
+  {
+   "word": "hectare",
+   "def": "n.公顷（等于1万平方米）。"
+  },
+  {
+   "word": "mechanical",
+   "def": "a. 机械的，由机构制成的；机械似的，呆板的"
+  },
+  {
+   "word": "flow",
+   "def": "v. 流，流动n. 流量，流速"
+  },
+  {
+   "word": "indebted",
+   "def": "adj.感激的，感恩的"
+  },
+  {
+   "word": "mental",
+   "def": "a. 精神的，思想的，心理的，智力的，脑力的"
+  },
+  {
+   "word": "toddle",
+   "def": "vi.东倒西歪地走, 蹒跚学步, 散步vt.蹒跚(或信步)走路。n.东倒西歪的走路, 刚学走步的小孩。"
+  }
+ ]
+}

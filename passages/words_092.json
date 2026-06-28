@@ -1,0 +1,377 @@
+{
+ "id": 92,
+ "words": [
+  {
+   "word": "visit",
+   "def": "n. 访问，参观v. 访问，参观；视察；降临；闲谈"
+  },
+  {
+   "word": "birth",
+   "def": "n. 出生，诞生；出身，血统；起源；出现"
+  },
+  {
+   "word": "root",
+   "def": "n. 根，根部；根本，根源v. (使)生根，(使)扎根"
+  },
+  {
+   "word": "sue",
+   "def": "vt.控告, 向...请求, 请愿。vi.提出诉讼, 提出请求"
+  },
+  {
+   "word": "oyster",
+   "def": "n.牡蛎；沉默寡言的人"
+  },
+  {
+   "word": "thorough",
+   "def": "a. 彻底的,详尽的"
+  },
+  {
+   "word": "exposure",
+   "def": "n. 暴露，揭露；方向；陈列；遗弃；照射量"
+  },
+  {
+   "word": "blunder",
+   "def": "v. 瞎闯,犯愚蠢的错误;n. 因疏忽所犯的错误"
+  },
+  {
+   "word": "quiz",
+   "def": "n. 小型考试，测验，问答比赛"
+  },
+  {
+   "word": "shipowner",
+   "def": "n.船主"
+  },
+  {
+   "word": "abortion",
+   "def": "n.流产"
+  },
+  {
+   "word": "tertiary",
+   "def": "adj.第三的, 第三位的, 第三世纪的。n.[画]第三色, 第三修道会会员, [地]第三纪"
+  },
+  {
+   "word": "propellent",
+   "def": "adj.推进的"
+  },
+  {
+   "word": "cover",
+   "def": "v. 覆盖，包括，涉及n. 盖子，套子；(书的)封面"
+  },
+  {
+   "word": "misconceive",
+   "def": "v.误解。"
+  },
+  {
+   "word": "idleness",
+   "def": "n.懒惰；赋闲无事"
+  },
+  {
+   "word": "mediate",
+   "def": "v.仲裁, 调停, 作为引起...的媒介, 居中调停。"
+  },
+  {
+   "word": "clock",
+   "def": "n. 钟vt. 记录(时间、速度等)，为…计时"
+  },
+  {
+   "word": "segment",
+   "def": "n. 部分,切片;段,节;v. 分割"
+  },
+  {
+   "word": "attribution",
+   "def": "n.属于"
+  },
+  {
+   "word": "proceeding",
+   "def": "n. 行动，进行，(pl.)会议录，学报"
+  },
+  {
+   "word": "largely",
+   "def": "ad. 主要地，基本上；大量地，大规模地"
+  },
+  {
+   "word": "sturdy",
+   "def": "a. 强健的,坚实的"
+  },
+  {
+   "word": "quarry",
+   "def": "n.采石场, (知识、消息等的)来源。vt.挖出, 苦心找出。vi.费力地找"
+  },
+  {
+   "word": "mostly",
+   "def": "ad. 几乎全部地；主要地，大部分，基本上"
+  },
+  {
+   "word": "earn",
+   "def": "v. 赚得，挣得，获得"
+  },
+  {
+   "word": "consequent",
+   "def": "adj.作为结果的, 随之发生的。"
+  },
+  {
+   "word": "millennium",
+   "def": "n.太平盛世, 一千年。"
+  },
+  {
+   "word": "muscle",
+   "def": "n. 肌肉，体力"
+  },
+  {
+   "word": "pudding",
+   "def": "n.布丁"
+  },
+  {
+   "word": "obsolete",
+   "def": "adj.荒废的, 陈旧的。n.废词, 陈腐的人"
+  },
+  {
+   "word": "slack",
+   "def": "a. 松(弛)的;萧条的;懈怠的;n. (绳索等)松弛部分; [pl."
+  },
+  {
+   "word": "collaboration",
+   "def": "n. 协作,合作;勾结"
+  },
+  {
+   "word": "vividness",
+   "def": "n.生动(性)"
+  },
+  {
+   "word": "retain",
+   "def": "vt. 保持;保有;聘请(律师)"
+  },
+  {
+   "word": "examine",
+   "def": "v. 检查，调查；对…进行考试"
+  },
+  {
+   "word": "yesterday",
+   "def": "n./ad. 昨天；前不久"
+  },
+  {
+   "word": "rosy",
+   "def": "adj.玫瑰红的，幻想的,乐观的,愉快美好的"
+  },
+  {
+   "word": "thrash",
+   "def": "vt.痛打，鞭打vi.打"
+  },
+  {
+   "word": "slave",
+   "def": "n. 奴隶，苦工v. 做苦工，拼命地干"
+  },
+  {
+   "word": "envy",
+   "def": "n./vt. 妒忌,妒忌的对象;羡慕"
+  },
+  {
+   "word": "unbearable",
+   "def": "a.难堪的，忍受不了的"
+  },
+  {
+   "word": "inspire",
+   "def": "vt. 激励,鼓励;灌注以创造力"
+  },
+  {
+   "word": "analogous",
+   "def": "adj.类似的, 相似的, 可比拟的。"
+  },
+  {
+   "word": "western",
+   "def": "a. 西方的，西部的"
+  },
+  {
+   "word": "collar",
+   "def": "n. 衣领；环状物"
+  },
+  {
+   "word": "apple",
+   "def": "n. 苹果，苹果树"
+  },
+  {
+   "word": "hydraulic",
+   "def": "a.水力的；水力学的"
+  },
+  {
+   "word": "tune",
+   "def": "n. 曲调,旋律,协调,调动"
+  },
+  {
+   "word": "requirement",
+   "def": "n. (for)需要，需要的东西，要求"
+  },
+  {
+   "word": "vice versa",
+   "def": "adv.反之亦然。"
+  },
+  {
+   "word": "cheap",
+   "def": "a. 便宜的；低劣的，不值钱的"
+  },
+  {
+   "word": "reward",
+   "def": "n./v. 奖赏"
+  },
+  {
+   "word": "strike",
+   "def": "n./vi. 罢工vt. 打，击；攻击；给…深刻印象"
+  },
+  {
+   "word": "sunset",
+   "def": "n. 日落，傍晚；晚霞"
+  },
+  {
+   "word": "intensive",
+   "def": "a. 加强的，集中的，深入细致的，精耕细作的"
+  },
+  {
+   "word": "prohibit",
+   "def": "vt. 禁止"
+  },
+  {
+   "word": "madam",
+   "def": "n. 夫人，太太，女士"
+  },
+  {
+   "word": "sizable",
+   "def": "adj.相当大的"
+  },
+  {
+   "word": "dancer",
+   "def": "n.舞蹈者，舞蹈演员"
+  },
+  {
+   "word": "righteous",
+   "def": "a. 正直的;正当的,公正的"
+  },
+  {
+   "word": "lasting",
+   "def": "adj.持久的，持续的"
+  },
+  {
+   "word": "mandate",
+   "def": "n.(书面)命令, 训令, 要求, (前国际联盟的)委任托管权。vt.委任统治。"
+  },
+  {
+   "word": "elemental",
+   "def": "a.基本的；自然力的"
+  },
+  {
+   "word": "brazil",
+   "def": "n.巴西"
+  },
+  {
+   "word": "worse",
+   "def": "a./ad. 更坏，更差(的/地)"
+  },
+  {
+   "word": "dig",
+   "def": "v. 挖，掘"
+  },
+  {
+   "word": "informal",
+   "def": "adj.非正式的"
+  },
+  {
+   "word": "displace",
+   "def": "vt. 转移,取代"
+  },
+  {
+   "word": "governor",
+   "def": "n. 统治者，管理者，总督，州(省)长"
+  },
+  {
+   "word": "counter-offer",
+   "def": "n.还价，还盘"
+  },
+  {
+   "word": "up",
+   "def": "ad. 向上，…起来；…完；起床prep. 向上"
+  },
+  {
+   "word": "fickle",
+   "def": "adj.(在感情等方面)变幻无常的, 浮躁的, 薄情的。"
+  },
+  {
+   "word": "inferiority",
+   "def": "n.劣势"
+  },
+  {
+   "word": "handful",
+   "def": "n. 一把；少数；一小撮"
+  },
+  {
+   "word": "capable",
+   "def": "a. 有本领的，有能力的；(of)可以…的，能…的"
+  },
+  {
+   "word": "sectional",
+   "def": "adj.可组合的。"
+  },
+  {
+   "word": "Jupiter",
+   "def": "n.丘庇特；木星"
+  },
+  {
+   "word": "lapse",
+   "def": "n. 小错,记错;(时间)流逝"
+  },
+  {
+   "word": "gutter",
+   "def": "n.沟，边沟；檐槽"
+  },
+  {
+   "word": "assault",
+   "def": "n./vt. 袭击,攻击"
+  },
+  {
+   "word": "learn",
+   "def": "v. 学习，学，学会；(of，about)听到，获悉"
+  },
+  {
+   "word": "slab",
+   "def": "n.厚平板, 厚片, 混凝土路面, 板层。v.把...分成厚片, 用石板铺。"
+  },
+  {
+   "word": "transcend",
+   "def": "vt.超越, 胜过。"
+  },
+  {
+   "word": "pulley",
+   "def": "n.滑轮，滑车，皮带轮"
+  },
+  {
+   "word": "abundance",
+   "def": "n. 丰富"
+  },
+  {
+   "word": "dreadful",
+   "def": "a.可怕的；令人敬畏的"
+  },
+  {
+   "word": "catch",
+   "def": "v. 捕捉，捕获；赶上；感染；理解，听到"
+  },
+  {
+   "word": "enthusiasm",
+   "def": "n. 热情，热心；狂热；积极性(for)"
+  },
+  {
+   "word": "hen",
+   "def": "n. 母鸡"
+  },
+  {
+   "word": "drink",
+   "def": "v. (drank，drunk)喝，饮n. 饮料；喝酒"
+  },
+  {
+   "word": "chemist",
+   "def": "n. 化学家；药剂师"
+  },
+  {
+   "word": "infernal",
+   "def": "adj.阴间的, 恶魔的。"
+  }
+ ]
+}

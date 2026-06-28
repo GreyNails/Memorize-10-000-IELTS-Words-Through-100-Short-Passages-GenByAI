@@ -1,0 +1,381 @@
+{
+ "id": 49,
+ "words": [
+  {
+   "word": "repairmen",
+   "def": "n.修理工"
+  },
+  {
+   "word": "shred",
+   "def": "n.碎片, 破布, 少量剩余, 最少量。v.撕碎, 切碎。"
+  },
+  {
+   "word": "granular",
+   "def": "adj.由小粒而成的, 粒状的"
+  },
+  {
+   "word": "discrimination",
+   "def": "n.辨别；识别力；歧视"
+  },
+  {
+   "word": "engagement",
+   "def": "n. 约会，约定；婚约，订婚"
+  },
+  {
+   "word": "file",
+   "def": "n./vt. 锉,锉刀;文件夹;归档;纵列;成纵队前进"
+  },
+  {
+   "word": "desert",
+   "def": "v. 丢弃,离开,背弃,开小差;n./a. 沙漠,无人居住的"
+  },
+  {
+   "word": "Mrs.",
+   "def": "n.(缩)夫人，太太"
+  },
+  {
+   "word": "Marxist",
+   "def": "a. 马克思主义的n. 马克思主义者"
+  },
+  {
+   "word": "fanatic",
+   "def": "a./n. 狂热的,狂热者"
+  },
+  {
+   "word": "ideology",
+   "def": "n.意识形态。"
+  },
+  {
+   "word": "wealthy",
+   "def": "a. 富有的，丰裕的，充分的n. 富人，有钱人"
+  },
+  {
+   "word": "spit",
+   "def": "vt./vi. 吐(唾沫)"
+  },
+  {
+   "word": "biscuit",
+   "def": "n. 饼干，点心"
+  },
+  {
+   "word": "scaly",
+   "def": "adj.鱼鳞状的"
+  },
+  {
+   "word": "clearance",
+   "def": "n. 清除,清理,净空;许可"
+  },
+  {
+   "word": "steamer",
+   "def": "n. 蒸笼,汽锅,汽船,轮船"
+  },
+  {
+   "word": "Japanese",
+   "def": "a.日本的 n.日本人"
+  },
+  {
+   "word": "pendulum",
+   "def": "n.钟摆, 摇锤。"
+  },
+  {
+   "word": "jungle",
+   "def": "n. 丛林,密林"
+  },
+  {
+   "word": "pretend",
+   "def": "v. 假装，假托，借口，(在演戏中)装扮"
+  },
+  {
+   "word": "prefix",
+   "def": "n.前缀"
+  },
+  {
+   "word": "inflammable",
+   "def": "adj.不易燃的"
+  },
+  {
+   "word": "warning",
+   "def": "n.警告，告诫，鉴诫"
+  },
+  {
+   "word": "monk",
+   "def": "n.和尚，僧侣，修道士"
+  },
+  {
+   "word": "butchery",
+   "def": "n.肉食店"
+  },
+  {
+   "word": "recommend",
+   "def": "v. 推荐，介绍；劝告，建议"
+  },
+  {
+   "word": "stumble",
+   "def": "vi. 绊跌,绊倒;结结巴巴说话"
+  },
+  {
+   "word": "pneumonia",
+   "def": "n. 肺炎"
+  },
+  {
+   "word": "brightness",
+   "def": "n.明亮，辉煌，聪明"
+  },
+  {
+   "word": "antecedent",
+   "def": "a./n. 先行的;祖先"
+  },
+  {
+   "word": "pile",
+   "def": "n. 堆，大量，大数目v. (up)堆，叠，堆积"
+  },
+  {
+   "word": "bloom",
+   "def": "n. 花;兴旺时期;vi. 开花;在青春时期"
+  },
+  {
+   "word": "sock",
+   "def": "n. (pl.)短袜"
+  },
+  {
+   "word": "lemon",
+   "def": "n. 柠檬"
+  },
+  {
+   "word": "single",
+   "def": "a. 单人的；单一的，单个的；未婚的，独身的"
+  },
+  {
+   "word": "skeleton",
+   "def": "n. 骨骼,(建筑物、计划的)骨架,纲要"
+  },
+  {
+   "word": "medicine",
+   "def": "n. 内服药，医药；医术；医学，内科学"
+  },
+  {
+   "word": "mumble",
+   "def": "v.咕哝，嘟囔"
+  },
+  {
+   "word": "commence",
+   "def": "v. 开始"
+  },
+  {
+   "word": "waterfall",
+   "def": "n. 瀑布"
+  },
+  {
+   "word": "decade",
+   "def": "n. 十年"
+  },
+  {
+   "word": "stem",
+   "def": "n. 茎;vi. (～from)起源于"
+  },
+  {
+   "word": "mass media",
+   "def": "n.传媒工具，新闻界"
+  },
+  {
+   "word": "cancellation",
+   "def": "n.删除，取消"
+  },
+  {
+   "word": "wager",
+   "def": "n.赌, 赌博, 赌注。vt.下赌注, 保证。vi.打赌"
+  },
+  {
+   "word": "quality",
+   "def": "n. 质量，品质，特性"
+  },
+  {
+   "word": "knob",
+   "def": "n. 圆形把手,旋钮,圆形突出物"
+  },
+  {
+   "word": "saddle",
+   "def": "n. 马鞍,鞍座,鞍状山脊"
+  },
+  {
+   "word": "exploration",
+   "def": "n.考察；勘探；探查"
+  },
+  {
+   "word": "indefinitely",
+   "def": "adv.不明确地"
+  },
+  {
+   "word": "radiate",
+   "def": "v. 辐射,(使)从中心发散,发出(光或热);流露,显示"
+  },
+  {
+   "word": "discipline",
+   "def": "n./vt. 训练,纪律;戒律,惩罚;学科"
+  },
+  {
+   "word": "escort",
+   "def": "n. 护卫者;护航舰;vt. 护送,护卫"
+  },
+  {
+   "word": "endorse",
+   "def": "vt. 背书,签署(姓名);赞同"
+  },
+  {
+   "word": "abort",
+   "def": "vi.异常中断, 中途失败, 夭折, 流产, 发育不全。n.中止计划[任务]。"
+  },
+  {
+   "word": "cooker",
+   "def": "n.厨具，厨灶"
+  },
+  {
+   "word": "beneficial",
+   "def": "a. 有益的,有利的"
+  },
+  {
+   "word": "sting",
+   "def": "n./v. 刺;刺痛"
+  },
+  {
+   "word": "granite",
+   "def": "a.花岗岩，花岗石"
+  },
+  {
+   "word": "septic",
+   "def": "adj.腐败的, 败血病的, 脓毒性的。n.腐烂物"
+  },
+  {
+   "word": "mammal",
+   "def": "n.哺乳动物。"
+  },
+  {
+   "word": "sheet",
+   "def": "n. 被单,薄板"
+  },
+  {
+   "word": "record",
+   "def": "n. 记录；最高记录；履历；唱片v. 记录；录音"
+  },
+  {
+   "word": "copy",
+   "def": "n. 抄本，摹本；(一)本vt. 抄写；考试中抄袭"
+  },
+  {
+   "word": "weigh",
+   "def": "v. 称…重量，称；重达；考虑，权衡"
+  },
+  {
+   "word": "serene",
+   "def": "adj.宁静的,安详的"
+  },
+  {
+   "word": "suffice",
+   "def": "vi. 足够, 有能力vt. (食物等)使(某人)满足"
+  },
+  {
+   "word": "Greek",
+   "def": "a.希腊的 n.希腊人"
+  },
+  {
+   "word": "penetration",
+   "def": "n.穿入；渗透，侵入"
+  },
+  {
+   "word": "immature",
+   "def": "adj.不成熟的"
+  },
+  {
+   "word": "pig",
+   "def": "n. 猪，猪肉；猪一般的人(指肮脏，贪吃的人)"
+  },
+  {
+   "word": "quit",
+   "def": "vt. 离开;辞职"
+  },
+  {
+   "word": "A.M.",
+   "def": "(缩)上午"
+  },
+  {
+   "word": "into",
+   "def": "prep. 到…里面，进入；成为(表示变化)"
+  },
+  {
+   "word": "wild",
+   "def": "a. 野性的，野生的；野蛮的；狂热的；荒芜的"
+  },
+  {
+   "word": "also",
+   "def": "ad. 而且(也)，此外(还)；同样地"
+  },
+  {
+   "word": "follow-up",
+   "def": "n. &adj.后续(的)"
+  },
+  {
+   "word": "ourselves",
+   "def": "pron.我们自己；我们亲自"
+  },
+  {
+   "word": "sexuality",
+   "def": "n.性欲"
+  },
+  {
+   "word": "admittedly",
+   "def": "adv.明白地"
+  },
+  {
+   "word": "passable",
+   "def": "adj.过得去的"
+  },
+  {
+   "word": "brash",
+   "def": "adj.仓促的, 无礼的, 性急的, 傲慢的。n.胃灼热, 骤雨, 碎片"
+  },
+  {
+   "word": "try",
+   "def": "v. 尝试，试图；试验，试用；审讯n. 尝试"
+  },
+  {
+   "word": "settlement",
+   "def": "n. 解决，决定，调停；居留区，住宅区"
+  },
+  {
+   "word": "humorous",
+   "def": "a. 富于幽默感的，幽默的；滑稽的"
+  },
+  {
+   "word": "shapeless",
+   "def": "adj.不定形的"
+  },
+  {
+   "word": "good-bye",
+   "def": "int.再见"
+  },
+  {
+   "word": "sodium",
+   "def": "n.钠"
+  },
+  {
+   "word": "lose",
+   "def": "v. 丢失，迷路，输掉，亏本，失败，走慢，使沉湎于"
+  },
+  {
+   "word": "ten",
+   "def": "num. 十pron./a. 十(个，只…)"
+  },
+  {
+   "word": "crease",
+   "def": "n.折缝, 折痕。v.折, 弄皱"
+  },
+  {
+   "word": "young",
+   "def": "a. 年轻的，幼小的；没经验的n. 青年人"
+  },
+  {
+   "word": "extreme",
+   "def": "adj. 极度的,极端的;尽头的,末端的 n. 极端,过分"
+  }
+ ]
+}

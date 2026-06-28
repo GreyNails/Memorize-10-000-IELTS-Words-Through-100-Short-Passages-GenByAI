@@ -1,0 +1,377 @@
+{
+ "id": 95,
+ "words": [
+  {
+   "word": "deposition",
+   "def": "n.免职，罢免；口供"
+  },
+  {
+   "word": "reminiscent",
+   "def": "adj.使想起的,像...的"
+  },
+  {
+   "word": "chunk",
+   "def": "n.大块, 矮胖的人或物。"
+  },
+  {
+   "word": "approve",
+   "def": "v. (of)赞成，赞许，同意；批准，审议，通过"
+  },
+  {
+   "word": "predict",
+   "def": "v. 预言，预测，预告"
+  },
+  {
+   "word": "approach",
+   "def": "v. 接近;着手处理;n. 接近;方法;途径"
+  },
+  {
+   "word": "worm",
+   "def": "n. 虫，蠕虫"
+  },
+  {
+   "word": "decent",
+   "def": "a. 正当的,合适的;得体的;尚可的"
+  },
+  {
+   "word": "sincere",
+   "def": "a. 真挚的;诚恳的"
+  },
+  {
+   "word": "elderly",
+   "def": "adj.过了中年的, 稍老的。"
+  },
+  {
+   "word": "proper",
+   "def": "a. 适合的；合乎体统的；固有的；有礼貌的"
+  },
+  {
+   "word": "native",
+   "def": "a. 本地的，本国的；天生的n. 本地人，本国人"
+  },
+  {
+   "word": "pore",
+   "def": "n.毛孔，气孔，细孔"
+  },
+  {
+   "word": "argue",
+   "def": "v. 不同意,辩论"
+  },
+  {
+   "word": "wash",
+   "def": "n. 洗；洗的衣物vt. 冲刷，洗；冲出vi. 洗澡"
+  },
+  {
+   "word": "retailer",
+   "def": "n.零售商"
+  },
+  {
+   "word": "interesting",
+   "def": "a. 有趣的，引人入胜的"
+  },
+  {
+   "word": "generosity",
+   "def": "n.慷慨，宽宏大量"
+  },
+  {
+   "word": "statistics",
+   "def": "n. 统计,统计数字,统计学"
+  },
+  {
+   "word": "get-together",
+   "def": "n.集会，聚会"
+  },
+  {
+   "word": "unconditionally",
+   "def": "adv.无条件地"
+  },
+  {
+   "word": "rebate",
+   "def": "n.回扣，折扣,退税"
+  },
+  {
+   "word": "possess",
+   "def": "v. 占有，拥有"
+  },
+  {
+   "word": "livestock",
+   "def": "n. 家畜,牲畜"
+  },
+  {
+   "word": "onlooker",
+   "def": "n.旁观者。"
+  },
+  {
+   "word": "acquaintance",
+   "def": "n. 认识，相识，了解；相识的人，熟人"
+  },
+  {
+   "word": "soluble",
+   "def": "adj.可溶的, 可溶解的。"
+  },
+  {
+   "word": "pilgrim",
+   "def": "n. 香客,朝圣者"
+  },
+  {
+   "word": "American",
+   "def": "a.美洲的 n.美国人"
+  },
+  {
+   "word": "portrait",
+   "def": "n. 肖像，画像"
+  },
+  {
+   "word": "recital",
+   "def": "n.朗诵, 背诵, 叙述, 独奏会, 独唱会。"
+  },
+  {
+   "word": "forbid",
+   "def": "v. 禁止，不许"
+  },
+  {
+   "word": "broad",
+   "def": "a. 宽的，广阔的；广大的；宽宏的，豁达的"
+  },
+  {
+   "word": "ranch",
+   "def": "n.(北美洲的)大牧场"
+  },
+  {
+   "word": "signature",
+   "def": "n. 签名"
+  },
+  {
+   "word": "mount",
+   "def": "vt. 登上;发起,组织;安放,安装;vi. 增长,加剧; n. [M-"
+  },
+  {
+   "word": "pry",
+   "def": "v.探查"
+  },
+  {
+   "word": "rail",
+   "def": "n. 栏杆;横杆;vi. 责骂"
+  },
+  {
+   "word": "bug",
+   "def": "n. 臭虫,病毒传染,窃听器 vt. 窃听"
+  },
+  {
+   "word": "frost",
+   "def": "n. 严寒,霜;v. 结霜;使(玻璃)具有光泽的表面;在(糕饼上)撒糖粒"
+  },
+  {
+   "word": "dock",
+   "def": "n. 船坞,码头;刑事被告席;v. 引入船坞,削减薪金、供应等"
+  },
+  {
+   "word": "plant",
+   "def": "n. 植物，作物；工厂；装置v. 栽种，播种，栽培"
+  },
+  {
+   "word": "gun",
+   "def": "n. 枪，炮，手枪"
+  },
+  {
+   "word": "distinguished",
+   "def": "adj.尊贵的，尊敬的"
+  },
+  {
+   "word": "detailed",
+   "def": "adj.详细的，详尽的"
+  },
+  {
+   "word": "check",
+   "def": "n. 支票，空白支票；总收入vt. 检查；核对；制止"
+  },
+  {
+   "word": "uneven",
+   "def": "adj.不平坦的, 不平均的, 不均匀的, 奇数的。"
+  },
+  {
+   "word": "middling",
+   "def": "n.中等的，第二流的"
+  },
+  {
+   "word": "nasty",
+   "def": "adj.令人讨厌的;困难的;严重的,恶劣的;下流的"
+  },
+  {
+   "word": "intellect",
+   "def": "n.理智，智力，才智"
+  },
+  {
+   "word": "happy",
+   "def": "a. 快乐的，幸福的；乐意的；令人满意的"
+  },
+  {
+   "word": "knock",
+   "def": "v. 敲，敲打，碰撞n. 敲，击"
+  },
+  {
+   "word": "ceramic",
+   "def": "adj.陶器的。n.陶瓷制品"
+  },
+  {
+   "word": "ripe",
+   "def": "a. 熟的，成熟的；(for)时机成熟的"
+  },
+  {
+   "word": "intonation",
+   "def": "n.语调，声调；发声"
+  },
+  {
+   "word": "heiress",
+   "def": "n.女继承人"
+  },
+  {
+   "word": "sprout",
+   "def": "vt./vi. 发芽,开始生长;发展"
+  },
+  {
+   "word": "tile",
+   "def": "n. 瓦片，瓷砖vt. 铺瓦于，贴砖于"
+  },
+  {
+   "word": "Irish",
+   "def": "n. &adj.爱尔兰人(的)"
+  },
+  {
+   "word": "hotdog",
+   "def": "n.热狗(面包)"
+  },
+  {
+   "word": "inclination",
+   "def": "n. 倾向,意愿"
+  },
+  {
+   "word": "scheme",
+   "def": "n./v. 安排;计划;阴谋"
+  },
+  {
+   "word": "soap",
+   "def": "n. 肥皂"
+  },
+  {
+   "word": "duration",
+   "def": "n. 持久；期间；持续时间"
+  },
+  {
+   "word": "salability",
+   "def": "n.适销性"
+  },
+  {
+   "word": "relatively",
+   "def": "ad.相对地，比较地"
+  },
+  {
+   "word": "sweater",
+   "def": "n. 厚运动衫,毛线衫"
+  },
+  {
+   "word": "rough",
+   "def": "a. 不平的;粗鲁的;粗略的;刺耳的"
+  },
+  {
+   "word": "meringue",
+   "def": "蛋白与糖的混合物。"
+  },
+  {
+   "word": "trial",
+   "def": "n. 试验,试用;审讯,受审"
+  },
+  {
+   "word": "shuffle",
+   "def": "v.拖脚走,洗澡"
+  },
+  {
+   "word": "demanding",
+   "def": "adj.对人要求严格的"
+  },
+  {
+   "word": "sensible",
+   "def": "a. 明智的;可感觉的"
+  },
+  {
+   "word": "cumbersome",
+   "def": "adj.讨厌的, 麻烦的, 笨重的。"
+  },
+  {
+   "word": "humor",
+   "def": "n. 幽默，诙谐"
+  },
+  {
+   "word": "beware",
+   "def": "v. 当心，谨防"
+  },
+  {
+   "word": "shrug",
+   "def": "n./v. 耸肩"
+  },
+  {
+   "word": "thinner",
+   "def": "n.稀释剂。"
+  },
+  {
+   "word": "equator",
+   "def": "n. 赤道"
+  },
+  {
+   "word": "gene",
+   "def": "n.[遗传]因子, [遗传]基因。"
+  },
+  {
+   "word": "regretfully",
+   "def": "adv.遗憾地"
+  },
+  {
+   "word": "constraint",
+   "def": "n.强迫，结束；强制力"
+  },
+  {
+   "word": "aching",
+   "def": "adj.疼痛的"
+  },
+  {
+   "word": "disguise",
+   "def": "vt./n. 假扮;隐蔽;掩饰"
+  },
+  {
+   "word": "hobby",
+   "def": "n. 业余爱好"
+  },
+  {
+   "word": "privacy",
+   "def": "n. 隐私;秘密"
+  },
+  {
+   "word": "strong",
+   "def": "a. 强壮的，强大的；强烈的，浓的"
+  },
+  {
+   "word": "playmate",
+   "def": "n.游伴"
+  },
+  {
+   "word": "faulty",
+   "def": "a. 有错误的，有缺点的，不完善的"
+  },
+  {
+   "word": "radium",
+   "def": "n.镭"
+  },
+  {
+   "word": "selfish",
+   "def": "adj. 自私的，利己的"
+  },
+  {
+   "word": "carelessness",
+   "def": "n.粗心"
+  },
+  {
+   "word": "social",
+   "def": "a. 社会的；交际的"
+  }
+ ]
+}

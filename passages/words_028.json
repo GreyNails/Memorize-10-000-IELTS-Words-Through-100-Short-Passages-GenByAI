@@ -1,0 +1,381 @@
+{
+ "id": 28,
+ "words": [
+  {
+   "word": "endless",
+   "def": "a.无止境的"
+  },
+  {
+   "word": "rig",
+   "def": "n.索具装备, 钻探设备, 钻探平台, 钻塔。v.装上索具, 配备, 装配。"
+  },
+  {
+   "word": "fly",
+   "def": "n. 飞行；苍蝇v飞行；飘杨a. 机敏的"
+  },
+  {
+   "word": "invasion",
+   "def": "n. 入侵，侵略，侵犯"
+  },
+  {
+   "word": "creative",
+   "def": "a. 有创造力的，创造性的"
+  },
+  {
+   "word": "parameter",
+   "def": "n. 参数，参量"
+  },
+  {
+   "word": "savings",
+   "def": "n.存款，储蓄额"
+  },
+  {
+   "word": "outcast",
+   "def": "adj.被逐的, 被排斥的, 被遗弃的。n.被驱逐者, 流浪者, 流氓。"
+  },
+  {
+   "word": "construe",
+   "def": "v.翻译，解释"
+  },
+  {
+   "word": "empower",
+   "def": "v.授权与, 使能够。"
+  },
+  {
+   "word": "ferryboat",
+   "def": "n.渡船"
+  },
+  {
+   "word": "colonnade",
+   "def": "n.柱廊。"
+  },
+  {
+   "word": "checkup",
+   "def": "n.审查, 检查, 鉴定, 身体检查。"
+  },
+  {
+   "word": "referee",
+   "def": "n.(足球等)裁判员"
+  },
+  {
+   "word": "snore",
+   "def": "vi.打鼾，打呼噜"
+  },
+  {
+   "word": "leisure",
+   "def": "n. 空闲，闲暇；悠闲，安逸"
+  },
+  {
+   "word": "entry",
+   "def": "n. 进入,入口;条目,词条"
+  },
+  {
+   "word": "rectification",
+   "def": "n.纠正,电流整流"
+  },
+  {
+   "word": "formal",
+   "def": "a. 正式的；形式的"
+  },
+  {
+   "word": "precise",
+   "def": "a. 精确的"
+  },
+  {
+   "word": "golden",
+   "def": "a. 金黄色的；贵重的，极好的"
+  },
+  {
+   "word": "textbook",
+   "def": "n. 课本，教科书"
+  },
+  {
+   "word": "meditation",
+   "def": "n. 熟虑；(尤指宗教的)默想，沉思；(pl.)冥想录"
+  },
+  {
+   "word": "united states",
+   "def": "n.美国，合众国"
+  },
+  {
+   "word": "switch",
+   "def": "n. 开关；转换；鞭子v. 转变，转换；抽打"
+  },
+  {
+   "word": "post-office",
+   "def": "n.邮局"
+  },
+  {
+   "word": "barrier",
+   "def": "n. 栅栏，屏障；障碍(物)"
+  },
+  {
+   "word": "conscious",
+   "def": "a. 清醒的;察觉到;故意的"
+  },
+  {
+   "word": "medal",
+   "def": "n. 奖章,纪念章"
+  },
+  {
+   "word": "strive",
+   "def": "vi. 斗争,努力,奋斗"
+  },
+  {
+   "word": "malicious",
+   "def": "adj.恶意的"
+  },
+  {
+   "word": "variable",
+   "def": "a. 变化的,可变的;n. 可变物,变量"
+  },
+  {
+   "word": "promissory",
+   "def": "adj.约定的"
+  },
+  {
+   "word": "regularly",
+   "def": "ad.有规律地"
+  },
+  {
+   "word": "jeopardise",
+   "def": "v.使受危险, 危及。"
+  },
+  {
+   "word": "elicit",
+   "def": "vt.得出, 引出, 抽出, 引起。"
+  },
+  {
+   "word": "hit",
+   "def": "v. 打，击；碰撞n. 击中；成功而风行一时的事物"
+  },
+  {
+   "word": "adoptive",
+   "def": "adj.收养关系的, 采用的。"
+  },
+  {
+   "word": "worthless",
+   "def": "a.无价值的，无用的"
+  },
+  {
+   "word": "agricultural",
+   "def": "adj.农业的"
+  },
+  {
+   "word": "pessimistic",
+   "def": "a. 悲观(主义)的"
+  },
+  {
+   "word": "professional",
+   "def": "a. 职业的 n. 专业人员"
+  },
+  {
+   "word": "trap",
+   "def": "n. 陷阱;圈套;双轮轻便马车"
+  },
+  {
+   "word": "bit",
+   "def": "n. 一点,一些；小块,少量；片刻;[计"
+  },
+  {
+   "word": "verdict",
+   "def": "n.[律](陪审团的)裁决, 判决, 判断, 定论, 结论。"
+  },
+  {
+   "word": "justify",
+   "def": "vt. 证明…是正当的或有理的,为…辩护"
+  },
+  {
+   "word": "vice",
+   "def": "n. 罪恶;不道德行为"
+  },
+  {
+   "word": "wrestle",
+   "def": "vi. 摔跤,角斗;斗争,努力"
+  },
+  {
+   "word": "invent",
+   "def": "v. 发明，创造；捏造，虚构"
+  },
+  {
+   "word": "bridle",
+   "def": "n.笼子；束缚vt.抑制"
+  },
+  {
+   "word": "shatter",
+   "def": "vt./vi. 粉碎,毁损"
+  },
+  {
+   "word": "passenger",
+   "def": "n. 乘客，旅客"
+  },
+  {
+   "word": "distance",
+   "def": "n. 距离，间隔，远方，路程"
+  },
+  {
+   "word": "relieve",
+   "def": "v. 减轻，解除，援救，救济，换班"
+  },
+  {
+   "word": "friendly",
+   "def": "a. 友好的，友谊的"
+  },
+  {
+   "word": "zinc",
+   "def": "n. 锌"
+  },
+  {
+   "word": "tutorial",
+   "def": "n.指南。"
+  },
+  {
+   "word": "criticism",
+   "def": "n. 评论性的文章，评论；批评，指责，非难"
+  },
+  {
+   "word": "discussion",
+   "def": "n.讨论，谈论；论述"
+  },
+  {
+   "word": "title",
+   "def": "n. 标题,题目,称号,法律权利,所有权"
+  },
+  {
+   "word": "brave",
+   "def": "a. 勇敢的v. 勇敢地面对(危险等)"
+  },
+  {
+   "word": "prevalent",
+   "def": "a. 普遍的,流行的"
+  },
+  {
+   "word": "instruct",
+   "def": "v. 教，教授；命令，指示"
+  },
+  {
+   "word": "above-mentioned",
+   "def": "adj.上述的"
+  },
+  {
+   "word": "fidelity",
+   "def": "n.忠实, 诚实, 忠诚, 保真度, (收音机, 录音设备等的)逼真度, 保真度, 重现精度。"
+  },
+  {
+   "word": "grateful",
+   "def": "a. (to，for)感激的；感谢的"
+  },
+  {
+   "word": "legislation",
+   "def": "n. 法律(规)；立法，法律的制定(或通过)"
+  },
+  {
+   "word": "presume",
+   "def": "v. 假定，假设，认为，揣测，滥用，擅自行动"
+  },
+  {
+   "word": "summit",
+   "def": "n. 顶点,高峰;峰会(最高级会谈)"
+  },
+  {
+   "word": "brown",
+   "def": "n./a. 褐色(的)，棕色(的)"
+  },
+  {
+   "word": "intensity",
+   "def": "n. 强烈，剧烈；强度"
+  },
+  {
+   "word": "migrate",
+   "def": "vi. 迁移;移居"
+  },
+  {
+   "word": "elephant",
+   "def": "n. (动物)象"
+  },
+  {
+   "word": "starfish",
+   "def": "n.海星。"
+  },
+  {
+   "word": "preliminary",
+   "def": "a. 初步的,开端的"
+  },
+  {
+   "word": "wicked",
+   "def": "a. 坏的;邪恶的"
+  },
+  {
+   "word": "lonely",
+   "def": "a. 孤独的，寂寞的；荒凉的，人迹稀少的"
+  },
+  {
+   "word": "project",
+   "def": "n. 方案;计划;v. 设计;投影;抛"
+  },
+  {
+   "word": "win",
+   "def": "vi. 获胜，赢vt. 赢得；在…中获胜n. 胜利"
+  },
+  {
+   "word": "further",
+   "def": "ad./a. 更远，更往前；进一步v. 促进，增进"
+  },
+  {
+   "word": "pea",
+   "def": "n. 豌豆"
+  },
+  {
+   "word": "conserve",
+   "def": "vt.保存, 保藏。"
+  },
+  {
+   "word": "nomad",
+   "def": "n.游牧部落的人, 流浪者, 游牧民。adj.游牧的"
+  },
+  {
+   "word": "echo",
+   "def": "n./v. 反响,回声"
+  },
+  {
+   "word": "attentively",
+   "def": "adv.关心地"
+  },
+  {
+   "word": "baby-sitter",
+   "def": "n.看护小孩的人"
+  },
+  {
+   "word": "ladder",
+   "def": "n. 梯子，阶梯"
+  },
+  {
+   "word": "Marxism",
+   "def": "n.马克思主义"
+  },
+  {
+   "word": "chronic",
+   "def": "adj.慢性的, 延续很长的。"
+  },
+  {
+   "word": "bamboo",
+   "def": "n. 竹"
+  },
+  {
+   "word": "habit",
+   "def": "n. 习惯，习性，脾性"
+  },
+  {
+   "word": "election",
+   "def": "n.选举，选择权；当选"
+  },
+  {
+   "word": "proportion",
+   "def": "n. 比率,比例,大小,容积"
+  },
+  {
+   "word": "commonly",
+   "def": "ad.普通地，一般地"
+  }
+ ]
+}

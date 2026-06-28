@@ -1,0 +1,381 @@
+{
+ "id": 41,
+ "words": [
+  {
+   "word": "tempo",
+   "def": "n.(音乐)速度、拍子, 发展速度。"
+  },
+  {
+   "word": "agreeable",
+   "def": "a. 令人愉快的;欣然同意的"
+  },
+  {
+   "word": "wordy",
+   "def": "adj.冗长的，罗嗦的"
+  },
+  {
+   "word": "directly",
+   "def": "ad. 直接地，径直地；马上，立即"
+  },
+  {
+   "word": "exposition",
+   "def": "n.说明，解释；陈列"
+  },
+  {
+   "word": "bona fide",
+   "def": "adj.真诚的，无欺的"
+  },
+  {
+   "word": "conceit",
+   "def": "n.自负，自高自大"
+  },
+  {
+   "word": "prostrate",
+   "def": "adj.降伏的, 沮丧的, 衰竭的, 俯卧的。vt.弄倒, 使屈服"
+  },
+  {
+   "word": "stuffy",
+   "def": "a.不透气的，闷热的"
+  },
+  {
+   "word": "grip",
+   "def": "v./n. 紧握,抓紧,握力;柄;吸引"
+  },
+  {
+   "word": "universal",
+   "def": "a. 普遍的,全体的,全球的"
+  },
+  {
+   "word": "playwright",
+   "def": "n.剧作家"
+  },
+  {
+   "word": "custody",
+   "def": "n.保管，监护"
+  },
+  {
+   "word": "unwarranted",
+   "def": "adj.无根据的"
+  },
+  {
+   "word": "gang",
+   "def": "n. 一组,一队,(罪犯等)一帮,一群"
+  },
+  {
+   "word": "refinery",
+   "def": "n.精炼厂，提炼厂"
+  },
+  {
+   "word": "purse",
+   "def": "n. 钱包"
+  },
+  {
+   "word": "whale",
+   "def": "n. 鲸；庞然大物"
+  },
+  {
+   "word": "marking",
+   "def": "n.唛头，标记"
+  },
+  {
+   "word": "inspiring",
+   "def": "adj.灌输的, 鼓舞的。"
+  },
+  {
+   "word": "optic",
+   "def": "adj.眼的, 视觉的, 光学上的。"
+  },
+  {
+   "word": "warehouse",
+   "def": "n. 仓库"
+  },
+  {
+   "word": "combination",
+   "def": "n. 结合，联合；化合；团体；组合数码"
+  },
+  {
+   "word": "residual",
+   "def": "a.剩余的；残数的"
+  },
+  {
+   "word": "subtle",
+   "def": "a. 微妙的,难于捉摸的;诡秘的,狡诈的;隐约的"
+  },
+  {
+   "word": "advise",
+   "def": "vt. 忠告，劝告，建议；通知，告知"
+  },
+  {
+   "word": "depict",
+   "def": "vt. 描绘,描写"
+  },
+  {
+   "word": "tricky",
+   "def": "adj.巧妙的，狡猾的"
+  },
+  {
+   "word": "truck",
+   "def": "n. 卡车，载重汽车"
+  },
+  {
+   "word": "vanity",
+   "def": "n. 自大,虚荣;无价值,空虚"
+  },
+  {
+   "word": "orient",
+   "def": "n. 东方，亚洲v. 使朝东，为…定位，使适应"
+  },
+  {
+   "word": "cutlery",
+   "def": "n.刀具，餐刀"
+  },
+  {
+   "word": "strait",
+   "def": "n. 海峡;困难,窘迫"
+  },
+  {
+   "word": "parade",
+   "def": "vt./vi. 阅兵整队;列队行进,游行;夸耀;炫示"
+  },
+  {
+   "word": "illiteracy",
+   "def": "n.文盲"
+  },
+  {
+   "word": "straightforward",
+   "def": "a. 正直的,坦率的,老实的, 简明易懂的"
+  },
+  {
+   "word": "arrangement",
+   "def": "n.整理，排列；安排"
+  },
+  {
+   "word": "port",
+   "def": "n. 港口,舱门,舱口,(船、飞机)左舷"
+  },
+  {
+   "word": "lighten",
+   "def": "vt.照亮，使明亮"
+  },
+  {
+   "word": "sensitivity",
+   "def": "n.敏感(性)；灵敏性"
+  },
+  {
+   "word": "towel",
+   "def": "n. 毛巾,手巾"
+  },
+  {
+   "word": "ratify",
+   "def": "v.批准，认可，追认"
+  },
+  {
+   "word": "rock",
+   "def": "n. 岩石，石块v. 摇，摇动"
+  },
+  {
+   "word": "broadcasting",
+   "def": "n.广播节目"
+  },
+  {
+   "word": "intervene",
+   "def": "vi. 插入,干涉;插话(时间)介于"
+  },
+  {
+   "word": "merry",
+   "def": "a. 欢乐的，愉快的"
+  },
+  {
+   "word": "so-called",
+   "def": "a. (贬)所谓的，号称的"
+  },
+  {
+   "word": "proximity",
+   "def": "n.接近, 亲近"
+  },
+  {
+   "word": "patron",
+   "def": "n. 赞助人;资助人;老顾客,主顾"
+  },
+  {
+   "word": "gate",
+   "def": "n. 大门；入口；观众人数，门票收入"
+  },
+  {
+   "word": "breathe",
+   "def": "v. 呼吸，吸入"
+  },
+  {
+   "word": "unlawful",
+   "def": "adj.不合法的，违法的"
+  },
+  {
+   "word": "resemblance",
+   "def": "n. 相似，相似性[点，物"
+  },
+  {
+   "word": "tennis",
+   "def": "n. 网球"
+  },
+  {
+   "word": "exhibition",
+   "def": "n. 展览会；陈列，展览"
+  },
+  {
+   "word": "transgress",
+   "def": "vt.违反, 犯罪, 侵犯。vi.越界, 违法。"
+  },
+  {
+   "word": "uranium",
+   "def": "n.铀"
+  },
+  {
+   "word": "hunt",
+   "def": "v./n. 打猎，猎取；(for)搜索；寻找"
+  },
+  {
+   "word": "negotiable",
+   "def": "a. 可谈判的,可商议的;可兑换现金的;可通行的(道路、河流)"
+  },
+  {
+   "word": "endow",
+   "def": "vt. 捐款,资助;赋予天赋"
+  },
+  {
+   "word": "wilderness",
+   "def": "n. 荒地,废墟"
+  },
+  {
+   "word": "battle",
+   "def": "n. 战役，战斗；斗争v. 战斗，斗争，搏斗"
+  },
+  {
+   "word": "involved",
+   "def": "adj.涉及的，复杂的"
+  },
+  {
+   "word": "dine",
+   "def": "v. 吃饭,进餐"
+  },
+  {
+   "word": "goat",
+   "def": "n. 山羊"
+  },
+  {
+   "word": "twenty",
+   "def": "num. 二十pron./a. 二十(个，只…)"
+  },
+  {
+   "word": "liar",
+   "def": "n.说谎的人"
+  },
+  {
+   "word": "judicial",
+   "def": "adj.司法的, 法院的, 公正的, 明断的。"
+  },
+  {
+   "word": "unknown",
+   "def": "a.不知道的；未知的"
+  },
+  {
+   "word": "liner",
+   "def": "n. 大客轮;衬里"
+  },
+  {
+   "word": "wrath",
+   "def": "n.暴怒，狂怒，愤慨"
+  },
+  {
+   "word": "outstrip",
+   "def": "v.超过。"
+  },
+  {
+   "word": "ambiguous",
+   "def": "a. 引起歧义的，模棱两可的，含糊不清的"
+  },
+  {
+   "word": "clamor",
+   "def": "n.喧闹, 叫嚷, 大声的要求。v.喧嚷, 大声的要求"
+  },
+  {
+   "word": "fob",
+   "def": "(缩)离岸价"
+  },
+  {
+   "word": "pursuant",
+   "def": "a.追踪的,依照的"
+  },
+  {
+   "word": "eminent",
+   "def": "a. 著名的,卓越的"
+  },
+  {
+   "word": "shoal",
+   "def": "n.浅滩, 沙洲, 鱼群, 大量。adj.水浅的。v.(使)变浅, 驶入(浅水等), (鱼等)群集。"
+  },
+  {
+   "word": "preservation",
+   "def": "n.保存，储藏；保持"
+  },
+  {
+   "word": "shiver",
+   "def": "vi./n. 颤抖,哆嗦"
+  },
+  {
+   "word": "bristle",
+   "def": "n.短而硬的毛；鬃毛"
+  },
+  {
+   "word": "bureau",
+   "def": "n. 署，局，司，处"
+  },
+  {
+   "word": "kidnap",
+   "def": "vt. 诱拐,绑架"
+  },
+  {
+   "word": "toothache",
+   "def": "n.牙疼"
+  },
+  {
+   "word": "increasing",
+   "def": "adj.不断增长的"
+  },
+  {
+   "word": "p.m.",
+   "def": "n.下午，午后"
+  },
+  {
+   "word": "ignore",
+   "def": "v. 不理，不顾，忽视"
+  },
+  {
+   "word": "mansion",
+   "def": "n. 大厦,官邸"
+  },
+  {
+   "word": "confusion",
+   "def": "n. 困惑，糊涂；混淆；混乱，骚乱"
+  },
+  {
+   "word": "microscope",
+   "def": "n. 显微镜"
+  },
+  {
+   "word": "finger",
+   "def": "n. 手指；指状物；指针"
+  },
+  {
+   "word": "pneumatic",
+   "def": "a.空气的；气动的"
+  },
+  {
+   "word": "overrun",
+   "def": "n.泛滥成灾, 超出限度。vt.蹂躏, 超过, 泛滥。vi.泛滥, 蔓延"
+  },
+  {
+   "word": "employee",
+   "def": "n. 雇工，雇员"
+  }
+ ]
+}

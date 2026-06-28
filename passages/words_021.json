@@ -1,0 +1,381 @@
+{
+ "id": 21,
+ "words": [
+  {
+   "word": "surge",
+   "def": "n. 急剧上升;洋溢,奔放;汹涌,奔腾;vi. 浪涛般汹涌 奔腾;猛冲;(浪涛等)汹涌,奔腾;(人群等)蜂拥而出"
+  },
+  {
+   "word": "sideways",
+   "def": "ad./a. 向旁边(的)，侧身，横着(的)，斜着(的)"
+  },
+  {
+   "word": "considerate",
+   "def": "a. 考虑周到的，体谅的"
+  },
+  {
+   "word": "lottery",
+   "def": "n. 彩票;抽彩给奖法"
+  },
+  {
+   "word": "September",
+   "def": "n. 九月"
+  },
+  {
+   "word": "prolong",
+   "def": "vt. 延长;拖延"
+  },
+  {
+   "word": "ranking",
+   "def": "n.队。"
+  },
+  {
+   "word": "someone",
+   "def": "pron. 某人"
+  },
+  {
+   "word": "probable",
+   "def": "a. 很可能的，大概的；有希望的，可能的"
+  },
+  {
+   "word": "quartz",
+   "def": "n. 石英"
+  },
+  {
+   "word": "orderly",
+   "def": "a. 有秩序的,整齐的,有条不紊的"
+  },
+  {
+   "word": "actuality",
+   "def": "n.实际"
+  },
+  {
+   "word": "helpful",
+   "def": "a. (to)有帮助的，有益的，有用的"
+  },
+  {
+   "word": "authority",
+   "def": "n. 权力;威信;当局;权威"
+  },
+  {
+   "word": "knife",
+   "def": "n. 刀，餐刀v. 用刀切，用匕首刺"
+  },
+  {
+   "word": "bag",
+   "def": "n. 袋，提包v. 把…装入袋中；猎杀；占有"
+  },
+  {
+   "word": "basic",
+   "def": "a. 基本的，基础的"
+  },
+  {
+   "word": "inapt",
+   "def": "adj.不确切的。"
+  },
+  {
+   "word": "canteen",
+   "def": "n. 食堂,小卖部,餐具箱,水壶"
+  },
+  {
+   "word": "symptom",
+   "def": "n. (疾病的)症状；(不好事情的)征兆，表征"
+  },
+  {
+   "word": "rather",
+   "def": "ad. 相当，有一点儿；宁愿，宁可"
+  },
+  {
+   "word": "debt",
+   "def": "n. 债，债务"
+  },
+  {
+   "word": "prism",
+   "def": "n.棱柱(体)；棱镜"
+  },
+  {
+   "word": "workmanship",
+   "def": "n.工艺，手艺"
+  },
+  {
+   "word": "idiomatic",
+   "def": "adj.习语的，惯用的"
+  },
+  {
+   "word": "doctrine",
+   "def": "n. 教条,教义"
+  },
+  {
+   "word": "drastic",
+   "def": "a. 严厉的,极端的;激烈的,迅猛的"
+  },
+  {
+   "word": "button",
+   "def": "n. 纽扣，按钮(开关)v. 扣紧；扣上纽扣"
+  },
+  {
+   "word": "permanent",
+   "def": "a. 永久的,持久的"
+  },
+  {
+   "word": "sand",
+   "def": "n. 沙；(pl.)沙滩，沙地"
+  },
+  {
+   "word": "intermittent",
+   "def": "adj.间歇的, 断断续续的。"
+  },
+  {
+   "word": "complicate",
+   "def": "v. 使…复杂；使…难懂；使(疾病等)恶化；"
+  },
+  {
+   "word": "devil",
+   "def": "n. 魔鬼"
+  },
+  {
+   "word": "consistent",
+   "def": "a. (in)前后一致的；(with)一致，符合"
+  },
+  {
+   "word": "occupant",
+   "def": "n.占有者, 居住者。"
+  },
+  {
+   "word": "tray",
+   "def": "n. 盘，碟，托盘"
+  },
+  {
+   "word": "herculean",
+   "def": "adj.力大无比的, 巨大的。"
+  },
+  {
+   "word": "ratification",
+   "def": "n.批准，认可"
+  },
+  {
+   "word": "faith",
+   "def": "n. 信任,信仰"
+  },
+  {
+   "word": "pervert",
+   "def": "v.反常。"
+  },
+  {
+   "word": "legion",
+   "def": "n.古罗马军团(约有3000至6000步兵,辅以数百名骑兵), <书>众多, 大批。"
+  },
+  {
+   "word": "abet",
+   "def": "vt.教唆, 煽动, 帮助, 支持。"
+  },
+  {
+   "word": "eternal",
+   "def": "a. 永久的,不朽的;不停的"
+  },
+  {
+   "word": "implementation",
+   "def": "n.实行，执行"
+  },
+  {
+   "word": "open",
+   "def": "n. 公开，户外a. 开的，开放的v. 开"
+  },
+  {
+   "word": "rash",
+   "def": "a. 轻率的，鲁莽的n. 皮疹"
+  },
+  {
+   "word": "climate",
+   "def": "n. 气候；风气，社会思潮"
+  },
+  {
+   "word": "infringe",
+   "def": "v. 违反,触犯,侵害"
+  },
+  {
+   "word": "assist",
+   "def": "vt. 协助，帮助，促进vi. 帮忙，参加"
+  },
+  {
+   "word": "pickpocket",
+   "def": "n.扒手，小偷"
+  },
+  {
+   "word": "multilateral",
+   "def": "adj.多边的, 多国的。"
+  },
+  {
+   "word": "possibility",
+   "def": "n. 可能，可能性；可能的事，希望"
+  },
+  {
+   "word": "craftsman",
+   "def": "n.手艺人"
+  },
+  {
+   "word": "scarlet",
+   "def": "n.猩红色a.猩红的"
+  },
+  {
+   "word": "peach",
+   "def": "n. 桃，桃树"
+  },
+  {
+   "word": "chestnut",
+   "def": "n.栗子；栗树；栗色"
+  },
+  {
+   "word": "amateur",
+   "def": "n./a. 业余爱好者(的)"
+  },
+  {
+   "word": "flute",
+   "def": "n.长笛，笛子"
+  },
+  {
+   "word": "Scottish",
+   "def": "adj.苏格兰的"
+  },
+  {
+   "word": "wrinkle",
+   "def": "n. 皱纹v. 起皱，皱眉"
+  },
+  {
+   "word": "bonus",
+   "def": "n. 奖金,额外津贴"
+  },
+  {
+   "word": "pessimism",
+   "def": "n.悲观, 悲观主义。"
+  },
+  {
+   "word": "ascent",
+   "def": "n.上升, (地位, 声望等的)提高, 攀登, 上坡路。"
+  },
+  {
+   "word": "savage",
+   "def": "a. 未开化的;凶猛的"
+  },
+  {
+   "word": "offset",
+   "def": "vt. 抵消,补偿"
+  },
+  {
+   "word": "mutter",
+   "def": "v./n. 轻声低语;怨言"
+  },
+  {
+   "word": "discount",
+   "def": "n. 折扣 vt. 不全信,低估,漠视"
+  },
+  {
+   "word": "according",
+   "def": "adj.按照，据说"
+  },
+  {
+   "word": "thaw",
+   "def": "n.解冻。"
+  },
+  {
+   "word": "ass",
+   "def": "n.驴；傻瓜，蠢笨的人"
+  },
+  {
+   "word": "coast",
+   "def": "n. 海岸，海滨"
+  },
+  {
+   "word": "imperialist",
+   "def": "n.帝国主义者"
+  },
+  {
+   "word": "winery",
+   "def": "n.酿酒厂"
+  },
+  {
+   "word": "regularity",
+   "def": "n.规则性；整齐"
+  },
+  {
+   "word": "torpedo",
+   "def": "n.鱼雷，水雷"
+  },
+  {
+   "word": "censor",
+   "def": "n./vt. 审查,审查员;删改"
+  },
+  {
+   "word": "form",
+   "def": "n. 形状，形式；表格v. 组成，构成；形成"
+  },
+  {
+   "word": "blossom",
+   "def": "n. 花(簇)；花期；青春vi. 开花；展开；繁荣"
+  },
+  {
+   "word": "subtitle",
+   "def": "n.副题(书本中的), 说明对白的字幕。"
+  },
+  {
+   "word": "deadline",
+   "def": "n. 最后期限"
+  },
+  {
+   "word": "alter",
+   "def": "v. 改变,更改"
+  },
+  {
+   "word": "grudge",
+   "def": "vt. 吝惜,不愿给;n. 恶意,怨恨,忌妒"
+  },
+  {
+   "word": "whenever",
+   "def": "conj. 无论何时，随时；每当"
+  },
+  {
+   "word": "feat",
+   "def": "n. 功绩，伟业，技艺"
+  },
+  {
+   "word": "derivation",
+   "def": "n.引出；起源；衍生"
+  },
+  {
+   "word": "indicate",
+   "def": "v. 指出，指示；表明，暗示"
+  },
+  {
+   "word": "humid",
+   "def": "a. 湿的，湿气重的"
+  },
+  {
+   "word": "homestay",
+   "def": "n.(在国外的访问者)在当地居民家居住的时期。"
+  },
+  {
+   "word": "poker",
+   "def": "n.扑克,拨火铁棒,直挺挺的,僵硬的"
+  },
+  {
+   "word": "bright",
+   "def": "a. 明亮的，辉煌的；聪明的；欢快的，美好的"
+  },
+  {
+   "word": "admire",
+   "def": "vt. 钦佩，赞赏，羡慕；称赞，夸奖"
+  },
+  {
+   "word": "liking",
+   "def": "n.兴趣，嗜好"
+  },
+  {
+   "word": "anniversary",
+   "def": "n. 周年纪念"
+  },
+  {
+   "word": "deep",
+   "def": "a. 深的，深长的；深奥的；强烈的ad. 深入的，迟"
+  }
+ ]
+}

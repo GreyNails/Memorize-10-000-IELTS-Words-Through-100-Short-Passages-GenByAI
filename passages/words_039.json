@@ -1,0 +1,381 @@
+{
+ "id": 39,
+ "words": [
+  {
+   "word": "frightful",
+   "def": "a.可怕的；讨厌的"
+  },
+  {
+   "word": "gratify",
+   "def": "v.使满足，使高兴"
+  },
+  {
+   "word": "victim",
+   "def": "n. 牺牲品，受害者"
+  },
+  {
+   "word": "variety",
+   "def": "n. 种种，多种多样；种类，品种"
+  },
+  {
+   "word": "lounge",
+   "def": "vi. 懒洋洋地倚、躺;闲逛;n. 懒洋洋的姿势;休息室"
+  },
+  {
+   "word": "defiance",
+   "def": "n. 挑战,挑衅;违抗;蔑视"
+  },
+  {
+   "word": "parakeet",
+   "def": "n.[鸟]长尾小鹦鹉。"
+  },
+  {
+   "word": "honey",
+   "def": "n. 蜜，蜂蜜"
+  },
+  {
+   "word": "coin",
+   "def": "n. 铸币,硬币 vt. 铸造,创造"
+  },
+  {
+   "word": "pearl",
+   "def": "n. 珍珠"
+  },
+  {
+   "word": "sieve",
+   "def": "n. 细筛,过滤网"
+  },
+  {
+   "word": "coordinate",
+   "def": "vt. 使协调;调整"
+  },
+  {
+   "word": "memorial",
+   "def": "a. 记忆的，纪念的n. 纪念物，纪念碑，纪念馆"
+  },
+  {
+   "word": "precinct",
+   "def": "n.区域, 围地, 范围, 界限, 选区。"
+  },
+  {
+   "word": "tent",
+   "def": "n. 帐篷"
+  },
+  {
+   "word": "distributor",
+   "def": "n.分销商"
+  },
+  {
+   "word": "business",
+   "def": "n. 商业，生意；事务，业务，职责"
+  },
+  {
+   "word": "relation",
+   "def": "n. 关系，联系；亲属，亲戚"
+  },
+  {
+   "word": "uprising",
+   "def": "n.起义, 升起。"
+  },
+  {
+   "word": "effect",
+   "def": "n. 结果；效果；影响；印象vt. 招致；实现；达到"
+  },
+  {
+   "word": "manly",
+   "def": "a.男子气概的，果断的"
+  },
+  {
+   "word": "chairwoman",
+   "def": "n.女主席，女董事长"
+  },
+  {
+   "word": "spell",
+   "def": "v. 拼写"
+  },
+  {
+   "word": "strange",
+   "def": "a. 奇怪的，奇异的；陌生的，生疏的；外地的"
+  },
+  {
+   "word": "baby-sit",
+   "def": "v.(替人)看护小孩"
+  },
+  {
+   "word": "amidst",
+   "def": "prep.在...当中。"
+  },
+  {
+   "word": "alpine",
+   "def": "adj.高山的, 阿尔卑斯山的。"
+  },
+  {
+   "word": "testify",
+   "def": "v. 作证，证明；(to)表明，说明"
+  },
+  {
+   "word": "salmon",
+   "def": "n.鲑，大马哈鱼"
+  },
+  {
+   "word": "diligent",
+   "def": "a. 勤奋的"
+  },
+  {
+   "word": "documentation",
+   "def": "n.提供文件"
+  },
+  {
+   "word": "shipyard",
+   "def": "n.船坞"
+  },
+  {
+   "word": "consistency",
+   "def": "n.一致(性)"
+  },
+  {
+   "word": "increasingly",
+   "def": "ad. 不断增加地，日益"
+  },
+  {
+   "word": "flagstone",
+   "def": "n.石板。"
+  },
+  {
+   "word": "previously",
+   "def": "ad.先前，预先"
+  },
+  {
+   "word": "bake",
+   "def": "v. 烤,烘,烧硬"
+  },
+  {
+   "word": "stare",
+   "def": "v. (at)盯，凝视"
+  },
+  {
+   "word": "attic",
+   "def": "n.阁楼"
+  },
+  {
+   "word": "drum",
+   "def": "n. 鼓；圆桶"
+  },
+  {
+   "word": "prerequisite",
+   "def": "n.先决条件。adj.首要必备的"
+  },
+  {
+   "word": "hike",
+   "def": "v./n. 徒步旅行;增加;抬起"
+  },
+  {
+   "word": "mildew",
+   "def": "n.霉, 霉菌, (植物的)霉病。vi.发霉, 生霉。vt.使发霉。"
+  },
+  {
+   "word": "indeed",
+   "def": "ad. 确实，实在；真正地，多么"
+  },
+  {
+   "word": "gymnasium",
+   "def": "n. 体育馆"
+  },
+  {
+   "word": "cordial",
+   "def": "a. 热诚的,衷心的"
+  },
+  {
+   "word": "necessitate",
+   "def": "vt. 使成为必需"
+  },
+  {
+   "word": "invert",
+   "def": "adj.转化的。vt.使颠倒, 使转化。n.颠倒的事物"
+  },
+  {
+   "word": "prevailing",
+   "def": "adj.占上风的"
+  },
+  {
+   "word": "decency",
+   "def": "n.体面"
+  },
+  {
+   "word": "mince",
+   "def": "v.切碎，绞碎"
+  },
+  {
+   "word": "reckon",
+   "def": "vt./vi. 计算"
+  },
+  {
+   "word": "luggage",
+   "def": "n. 行李，皮箱"
+  },
+  {
+   "word": "kilowatt",
+   "def": "n.千瓦(特)"
+  },
+  {
+   "word": "feasibility",
+   "def": "n.可行性"
+  },
+  {
+   "word": "banquet",
+   "def": "n./vt. 宴会,设宴"
+  },
+  {
+   "word": "dental",
+   "def": "adj.牙齿的。"
+  },
+  {
+   "word": "economics",
+   "def": "n. 经济学，经济情况"
+  },
+  {
+   "word": "ecosystem",
+   "def": "n.生态系统。"
+  },
+  {
+   "word": "lexicography",
+   "def": "n.词典编纂。"
+  },
+  {
+   "word": "grow",
+   "def": "v. 生长，成长；渐渐变成；栽培，种植；发展"
+  },
+  {
+   "word": "best-selling",
+   "def": "adj.畅销的"
+  },
+  {
+   "word": "pessimist",
+   "def": "n.悲观(主义)"
+  },
+  {
+   "word": "enclosure",
+   "def": "n. 围住，圈起，封入，附件"
+  },
+  {
+   "word": "learning",
+   "def": "n. 知识，学问；学习"
+  },
+  {
+   "word": "permissible",
+   "def": "adj.可允许的。"
+  },
+  {
+   "word": "arrive",
+   "def": "vi. 到达；(时间、事件)到来，发生；达到"
+  },
+  {
+   "word": "confront",
+   "def": "vt. 使面对,面临"
+  },
+  {
+   "word": "accuracy",
+   "def": "n. 准确(性)；精确；准确度"
+  },
+  {
+   "word": "class",
+   "def": "n. 班级，年级；种类，等级，阶级；(一节)课"
+  },
+  {
+   "word": "headache",
+   "def": "n. 头痛"
+  },
+  {
+   "word": "flat",
+   "def": "a. 平坦的，扁平的，平淡的n. 一套房间；平面"
+  },
+  {
+   "word": "witty",
+   "def": "a.机智的；风趣的"
+  },
+  {
+   "word": "devise",
+   "def": "vt. 设计,想出"
+  },
+  {
+   "word": "coeducation",
+   "def": "n.男女同校。"
+  },
+  {
+   "word": "shadow",
+   "def": "n. 阴影，影子，荫；暗处，阴暗"
+  },
+  {
+   "word": "bulletin",
+   "def": "n. 公报"
+  },
+  {
+   "word": "painting",
+   "def": "n. 上油漆，着色；绘画；油画；画法"
+  },
+  {
+   "word": "motionless",
+   "def": "adj.不动的"
+  },
+  {
+   "word": "remains",
+   "def": "n. (pl.)剩余，残余，遗迹"
+  },
+  {
+   "word": "meteoric",
+   "def": "adj.流星的, 疾速的, 大气的, 辉煌而短暂的。"
+  },
+  {
+   "word": "walk",
+   "def": "v. 走，步行，散步；走遍n. 走，步行，散步"
+  },
+  {
+   "word": "fortuity",
+   "def": "n.偶然事件"
+  },
+  {
+   "word": "sclerosis",
+   "def": "n.[医]硬化症, 硬化, 硬结。"
+  },
+  {
+   "word": "sweetness",
+   "def": "n.甜蜜；新鲜；温和"
+  },
+  {
+   "word": "refreshment",
+   "def": "n. (pl.)点心，饮料；精力恢复，爽快"
+  },
+  {
+   "word": "plaster",
+   "def": "n./vt. 膏药;(涂)灰泥"
+  },
+  {
+   "word": "alarm",
+   "def": "n. 警报;惊慌;vt. 使忧虑"
+  },
+  {
+   "word": "backdate",
+   "def": "v.回溯"
+  },
+  {
+   "word": "resident",
+   "def": "n. 居民，常住者a. 居住的"
+  },
+  {
+   "word": "ape",
+   "def": "n.猿猴"
+  },
+  {
+   "word": "substitution",
+   "def": "n.代替"
+  },
+  {
+   "word": "navigable",
+   "def": "a. (江河、海洋)可航行的,可通航的;(船)适航的"
+  },
+  {
+   "word": "differentiate",
+   "def": "v.区别, 区分。"
+  }
+ ]
+}

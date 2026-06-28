@@ -1,0 +1,381 @@
+{
+ "id": 33,
+ "words": [
+  {
+   "word": "valuable",
+   "def": "a. 贵重的，有价值的n. (pl.)贵重物品，财宝"
+  },
+  {
+   "word": "poetry",
+   "def": "n. 诗歌，诗集"
+  },
+  {
+   "word": "imagine",
+   "def": "v. 想象，设想，料想"
+  },
+  {
+   "word": "meet",
+   "def": "n. 会，集会v. 遇见；会谈；迎接；满足；符合"
+  },
+  {
+   "word": "conscientiously",
+   "def": "adv.认真地"
+  },
+  {
+   "word": "sausage",
+   "def": "n. 香肠，腊肠"
+  },
+  {
+   "word": "realm",
+   "def": "n. 界,领域,范围;王国,国度"
+  },
+  {
+   "word": "marked",
+   "def": "adj.有标记的，标明的"
+  },
+  {
+   "word": "folk",
+   "def": "n. 人们；民族；亲属a. 民间的"
+  },
+  {
+   "word": "giant",
+   "def": "n. 巨人a. 巨大的"
+  },
+  {
+   "word": "synthesis",
+   "def": "n. 综合,合成法,合成物"
+  },
+  {
+   "word": "warrior",
+   "def": "n.勇士，战士"
+  },
+  {
+   "word": "obese",
+   "def": "adj.肥胖的, 肥大的。"
+  },
+  {
+   "word": "strict",
+   "def": "a. (with)严格的，严厉的；严谨的，精确的"
+  },
+  {
+   "word": "expenditure",
+   "def": "n. 花费；(时间，金钱等的)支出，消耗"
+  },
+  {
+   "word": "ear",
+   "def": "n. 耳，耳朵；听力，听觉；穗"
+  },
+  {
+   "word": "pronoun",
+   "def": "n. 代词"
+  },
+  {
+   "word": "antique",
+   "def": "a./n. 古代的,古玩,古物"
+  },
+  {
+   "word": "teens",
+   "def": "n.十多岁,青少年们"
+  },
+  {
+   "word": "equality",
+   "def": "n. 同等；平等；相等；等式；等同性"
+  },
+  {
+   "word": "tuition",
+   "def": "n. 教学,学费"
+  },
+  {
+   "word": "currency",
+   "def": "n.通货，货币"
+  },
+  {
+   "word": "infection",
+   "def": "n.感染"
+  },
+  {
+   "word": "penury",
+   "def": "n.贫困, 贫穷。"
+  },
+  {
+   "word": "extract",
+   "def": "vt. 拔出,榨取;摘录;n. 抽出物,选录"
+  },
+  {
+   "word": "radioactivity",
+   "def": "n.放射性，放射(现象)"
+  },
+  {
+   "word": "amend",
+   "def": "v. 改进,修正"
+  },
+  {
+   "word": "specialist",
+   "def": "n. 专家"
+  },
+  {
+   "word": "blur",
+   "def": "v.涂污, 污损(名誉等), 把(界线,视线等)弄得模糊不清, 弄污。n.污点。"
+  },
+  {
+   "word": "toward",
+   "def": "prep.向，对于，将近,接近 a.即将到来的,进行中的"
+  },
+  {
+   "word": "mend",
+   "def": "v. 修理，缝补；改正，改进"
+  },
+  {
+   "word": "dignity",
+   "def": "n. 高贵,尊贵,高位"
+  },
+  {
+   "word": "manifestation",
+   "def": "n.表明"
+  },
+  {
+   "word": "explosive",
+   "def": "a. 爆炸(性)的，爆发(性)的n. 爆炸物，炸药"
+  },
+  {
+   "word": "wheat",
+   "def": "n. 小麦"
+  },
+  {
+   "word": "bowel",
+   "def": "n.肠。adj.内部, 同情心。"
+  },
+  {
+   "word": "fowl",
+   "def": "n.家禽；禽肉"
+  },
+  {
+   "word": "disburse",
+   "def": "v.支付"
+  },
+  {
+   "word": "financial",
+   "def": "a. 财政的，金融的"
+  },
+  {
+   "word": "madman",
+   "def": "n.疯子"
+  },
+  {
+   "word": "real",
+   "def": "a. 真的，真实的；实际的，现实的"
+  },
+  {
+   "word": "radioactive",
+   "def": "a. 放射性，放射引起的"
+  },
+  {
+   "word": "preside",
+   "def": "v. (at，over)主持"
+  },
+  {
+   "word": "upholster",
+   "def": "vt.装饰, 装潢。"
+  },
+  {
+   "word": "indefinite",
+   "def": "a.不明确的；不定的"
+  },
+  {
+   "word": "anticipate",
+   "def": "vt. 预料；期望；预先考虑；抢先；提前使用"
+  },
+  {
+   "word": "propagation",
+   "def": "n.繁殖；传播；蔓延"
+  },
+  {
+   "word": "rubbish",
+   "def": "n. 垃圾，废物；废话"
+  },
+  {
+   "word": "dike",
+   "def": "n.堤"
+  },
+  {
+   "word": "jolt",
+   "def": "v.摇晃。n.摇晃。"
+  },
+  {
+   "word": "decide",
+   "def": "v. 决定，下决心；解决，裁决"
+  },
+  {
+   "word": "universe",
+   "def": "n. 宇宙，万物"
+  },
+  {
+   "word": "forsake",
+   "def": "vt.遗弃，抛弃，摒绝"
+  },
+  {
+   "word": "perception",
+   "def": "n.感觉；概念；理解力"
+  },
+  {
+   "word": "achieve",
+   "def": "vt. 完成,达到"
+  },
+  {
+   "word": "immediately",
+   "def": "ad.立即；直接地"
+  },
+  {
+   "word": "recover",
+   "def": "v. 重新找到,复原,痊愈"
+  },
+  {
+   "word": "hip",
+   "def": "n. 臀部，髋；屋脊"
+  },
+  {
+   "word": "nightgown",
+   "def": "n.睡衣"
+  },
+  {
+   "word": "abridge",
+   "def": "vt. (书等)删节"
+  },
+  {
+   "word": "starvation",
+   "def": "n.饥饿"
+  },
+  {
+   "word": "gold",
+   "def": "n. 金，黄金；金币；金黄色a. 金的，金制的"
+  },
+  {
+   "word": "pertain",
+   "def": "vi. 附属;有关"
+  },
+  {
+   "word": "onto",
+   "def": "prep. 在…上面；到…上面"
+  },
+  {
+   "word": "disperse",
+   "def": "v. 使散开,使疏开,使分散"
+  },
+  {
+   "word": "given",
+   "def": "adj.赠予的, 沉溺的, 特定的, 假设的。vbl.give的过去分词"
+  },
+  {
+   "word": "admiration",
+   "def": "n.钦佩；赞美，羡慕"
+  },
+  {
+   "word": "height",
+   "def": "n. 高，高度；(常pl. )高地，高处"
+  },
+  {
+   "word": "hurry",
+   "def": "vi. 匆忙vt. 催促；急运(派)n. 急(匆)忙"
+  },
+  {
+   "word": "galaxy",
+   "def": "n.星系, 银河, 一群显赫的人, 一系列光彩夺目的东西。"
+  },
+  {
+   "word": "vigorous",
+   "def": "a. 强有力的,精力充沛的"
+  },
+  {
+   "word": "legislate",
+   "def": "vi.制定法律。vt.通过立法"
+  },
+  {
+   "word": "song",
+   "def": "n. 歌唱，(虫、鸟等)鸣声；歌曲，歌词"
+  },
+  {
+   "word": "winter",
+   "def": "n. 冬季，冬天"
+  },
+  {
+   "word": "miss",
+   "def": "n. 小姐v. 思念，未击中，错过，漏掉，逃脱"
+  },
+  {
+   "word": "extraction",
+   "def": "n.抽出；提取法；摘要"
+  },
+  {
+   "word": "hull",
+   "def": "n.外壳，豆荚；薄膜"
+  },
+  {
+   "word": "renovation",
+   "def": "n.革新。"
+  },
+  {
+   "word": "smack",
+   "def": "n.滋味v.劈啪地响"
+  },
+  {
+   "word": "juicy",
+   "def": "adj.多汁的"
+  },
+  {
+   "word": "marketing",
+   "def": "n.市场学，营销学"
+  },
+  {
+   "word": "silent",
+   "def": "a. 寂静，沉默的"
+  },
+  {
+   "word": "cheek",
+   "def": "n. 面颊，脸"
+  },
+  {
+   "word": "tonnage",
+   "def": "n.吨位，吨数"
+  },
+  {
+   "word": "sixteen",
+   "def": "num.十六，十六个"
+  },
+  {
+   "word": "dubious",
+   "def": "a. 半信半疑的"
+  },
+  {
+   "word": "several",
+   "def": "a. 几个，若干，数个；各个的，各自的"
+  },
+  {
+   "word": "combustible",
+   "def": "adj.易燃的。"
+  },
+  {
+   "word": "flask",
+   "def": "n. 细颈瓶,扁形酒瓶"
+  },
+  {
+   "word": "despatch",
+   "def": "v.n.派遣。"
+  },
+  {
+   "word": "scarcely",
+   "def": "ad. 仅仅,几乎不"
+  },
+  {
+   "word": "clockwise",
+   "def": "ad. 顺时针方向地"
+  },
+  {
+   "word": "loud",
+   "def": "a. 大声的，响亮的；吵闹的，喧嚣的"
+  },
+  {
+   "word": "postponement",
+   "def": "n.推迟"
+  }
+ ]
+}

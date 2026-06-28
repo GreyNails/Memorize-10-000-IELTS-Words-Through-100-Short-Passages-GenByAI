@@ -1,0 +1,381 @@
+{
+ "id": 81,
+ "words": [
+  {
+   "word": "smooth",
+   "def": "a. 光滑的,平稳的 v. 使光滑,使平稳"
+  },
+  {
+   "word": "earl",
+   "def": "n.伯爵"
+  },
+  {
+   "word": "discrete",
+   "def": "adj.不连续的, 离散的。"
+  },
+  {
+   "word": "interdependent",
+   "def": "adj.相互依赖的, 互助的。"
+  },
+  {
+   "word": "coffee",
+   "def": "n. 咖啡(色)"
+  },
+  {
+   "word": "qualitative",
+   "def": "a. 质的,定性的"
+  },
+  {
+   "word": "lost",
+   "def": "adj.失去的"
+  },
+  {
+   "word": "stubborn",
+   "def": "a. 顽固的;难对付的"
+  },
+  {
+   "word": "award",
+   "def": "vt. 授予，给予；判定n. 奖，奖金；仲裁"
+  },
+  {
+   "word": "freeze",
+   "def": "v. 使结冰，使凝固"
+  },
+  {
+   "word": "pamper",
+   "def": "v.纵容。"
+  },
+  {
+   "word": "bacterium",
+   "def": "n. (pl. bacteria)细菌"
+  },
+  {
+   "word": "sneak",
+   "def": "vi. 偷偷地走，溜vt. 偷偷地做(或拿、吃)"
+  },
+  {
+   "word": "untie",
+   "def": "vt.解开，松开；解放"
+  },
+  {
+   "word": "incompatibility",
+   "def": "n.不兼容"
+  },
+  {
+   "word": "primary",
+   "def": "a. 最初的，初级的；首要的，主要的，基本的"
+  },
+  {
+   "word": "exercise",
+   "def": "n. 练习，习题；训练，锻练v. 训练，锻练；行使"
+  },
+  {
+   "word": "humanity",
+   "def": "n. 人类,仁慈,仁爱"
+  },
+  {
+   "word": "oak",
+   "def": "n. 橡树，橡木a. 橡木的"
+  },
+  {
+   "word": "hub",
+   "def": "n.毂, 木片, 中心。n.网络集线器, 网络中心"
+  },
+  {
+   "word": "urbane",
+   "def": "adj.彬彬有礼的, 文雅的。"
+  },
+  {
+   "word": "empty",
+   "def": "a. 空的；空洞的v. 倒空，使成为空的"
+  },
+  {
+   "word": "fascism",
+   "def": "n.法西斯"
+  },
+  {
+   "word": "sanity",
+   "def": "n.心智健全。"
+  },
+  {
+   "word": "startle",
+   "def": "v. 惊吓，使吃惊"
+  },
+  {
+   "word": "penetrate",
+   "def": "v. 穿过;透过;看穿,洞察;秘密潜入"
+  },
+  {
+   "word": "fine",
+   "def": "a. 晴朗的，美好的，细致的v./n. 罚金，罚款"
+  },
+  {
+   "word": "sabotage",
+   "def": "n.(不满的职工或敌特等的)阴谋破坏, 怠工, 破坏。vi.从事破坏活动。vt.对...采取破坏行动, 妨害, 破坏"
+  },
+  {
+   "word": "gaunt",
+   "def": "adj.憔悴的。"
+  },
+  {
+   "word": "exhaust",
+   "def": "n. 排气;v. (使)疲倦;用尽;弄空;详述"
+  },
+  {
+   "word": "vehicle",
+   "def": "n. 车辆交通工具,思想媒介"
+  },
+  {
+   "word": "brittle",
+   "def": "a. 易碎的,脆弱的"
+  },
+  {
+   "word": "descent",
+   "def": "n. 下降，降下；斜坡；血统，家世"
+  },
+  {
+   "word": "elementary",
+   "def": "a. 基本的,初级的"
+  },
+  {
+   "word": "monopoly",
+   "def": "n. 垄断,专卖权"
+  },
+  {
+   "word": "reshuffle",
+   "def": "n.改组。v.改组"
+  },
+  {
+   "word": "sit",
+   "def": "vi. 坐，坐下；位于；栖息；孵卵vt. 使就坐"
+  },
+  {
+   "word": "warn",
+   "def": "vt. 警告vi. 发出警告"
+  },
+  {
+   "word": "strenuous",
+   "def": "adj.奋发的, 使劲的, 紧张的, 热烈的, 艰辛发奋的。"
+  },
+  {
+   "word": "estuary",
+   "def": "n.河口, 江口"
+  },
+  {
+   "word": "dim",
+   "def": "a. 暗的,看不清楚的,迟钝的;v. 变模糊,变暗淡"
+  },
+  {
+   "word": "commuter",
+   "def": "n.通勤者, 经常往返者。"
+  },
+  {
+   "word": "miserable",
+   "def": "a. 悲惨的;使人难受的"
+  },
+  {
+   "word": "pest",
+   "def": "n. 害虫"
+  },
+  {
+   "word": "altitude",
+   "def": "n. (海拔)高度"
+  },
+  {
+   "word": "dearth",
+   "def": "n.缺乏。"
+  },
+  {
+   "word": "veterinary",
+   "def": "n.兽医。adj.医牲畜的, 兽医的。"
+  },
+  {
+   "word": "integrate",
+   "def": "vt. 使一体化,取消种族隔离"
+  },
+  {
+   "word": "pseudonym",
+   "def": "n.假名, 笔名"
+  },
+  {
+   "word": "yolk",
+   "def": "n.蛋黄，卵黄"
+  },
+  {
+   "word": "in",
+   "def": "prep. 在…里(内，上)；用…(表示)ad. 进，入"
+  },
+  {
+   "word": "down",
+   "def": "ad. 下；由大到小prep. 沿着…而下a. 向下的"
+  },
+  {
+   "word": "drug",
+   "def": "n. 药物；麻醉品；毒品；滞销货v. 下麻药；吸毒"
+  },
+  {
+   "word": "analytic",
+   "def": "adj.分析的, 解析的。"
+  },
+  {
+   "word": "route",
+   "def": "n. 路线，路程"
+  },
+  {
+   "word": "concentrated",
+   "def": "adj.全神贯注的"
+  },
+  {
+   "word": "preoccupy",
+   "def": "v.使迷住，专心于"
+  },
+  {
+   "word": "animal",
+   "def": "n. 动物，野兽，牲畜a. 动物的，野兽的"
+  },
+  {
+   "word": "concrete",
+   "def": "a. 有形的;具体的;n. 混凝土;vt. 浇混凝土于"
+  },
+  {
+   "word": "discreet",
+   "def": "a. 谨慎的,思虑两全的"
+  },
+  {
+   "word": "always",
+   "def": "ad. 总是，无例外地；永远，始终"
+  },
+  {
+   "word": "grin",
+   "def": "v./n. 露齿而笑,咧嘴一笑"
+  },
+  {
+   "word": "situation",
+   "def": "n. 形势，处境，状况；位置，场所；职位，职务"
+  },
+  {
+   "word": "outrage",
+   "def": "n. 暴行，侮辱，愤怒v. 凌辱，引起…义愤，强奸"
+  },
+  {
+   "word": "ASEAN",
+   "def": "n.(缩)东盟"
+  },
+  {
+   "word": "west",
+   "def": "n./a. 西，西方(的)，西部(的)ad. 向西"
+  },
+  {
+   "word": "prosperity",
+   "def": "n. 繁荣，兴旺"
+  },
+  {
+   "word": "collaborate",
+   "def": "vi. 协作，合作；(与敌人)勾结"
+  },
+  {
+   "word": "memo",
+   "def": "n. 备忘录"
+  },
+  {
+   "word": "time",
+   "def": "n. 时间，时刻；次，回；时代，时期；倍，乘"
+  },
+  {
+   "word": "observe",
+   "def": "v. 观察，观测，注意到，监视，遵守，评述，说"
+  },
+  {
+   "word": "hairdress",
+   "def": "n.美发"
+  },
+  {
+   "word": "northeast",
+   "def": "n. 东北a. 东北方的ad. 向东北，在东北"
+  },
+  {
+   "word": "whisper",
+   "def": "v. 耳语；私下说，偷偷告诉n. 耳语；传闻"
+  },
+  {
+   "word": "raincoat",
+   "def": "n.雨衣"
+  },
+  {
+   "word": "climax",
+   "def": "n. 顶点,小说等的高潮 v. 达到高潮"
+  },
+  {
+   "word": "mimic",
+   "def": "adj.模仿的, 假装的, [生]拟态的。n.效颦者, 模仿者, 小丑, 仿制品。vt.模仿, 摹拟"
+  },
+  {
+   "word": "prove",
+   "def": "v. 证明，证实；检验；考验；鉴定；结果是，表明是"
+  },
+  {
+   "word": "employer",
+   "def": "n. 雇主"
+  },
+  {
+   "word": "interface",
+   "def": "n. 接合部位，分界面v. (使)互相联系"
+  },
+  {
+   "word": "equity",
+   "def": "n.公平, 公正, 公平的事物, 资产净值, [律]平衡法。"
+  },
+  {
+   "word": "annihilate",
+   "def": "vt.消灭, 歼灭。"
+  },
+  {
+   "word": "bus",
+   "def": "n. 公共汽车，总线，信息通路"
+  },
+  {
+   "word": "elevator",
+   "def": "n. 电梯，升降机"
+  },
+  {
+   "word": "photograph",
+   "def": "n. 照片"
+  },
+  {
+   "word": "superficial",
+   "def": "a.表面的,表皮的;肤浅的, 一知半解的"
+  },
+  {
+   "word": "league",
+   "def": "n. 同盟，联盟；联合会，社团"
+  },
+  {
+   "word": "ply",
+   "def": "v.使用,固定往来,持续大量供应 n.(夹板的)层片"
+  },
+  {
+   "word": "bishop",
+   "def": "n.(基督教的)主教"
+  },
+  {
+   "word": "mechanic",
+   "def": "n. 技工，机修工"
+  },
+  {
+   "word": "moon",
+   "def": "n. (加the)月球，月亮；卫星"
+  },
+  {
+   "word": "partially",
+   "def": "ad.部分地"
+  },
+  {
+   "word": "cubic",
+   "def": "a.立方形的；立方的"
+  },
+  {
+   "word": "enlarge",
+   "def": "vt. 扩大，放大，增大"
+  }
+ ]
+}

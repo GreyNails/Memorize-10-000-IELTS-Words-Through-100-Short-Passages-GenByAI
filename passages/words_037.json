@@ -1,0 +1,381 @@
+{
+ "id": 37,
+ "words": [
+  {
+   "word": "find",
+   "def": "v. (found，found)找到；发现；发觉；感到"
+  },
+  {
+   "word": "irregularity",
+   "def": "n.不规则；不整齐"
+  },
+  {
+   "word": "certificate",
+   "def": "n. 证(明)书，执照"
+  },
+  {
+   "word": "considerably",
+   "def": "adv.相当"
+  },
+  {
+   "word": "handy",
+   "def": "a. 手边的，近便的；方便的"
+  },
+  {
+   "word": "visualize",
+   "def": "vt.形象, 形象化, 想象。vi.显现"
+  },
+  {
+   "word": "cycle",
+   "def": "n. 自行车；周期，循环v. 骑自行车；循环"
+  },
+  {
+   "word": "initially",
+   "def": "ad.最初，开始"
+  },
+  {
+   "word": "incipient",
+   "def": "adj.初始的。"
+  },
+  {
+   "word": "unlock",
+   "def": "vt.开…的锁；开启"
+  },
+  {
+   "word": "bow",
+   "def": "v./n. 鞠躬，点头n. 弓(形)；蝴蝶结"
+  },
+  {
+   "word": "legitimate",
+   "def": "a. 合法的,合理的"
+  },
+  {
+   "word": "exceed",
+   "def": "vt. 比…大,超出"
+  },
+  {
+   "word": "ransom",
+   "def": "n.敲诈, 勒索。vt.赎回, 勒索赎金。"
+  },
+  {
+   "word": "etiquette",
+   "def": "n.礼节。"
+  },
+  {
+   "word": "garrison",
+   "def": "n.要塞，警备队"
+  },
+  {
+   "word": "handbook",
+   "def": "n. 手册,便览"
+  },
+  {
+   "word": "candy",
+   "def": "n. 糖果"
+  },
+  {
+   "word": "appearance",
+   "def": "n. 出现，露面；外表；(在会议等)作短暂露面"
+  },
+  {
+   "word": "snowstorm",
+   "def": "n. 暴风雪"
+  },
+  {
+   "word": "upcreep",
+   "def": "n.(价格)上涨"
+  },
+  {
+   "word": "freely",
+   "def": "ad.自由地；直率地"
+  },
+  {
+   "word": "against",
+   "def": "prep. 对着，逆；反对；违反；紧靠着；对比"
+  },
+  {
+   "word": "autobiography",
+   "def": "n.自传"
+  },
+  {
+   "word": "marrow",
+   "def": "n.髓, 骨髓, 精华, 活力, <苏格兰>配偶。"
+  },
+  {
+   "word": "lane",
+   "def": "n. 小径,巷,行车道"
+  },
+  {
+   "word": "bedroom",
+   "def": "n.卧室"
+  },
+  {
+   "word": "cut",
+   "def": "n./v. 切，割，削；削减，删节n. 切口，伤口"
+  },
+  {
+   "word": "drag",
+   "def": "v. 拖，拖曳"
+  },
+  {
+   "word": "envision",
+   "def": "vt.想象, 预想。"
+  },
+  {
+   "word": "by-product",
+   "def": "n.副产品"
+  },
+  {
+   "word": "cosmetic",
+   "def": "n.化妆品。adj.化妆用的。"
+  },
+  {
+   "word": "soup",
+   "def": "n. 汤"
+  },
+  {
+   "word": "cotton",
+   "def": "n. 棉花；棉线，棉纱；棉制品"
+  },
+  {
+   "word": "versatile",
+   "def": "a. 多才多艺的;多功能的"
+  },
+  {
+   "word": "vegetarian",
+   "def": "n.素食者, 食草动物。adj.素食的。"
+  },
+  {
+   "word": "card",
+   "def": "n. 卡片，名片；纸牌；纸片"
+  },
+  {
+   "word": "starting",
+   "def": "n.出发，开始"
+  },
+  {
+   "word": "species",
+   "def": "n. 生物的种;种类"
+  },
+  {
+   "word": "alloy",
+   "def": "n. 合金"
+  },
+  {
+   "word": "bee",
+   "def": "n. 蜂，蜜蜂；忙碌的人"
+  },
+  {
+   "word": "congestion",
+   "def": "n. 拥挤,混杂"
+  },
+  {
+   "word": "butcher",
+   "def": "n. 屠夫,残杀者;vt. 屠宰,屠杀"
+  },
+  {
+   "word": "myriad",
+   "def": "n. 极大数量; a. 无数的"
+  },
+  {
+   "word": "delta",
+   "def": "n.三角州, 德耳塔(希腊字母的第四个字)。"
+  },
+  {
+   "word": "expensive",
+   "def": "a. 花费的，昂贵的"
+  },
+  {
+   "word": "economical",
+   "def": "a. 节约的，经济的"
+  },
+  {
+   "word": "indoor",
+   "def": "a. 室内的，户内的"
+  },
+  {
+   "word": "wait",
+   "def": "v. (for)等待；(on)侍候n. 等候，等待时间"
+  },
+  {
+   "word": "remuneration",
+   "def": "n.酬劳,赔偿,酬金"
+  },
+  {
+   "word": "entangle",
+   "def": "vt.使缠上, 纠缠, 卷入, 连累, 使混乱。"
+  },
+  {
+   "word": "flag",
+   "def": "n. 旗"
+  },
+  {
+   "word": "jacket",
+   "def": "n. 短上衣，茄克衫"
+  },
+  {
+   "word": "gracious",
+   "def": "a. 亲切的,和善的;优美的,奢华的"
+  },
+  {
+   "word": "fair",
+   "def": "a. 公平的，合理的；相当的n. 集市，交易会"
+  },
+  {
+   "word": "deduce",
+   "def": "vt. 演绎,推论"
+  },
+  {
+   "word": "lighthouse",
+   "def": "n.灯塔"
+  },
+  {
+   "word": "intensify",
+   "def": "vt.加强。vi.强化"
+  },
+  {
+   "word": "turtle",
+   "def": "n.海龟，玳瑁；甲鱼肉"
+  },
+  {
+   "word": "genetic",
+   "def": "adj.遗传的, 起源的"
+  },
+  {
+   "word": "hire",
+   "def": "n./v. 雇用，租借"
+  },
+  {
+   "word": "boiling",
+   "def": "adj.沸腾的"
+  },
+  {
+   "word": "commodity",
+   "def": "n. 日用品,商品"
+  },
+  {
+   "word": "outland",
+   "def": "n.偏僻地区"
+  },
+  {
+   "word": "reef",
+   "def": "n.礁，礁石，暗礁"
+  },
+  {
+   "word": "eastern",
+   "def": "a. 东方的，东部的"
+  },
+  {
+   "word": "tea",
+   "def": "n. 茶(叶)；午后茶点"
+  },
+  {
+   "word": "knee",
+   "def": "n. 膝，膝盖"
+  },
+  {
+   "word": "sleeve",
+   "def": "n. 袖子"
+  },
+  {
+   "word": "broaden",
+   "def": "vt.&vi.放宽，变阔"
+  },
+  {
+   "word": "triumph",
+   "def": "n. 凯旋,成功"
+  },
+  {
+   "word": "reactor",
+   "def": "n.反应器；反应堆"
+  },
+  {
+   "word": "survey",
+   "def": "vt./n. 环视,眺望,测量,勘定,检查,调查,概述"
+  },
+  {
+   "word": "lavish",
+   "def": "adj.非常大方的, 过分丰富的, 浪费的。vt.浪费, 滥用, 慷慨给予。"
+  },
+  {
+   "word": "beer",
+   "def": "n. 啤酒"
+  },
+  {
+   "word": "shark",
+   "def": "n. 鲨鱼"
+  },
+  {
+   "word": "designation",
+   "def": "n.指定，委派"
+  },
+  {
+   "word": "hum",
+   "def": "v./n. 嗡嗡叫,嘈杂声"
+  },
+  {
+   "word": "terrain",
+   "def": "n.地形。"
+  },
+  {
+   "word": "boundary",
+   "def": "n. 边界,分界线"
+  },
+  {
+   "word": "subject",
+   "def": "n. 主题；学科a. 隶属的；易遭…的(to)v. 使隶属"
+  },
+  {
+   "word": "interior",
+   "def": "a. 内部的，里面的n. 内部，内地"
+  },
+  {
+   "word": "finalize",
+   "def": "v.落实，定下来"
+  },
+  {
+   "word": "contemplate",
+   "def": "vt. 仔细考虑;注视;打算;预计"
+  },
+  {
+   "word": "serviceable",
+   "def": "adj.有用的，耐用的"
+  },
+  {
+   "word": "absorb",
+   "def": "vt. 吸收;吸引…的注意,使全神贯注"
+  },
+  {
+   "word": "rack",
+   "def": "n. 行李架"
+  },
+  {
+   "word": "seam",
+   "def": "n./v. 线缝,接缝;煤层"
+  },
+  {
+   "word": "extort",
+   "def": "v.敲诈, 逼取, 强取, 勒索。"
+  },
+  {
+   "word": "customs",
+   "def": "n.海关"
+  },
+  {
+   "word": "landlady",
+   "def": "n. 女房东，女地主"
+  },
+  {
+   "word": "greenhouse",
+   "def": "n. 温室"
+  },
+  {
+   "word": "territory",
+   "def": "n. 领土；版图；领域，范围"
+  },
+  {
+   "word": "independence",
+   "def": "n. 独立，自主"
+  }
+ ]
+}

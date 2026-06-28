@@ -1,0 +1,381 @@
+{
+ "id": 3,
+ "words": [
+  {
+   "word": "team",
+   "def": "n. 小队，小组v. 协同工作"
+  },
+  {
+   "word": "environmental",
+   "def": "a.环境的，环境产生的"
+  },
+  {
+   "word": "diameter",
+   "def": "n. 直径"
+  },
+  {
+   "word": "parliament",
+   "def": "n. 国会,议会"
+  },
+  {
+   "word": "regrettable",
+   "def": "adj.可遗憾的"
+  },
+  {
+   "word": "banker",
+   "def": "n.银行家"
+  },
+  {
+   "word": "monitor",
+   "def": "n. 班长,监视器 v. 监听,监视"
+  },
+  {
+   "word": "similar",
+   "def": "a. 类似的"
+  },
+  {
+   "word": "power",
+   "def": "n. 力，精力；功率，电力；(数学)幂；权力，势力"
+  },
+  {
+   "word": "establishment",
+   "def": "n. 建立，设立，建立的机构(或组织)"
+  },
+  {
+   "word": "cease",
+   "def": "v. 停止"
+  },
+  {
+   "word": "tremendous",
+   "def": "a. 极大的,巨大的;非常的,极好的"
+  },
+  {
+   "word": "badminton",
+   "def": "n. 羽毛球"
+  },
+  {
+   "word": "big",
+   "def": "a. 大的；重要的；宽宏大量的；大受欢迎的"
+  },
+  {
+   "word": "satisfaction",
+   "def": "n. 满足，满意；乐事，愉快"
+  },
+  {
+   "word": "prejudice",
+   "def": "n. 偏见,成见;(法律)损害,伤害"
+  },
+  {
+   "word": "turbine",
+   "def": "n. 汽轮机，涡轮机"
+  },
+  {
+   "word": "implicit",
+   "def": "adj.暗示的, 盲从的, 含蓄的, 固有的, 不怀疑的, 绝对的。"
+  },
+  {
+   "word": "ritual",
+   "def": "n.典礼, (宗教)仪式, 礼节。adj.典礼的, (宗教)仪式的。"
+  },
+  {
+   "word": "dislike",
+   "def": "n./v. 不喜欢，厌恶"
+  },
+  {
+   "word": "veto",
+   "def": "n. 否决,禁止,否决权 vt. 否决,禁止"
+  },
+  {
+   "word": "demonstrative",
+   "def": "adj.说明的, (语法)指示的。"
+  },
+  {
+   "word": "tablet",
+   "def": "n. 碑,书板;药片"
+  },
+  {
+   "word": "with",
+   "def": "prep. 跟…一起；用；具有；关于；因；随着"
+  },
+  {
+   "word": "cinema",
+   "def": "n. 电影院；电影，影片"
+  },
+  {
+   "word": "prediction",
+   "def": "n.预言，预告；预报"
+  },
+  {
+   "word": "Saturday",
+   "def": "n. 星期六"
+  },
+  {
+   "word": "structure",
+   "def": "n. 结构，构造；建筑物v. 构造，建造"
+  },
+  {
+   "word": "patch",
+   "def": "n. 补钉,眼罩;斑点;小块土地;vt. 补缀;修补,平息"
+  },
+  {
+   "word": "paternity",
+   "def": "n.父权, 父子关系。"
+  },
+  {
+   "word": "disappoint",
+   "def": "vt. 失望；(希望等)破灭，挫败(计划等)"
+  },
+  {
+   "word": "boil",
+   "def": "v. 沸腾,(感情)激动,煮沸"
+  },
+  {
+   "word": "advocate",
+   "def": "n. 倡导者;辩护人;vt. 提倡,支持"
+  },
+  {
+   "word": "bronze",
+   "def": "n./v. 青铜,青铜色,青铜器"
+  },
+  {
+   "word": "pedal",
+   "def": "n./v. 脚蹬,踏板;踩踏板"
+  },
+  {
+   "word": "quarrel",
+   "def": "v. 争吵，争论n. 争吵，争吵的原因"
+  },
+  {
+   "word": "uninterested",
+   "def": "adj.不感兴趣的"
+  },
+  {
+   "word": "equivalence",
+   "def": "n.相等，等值"
+  },
+  {
+   "word": "cynical",
+   "def": "adj.愤世嫉俗的。"
+  },
+  {
+   "word": "Indian",
+   "def": "a.印度的 n.印度人"
+  },
+  {
+   "word": "hateful",
+   "def": "a.可恨的，可恶的"
+  },
+  {
+   "word": "seductive",
+   "def": "adj.诱人的。"
+  },
+  {
+   "word": "fur",
+   "def": "n. 毛，毛皮"
+  },
+  {
+   "word": "decrepit",
+   "def": "adj.衰老的。"
+  },
+  {
+   "word": "individual",
+   "def": "a. 个人的,个体的,个别的;n. 个人,个体"
+  },
+  {
+   "word": "rarely",
+   "def": "ad. 难得,非常地"
+  },
+  {
+   "word": "encounter",
+   "def": "vt./n. 遭遇,意外地遇到"
+  },
+  {
+   "word": "dimension",
+   "def": "n. 尺寸,尺度,大小"
+  },
+  {
+   "word": "none",
+   "def": "pron. 没有任何人(东西)；都不ad. 一点也不"
+  },
+  {
+   "word": "morning",
+   "def": "n. 早晨，上午"
+  },
+  {
+   "word": "tasteful",
+   "def": "adj.有滋味的，好吃的,雅致的,高雅的"
+  },
+  {
+   "word": "pregnant",
+   "def": "a. 怀孕的,意义深远的"
+  },
+  {
+   "word": "vapor",
+   "def": "n. 汽，(水)蒸气"
+  },
+  {
+   "word": "outlet",
+   "def": "n. (河流等)出口,出路;[喻"
+  },
+  {
+   "word": "listen",
+   "def": "vi. 倾听(与介词to并用，方可置宾语)"
+  },
+  {
+   "word": "weary",
+   "def": "a. 疲倦的,困乏的;令人厌倦的"
+  },
+  {
+   "word": "fluctuation",
+   "def": "n.波动；脉动；踌躇"
+  },
+  {
+   "word": "forge",
+   "def": "n. 锻工车间,铁匠店;vt. 锻造,经锻炼而形成;伪造"
+  },
+  {
+   "word": "sermon",
+   "def": "n.布道，讲道，说教"
+  },
+  {
+   "word": "lace",
+   "def": "n. 鞋带,花边"
+  },
+  {
+   "word": "ostensible",
+   "def": "adj.可公开得, (指理由等)表面的, 虚假的。"
+  },
+  {
+   "word": "monument",
+   "def": "n. 纪念碑，纪念馆，遗迹，不朽的业绩"
+  },
+  {
+   "word": "parking",
+   "def": "n.停放车辆"
+  },
+  {
+   "word": "texture",
+   "def": "n.(织品的)质地, (木材, 岩石等的)纹理, (皮肤)肌理, (文艺作品)结构。"
+  },
+  {
+   "word": "employment",
+   "def": "n. 雇用,使用,职业"
+  },
+  {
+   "word": "procure",
+   "def": "vt. (努力)取得;获得"
+  },
+  {
+   "word": "firmness",
+   "def": "n.坚固，坚定，稳固"
+  },
+  {
+   "word": "reexport",
+   "def": "v.再出口"
+  },
+  {
+   "word": "villa",
+   "def": "n.别墅；城郊小屋"
+  },
+  {
+   "word": "greatly",
+   "def": "ad.大大地，非常"
+  },
+  {
+   "word": "fleece",
+   "def": "n.羊毛"
+  },
+  {
+   "word": "nail",
+   "def": "n. 指甲，爪；钉v. 将…钉牢，钉住"
+  },
+  {
+   "word": "forehead",
+   "def": "n. 前额；(任何事物的)前部"
+  },
+  {
+   "word": "bucket",
+   "def": "n. 水桶,一桶之量"
+  },
+  {
+   "word": "cosmopolitan",
+   "def": "a. 全世界的,世界主义的"
+  },
+  {
+   "word": "efficient",
+   "def": "a. 能胜任的,效率高的"
+  },
+  {
+   "word": "African",
+   "def": "a.非洲的 n.非洲人"
+  },
+  {
+   "word": "exasperate",
+   "def": "v. 激怒,使恼火"
+  },
+  {
+   "word": "nature",
+   "def": "n. 自然界，大自然；性质，本性，天性"
+  },
+  {
+   "word": "comment",
+   "def": "n./vi. 评论;批评;注释"
+  },
+  {
+   "word": "statistician",
+   "def": "n.统计员, 统计学家。"
+  },
+  {
+   "word": "idle",
+   "def": "a. 懒散的,无所事事的;空闲的;无用的,无效的;"
+  },
+  {
+   "word": "suppose",
+   "def": "v. 料想，猜想；假定conj. 假使…结果会怎样"
+  },
+  {
+   "word": "briefing",
+   "def": "n.简要情况"
+  },
+  {
+   "word": "screen",
+   "def": "n. 屏幕，屏风；帘v. 掩蔽，包庇；筛选"
+  },
+  {
+   "word": "satisfactory",
+   "def": "a. 令人满意的，圆满的，良好的，符合要求的"
+  },
+  {
+   "word": "dinner",
+   "def": "n. 正餐，宴会"
+  },
+  {
+   "word": "seller",
+   "def": "n.卖者；行销货"
+  },
+  {
+   "word": "fare",
+   "def": "n. 车费,船费"
+  },
+  {
+   "word": "assimilate",
+   "def": "v.吸收。"
+  },
+  {
+   "word": "alternate",
+   "def": "a. 交替的,轮流的;v. 轮流交替,交替"
+  },
+  {
+   "word": "tacit",
+   "def": "adj.默许的。"
+  },
+  {
+   "word": "division",
+   "def": "n. 分，分割；部门，科，处；除法；分界线"
+  },
+  {
+   "word": "beach",
+   "def": "n. 海滩，湖滩，河滩"
+  }
+ ]
+}

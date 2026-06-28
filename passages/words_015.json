@@ -1,0 +1,381 @@
+{
+ "id": 15,
+ "words": [
+  {
+   "word": "invalid",
+   "def": "a. 无效的,作废的;无根据的 n. 病人,病弱者;a. 病弱的,伤残的"
+  },
+  {
+   "word": "insulate",
+   "def": "vt. 使绝缘,使绝热,隔离"
+  },
+  {
+   "word": "close",
+   "def": "v./n. 关；结束a./ad. 近的(地)；紧密的(地)"
+  },
+  {
+   "word": "bookkeeper",
+   "def": "n.簿记员。"
+  },
+  {
+   "word": "funeral",
+   "def": "n. 丧葬,葬礼"
+  },
+  {
+   "word": "shop",
+   "def": "n. 商店，店铺；工厂，车间v. 买东西"
+  },
+  {
+   "word": "bandage",
+   "def": "n. 绷带 v. 上绷带"
+  },
+  {
+   "word": "flip",
+   "def": "vt.掷, 弹, 轻击, (用鞭等)抽打, 空翻。vi.用指轻弹, 抽打, 翻动书页(或纸张), 蹦跳。n.抛, 弹, 筋斗。adj.无礼的, 冒失的, 轻率的"
+  },
+  {
+   "word": "critical",
+   "def": "a. 危急的,批评的,苛求的,关键的"
+  },
+  {
+   "word": "reap",
+   "def": "vt./vi. 收割,收获;获得,得到"
+  },
+  {
+   "word": "researcher",
+   "def": "n.调查者；探究者"
+  },
+  {
+   "word": "limited",
+   "def": "a. 有限的，被限制的"
+  },
+  {
+   "word": "constituent",
+   "def": "a. 有选举权的;组成的;n. 选民;成分"
+  },
+  {
+   "word": "assassinator",
+   "def": "n.暗杀者"
+  },
+  {
+   "word": "flesh",
+   "def": "n. 肉,肉体,果肉"
+  },
+  {
+   "word": "dear",
+   "def": "a. 昂贵的；亲爱的；珍贵的int. 呵！哎呀！"
+  },
+  {
+   "word": "disloyalty",
+   "def": "adj.不忠"
+  },
+  {
+   "word": "away",
+   "def": "ad. 在远处；离开；渐渐远去；一直；去掉"
+  },
+  {
+   "word": "accusation",
+   "def": "n.控告"
+  },
+  {
+   "word": "view",
+   "def": "n. 视野；风景；观察；见解；照片vt. 观察；认为"
+  },
+  {
+   "word": "together",
+   "def": "ad. 共同，一起；合起来，集拢地"
+  },
+  {
+   "word": "other",
+   "def": "a. 另外的，其他的n./pron. 另一个人(或事)"
+  },
+  {
+   "word": "partisan",
+   "def": "n.游击队。"
+  },
+  {
+   "word": "slit",
+   "def": "n. 狭长的切口;裂缝;vt. 切开;撕裂"
+  },
+  {
+   "word": "instead",
+   "def": "ad. 代替，顶替"
+  },
+  {
+   "word": "attack",
+   "def": "n./vt. 攻击,非难,疾病发作"
+  },
+  {
+   "word": "courtyard",
+   "def": "n. 院子，庭院，天井"
+  },
+  {
+   "word": "tonight",
+   "def": "ad. 在今晚；在今夜n. 今晚，今夜"
+  },
+  {
+   "word": "conversant",
+   "def": "adj.精通的，有交情的"
+  },
+  {
+   "word": "infirmary",
+   "def": "n.医院, 医务室<美>养老院, 救济院。"
+  },
+  {
+   "word": "laser",
+   "def": "n. 激光"
+  },
+  {
+   "word": "waver",
+   "def": "vi.摇摆；犹豫不决"
+  },
+  {
+   "word": "murder",
+   "def": "v./n. 谋杀，凶杀"
+  },
+  {
+   "word": "Italy",
+   "def": "n.意大利"
+  },
+  {
+   "word": "watchful",
+   "def": "a.注意的，警惕的"
+  },
+  {
+   "word": "director",
+   "def": "n. 指导者，主任，导演"
+  },
+  {
+   "word": "delude",
+   "def": "vt.迷惑, 蛊惑。"
+  },
+  {
+   "word": "hammer",
+   "def": "n. 铁锤，槌，榔头v. 锤击，敲打"
+  },
+  {
+   "word": "archaeologist",
+   "def": "n.考古学家"
+  },
+  {
+   "word": "draw",
+   "def": "v. 拉；画；汲取；引出；(to)挨近n. 平局；拖曳"
+  },
+  {
+   "word": "essential",
+   "def": "n./a. 本质(的),必要(的)"
+  },
+  {
+   "word": "excited",
+   "def": "adj.兴奋的"
+  },
+  {
+   "word": "cooperate",
+   "def": "vt. 协作,合作"
+  },
+  {
+   "word": "edition",
+   "def": "n. 版本,版次"
+  },
+  {
+   "word": "hereafter",
+   "def": "adv.此后"
+  },
+  {
+   "word": "global",
+   "def": "a. 全世界的,全球的;综合的"
+  },
+  {
+   "word": "posthumous",
+   "def": "adj.死后的, 身后的, 作者死后出版的, 遗腹的。"
+  },
+  {
+   "word": "resent",
+   "def": "v. 对…表示忿恨，怨恨"
+  },
+  {
+   "word": "extol",
+   "def": "v.赞美。"
+  },
+  {
+   "word": "choral",
+   "def": "adj.合唱队的。"
+  },
+  {
+   "word": "revise",
+   "def": "v. 修订;改正"
+  },
+  {
+   "word": "hazard",
+   "def": "n. 危险，冒险，危害v. 冒险，拼命"
+  },
+  {
+   "word": "fourth",
+   "def": "num.第四，四分之一"
+  },
+  {
+   "word": "flirt",
+   "def": "vt.忽然弹出, 挥动。vi.调情, 摇晃的移动, 玩弄, 摇晃地摆动, 摆动, 轻率地对待。n.卖弄风情的人, 调情的人。"
+  },
+  {
+   "word": "nose",
+   "def": "n. 鼻子；(飞机，船等的)前端，突出部分"
+  },
+  {
+   "word": "inspiration",
+   "def": "n. 灵感；鼓舞，激励"
+  },
+  {
+   "word": "carbon",
+   "def": "n. 碳"
+  },
+  {
+   "word": "induce",
+   "def": "vt."
+  },
+  {
+   "word": "drowse",
+   "def": "n.困，瞌睡。vi.打瞌睡。vt.使瞌睡"
+  },
+  {
+   "word": "circular",
+   "def": "a. 圆(形)的，环形的；循环的n. 传单，通报"
+  },
+  {
+   "word": "wooden",
+   "def": "a. 木制的；呆笨的"
+  },
+  {
+   "word": "heretic",
+   "def": "n.异教徒, 异端者"
+  },
+  {
+   "word": "abuse",
+   "def": "n./vt. 滥用;虐待;辱骂"
+  },
+  {
+   "word": "pollutant",
+   "def": "n.污染物质。"
+  },
+  {
+   "word": "vent",
+   "def": "n.通风孔, 出烟孔, 出口, (感情等的)发泄。v.放出, 排出, 发泄"
+  },
+  {
+   "word": "sadness",
+   "def": "n.悲痛，悲哀"
+  },
+  {
+   "word": "daughter",
+   "def": "n. 女儿"
+  },
+  {
+   "word": "total",
+   "def": "n. 总数，合计a. 总的，全部的v. 合计，总数达"
+  },
+  {
+   "word": "reminiscence",
+   "def": "n.回想，回忆，怀念"
+  },
+  {
+   "word": "blade",
+   "def": "n. 刀刃，刀片；桨叶；草叶，叶片"
+  },
+  {
+   "word": "frightening",
+   "def": "adj.令人害怕的"
+  },
+  {
+   "word": "brand",
+   "def": "n./v. 商标;烙印;污辱"
+  },
+  {
+   "word": "determination",
+   "def": "n. 决定,确定,决心"
+  },
+  {
+   "word": "buyer",
+   "def": "n.购买者"
+  },
+  {
+   "word": "fiber",
+   "def": "n. 纤维；构造；纤维制品"
+  },
+  {
+   "word": "eradication",
+   "def": "n.根除"
+  },
+  {
+   "word": "postal",
+   "def": "a.邮政的，邮局的"
+  },
+  {
+   "word": "outrageous",
+   "def": "a. 残暴的,蛮横的"
+  },
+  {
+   "word": "retrospect",
+   "def": "n.回顾。"
+  },
+  {
+   "word": "forensic",
+   "def": "adj.法院的, 适于法庭的, 公开辩论的。n.辩论术。"
+  },
+  {
+   "word": "stamp",
+   "def": "n. 邮票；印；跺脚；标志v. 跺脚，顿足；盖章"
+  },
+  {
+   "word": "happiness",
+   "def": "n.幸福，幸运；快乐"
+  },
+  {
+   "word": "amalgamate",
+   "def": "v.使与汞混合, 合并。"
+  },
+  {
+   "word": "dissipate",
+   "def": "v. 消散,消失;浪费,挥霍"
+  },
+  {
+   "word": "thankful",
+   "def": "adj.感谢的，欣慰的"
+  },
+  {
+   "word": "little",
+   "def": "a. 小，幼小；不多的ad./n. 不多，几乎没有"
+  },
+  {
+   "word": "pastime",
+   "def": "n. 消遣,娱乐"
+  },
+  {
+   "word": "warranted",
+   "def": "adj.担保的"
+  },
+  {
+   "word": "ingot",
+   "def": "n.[冶]锭铁, 工业纯铁。"
+  },
+  {
+   "word": "mother",
+   "def": "n. 母亲"
+  },
+  {
+   "word": "retell",
+   "def": "vt.再讲，重述，复述"
+  },
+  {
+   "word": "countersignature",
+   "def": "n.副署，会签"
+  },
+  {
+   "word": "mislead",
+   "def": "v. 把…带错路，使误入岐途"
+  },
+  {
+   "word": "subsequently",
+   "def": "ad.其后，其次，接着"
+  }
+ ]
+}

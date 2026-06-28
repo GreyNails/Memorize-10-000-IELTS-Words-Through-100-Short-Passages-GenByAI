@@ -1,0 +1,377 @@
+{
+ "id": 100,
+ "words": [
+  {
+   "word": "devastating",
+   "def": "adj.破坏性的, 全然的。"
+  },
+  {
+   "word": "infinitely",
+   "def": "ad.无限地，无边地"
+  },
+  {
+   "word": "dilemma",
+   "def": "n.进退两难的局面, 困难的选择。"
+  },
+  {
+   "word": "sewing-machine",
+   "def": "n.缝纫机"
+  },
+  {
+   "word": "preparation",
+   "def": "n. 准备，预备；制剂，制备品"
+  },
+  {
+   "word": "suitable",
+   "def": "a. (for)合适的，适宜的"
+  },
+  {
+   "word": "frequent",
+   "def": "a. 时常发生的，频繁的v. 常到, 时常出入于, 常去"
+  },
+  {
+   "word": "medication",
+   "def": "n.药物治疗, 药物处理, 药物。"
+  },
+  {
+   "word": "without",
+   "def": "prep. 无，没有n. 外面，外部"
+  },
+  {
+   "word": "fractional",
+   "def": "adj.零碎的，不足的"
+  },
+  {
+   "word": "burial",
+   "def": "n. 葬,埋藏"
+  },
+  {
+   "word": "innocuous",
+   "def": "adj.无害的, 无毒的, 无伤大雅的, 不得罪人的。"
+  },
+  {
+   "word": "product",
+   "def": "n. 产品，产物；乘积"
+  },
+  {
+   "word": "melody",
+   "def": "n. 旋律，曲调；悦耳的音乐"
+  },
+  {
+   "word": "asleep",
+   "def": "a. 睡觉，睡着(用作表语)"
+  },
+  {
+   "word": "grit",
+   "def": "n.粗砂。v.研磨, 在...上铺砂砾。"
+  },
+  {
+   "word": "bookcase",
+   "def": "书橱"
+  },
+  {
+   "word": "missionary",
+   "def": "a. 教会的，传教(士)的n. 传教士"
+  },
+  {
+   "word": "genial",
+   "def": "adj.亲切的"
+  },
+  {
+   "word": "wall",
+   "def": "n. 墙，壁，围墙vt. 筑墙围住，用墙隔开"
+  },
+  {
+   "word": "instance",
+   "def": "n. 例子，事例，例证"
+  },
+  {
+   "word": "pictorial",
+   "def": "n.画报"
+  },
+  {
+   "word": "shirt",
+   "def": "n. 衬衫"
+  },
+  {
+   "word": "effectiveness",
+   "def": "n.有效"
+  },
+  {
+   "word": "homeless",
+   "def": "adj.无家可归的"
+  },
+  {
+   "word": "tulip",
+   "def": "n.郁金香"
+  },
+  {
+   "word": "energetic",
+   "def": "a. 精力旺盛的,精力充沛的"
+  },
+  {
+   "word": "capillary",
+   "def": "n.毛细管。adj.毛状的, 毛细作用的"
+  },
+  {
+   "word": "injure",
+   "def": "v. 损害，损伤，伤害"
+  },
+  {
+   "word": "fortify",
+   "def": "vt.设防于, 增强(体力,结构等)使坚强, 增加, (酒)的酒精含量。vi.筑防御工事。"
+  },
+  {
+   "word": "oriental",
+   "def": "a./n. 东方的,东方人"
+  },
+  {
+   "word": "peak",
+   "def": "n. 山顶，最高点；峰，山峰a. 高峰的，最高的"
+  },
+  {
+   "word": "edge",
+   "def": "n. 边，棱；刀口，刃v. 侧身移动，挤进"
+  },
+  {
+   "word": "paradise",
+   "def": "n. 天国,乐园"
+  },
+  {
+   "word": "second",
+   "def": "a. 第二；次等的，二等的n. 秒v. 赞成，附和v. (临时)调任，调派"
+  },
+  {
+   "word": "irrigate",
+   "def": "vt. 灌溉，修水利vi. 进行灌溉"
+  },
+  {
+   "word": "piggyback",
+   "def": "adj.骑在背肩上的。adv.在背上, 在肩上"
+  },
+  {
+   "word": "concurrent",
+   "def": "adj.同时发生的"
+  },
+  {
+   "word": "halt",
+   "def": "n./v. (途中)暂停,终止;vi. 犹豫,踌躇"
+  },
+  {
+   "word": "charity",
+   "def": "n. 赈济款、物,慈善团体,博爱"
+  },
+  {
+   "word": "laughter",
+   "def": "n. 笑，笑声"
+  },
+  {
+   "word": "greatness",
+   "def": "n.伟大，大"
+  },
+  {
+   "word": "bazaar",
+   "def": "n.集市，廉价商店"
+  },
+  {
+   "word": "camera",
+   "def": "n. 照相机，摄影机"
+  },
+  {
+   "word": "fan",
+   "def": "n. 扇子，风扇；(影，球等)迷v. 扇，扇动，激起"
+  },
+  {
+   "word": "oxidize",
+   "def": "v.(使)氧化。"
+  },
+  {
+   "word": "lens",
+   "def": "n. 透镜,(眼睛)水晶体"
+  },
+  {
+   "word": "vigor",
+   "def": "n.活动，精力，元气"
+  },
+  {
+   "word": "championship",
+   "def": "n.锦标(赛)"
+  },
+  {
+   "word": "photostatic",
+   "def": "adj.静电复印的"
+  },
+  {
+   "word": "darken",
+   "def": "v.变黑，转暗"
+  },
+  {
+   "word": "typewriter",
+   "def": "n. 打字机"
+  },
+  {
+   "word": "shaft",
+   "def": "n. 矛;矿井;车辕;轴;光线"
+  },
+  {
+   "word": "bankrupt",
+   "def": "adj. 破产的,彻底失败的;彻底缺乏的 n. 破产者 vt. 使破产,使枯竭"
+  },
+  {
+   "word": "inferior",
+   "def": "a. 劣质的,差的;下级的;n. 地位低的人,能力低的人"
+  },
+  {
+   "word": "nought",
+   "def": "n. 无,零"
+  },
+  {
+   "word": "over",
+   "def": "ad. 在上方；遍及地prep. 在的上方a. 结束的"
+  },
+  {
+   "word": "competition",
+   "def": "n. 比赛,比赛会;竞争"
+  },
+  {
+   "word": "piety",
+   "def": "n.虔诚, 孝行。"
+  },
+  {
+   "word": "combat",
+   "def": "n./v. 战斗,搏斗"
+  },
+  {
+   "word": "confidence",
+   "def": "n. (in)信任；信心，自信；秘密，机密"
+  },
+  {
+   "word": "naval",
+   "def": "a. 海军的,军舰的"
+  },
+  {
+   "word": "fund",
+   "def": "n. 资金，基金；存款，现款；(知识等的)累积"
+  },
+  {
+   "word": "doze",
+   "def": "v./n. 瞌睡；假寐"
+  },
+  {
+   "word": "irrespective",
+   "def": "a. 不考虑的,不顾的"
+  },
+  {
+   "word": "night",
+   "def": "n. 夜间；夜；晚(上)"
+  },
+  {
+   "word": "reel",
+   "def": "n. 卷,轴;(胶片)一盘; vt. 卷; vi. 眩晕,摇晃"
+  },
+  {
+   "word": "duty-free",
+   "def": "adj.免税的"
+  },
+  {
+   "word": "activate",
+   "def": "vt. 使活动;触发"
+  },
+  {
+   "word": "irritation",
+   "def": "n.刺激，恼怒"
+  },
+  {
+   "word": "scarce",
+   "def": "a. 缺乏的，不足的；稀少的，罕见的"
+  },
+  {
+   "word": "gesture",
+   "def": "n./vi. 姿势,手势,表示"
+  },
+  {
+   "word": "receive",
+   "def": "v. 收到，接到；遭受，受到；接待，接见"
+  },
+  {
+   "word": "up-to-date",
+   "def": "a. 现代化的，最新的；跟上时代的"
+  },
+  {
+   "word": "figure",
+   "def": "n. 体形；轮廓；数字；图形v. 描绘；计算；推测"
+  },
+  {
+   "word": "weird",
+   "def": "adj.怪异的, 超自然的, 神秘的, 不可思议的, 超乎事理之外的。n.<古><苏格兰>命运, 预言, 符咒。"
+  },
+  {
+   "word": "appreciably",
+   "def": "adv.相当大地"
+  },
+  {
+   "word": "swell",
+   "def": "vt./vi. 使膨胀,使增强,使壮大,使隆起"
+  },
+  {
+   "word": "halibut",
+   "def": "n.大比目鱼。"
+  },
+  {
+   "word": "gear",
+   "def": "a. 齿轮的;轮的、杠杆等装置的;设备的;用具的;v. (使)相适合"
+  },
+  {
+   "word": "commemoration",
+   "def": "v.纪念"
+  },
+  {
+   "word": "around",
+   "def": "ad. 在…周围，到处prep. 在…四周(或附近)"
+  },
+  {
+   "word": "ashtray",
+   "def": "n.烟灰缸"
+  },
+  {
+   "word": "recurrence",
+   "def": "n.再发生"
+  },
+  {
+   "word": "clench",
+   "def": "v.咬紧，握紧，决定"
+  },
+  {
+   "word": "urgently",
+   "def": "adv.紧急地"
+  },
+  {
+   "word": "confinement",
+   "def": "n.限制"
+  },
+  {
+   "word": "devastate",
+   "def": "vt.毁坏。"
+  },
+  {
+   "word": "glycerin",
+   "def": "n.甘油, 丙三醇。"
+  },
+  {
+   "word": "homesick",
+   "def": "n.思乡的"
+  },
+  {
+   "word": "introduction",
+   "def": "n. (to)介绍；传入，引进；导言，导论，绪论"
+  },
+  {
+   "word": "apologize",
+   "def": "v. (to，for)道歉，认错"
+  },
+  {
+   "word": "cope",
+   "def": "v. (with)竞争，对抗；(with)对付，妥善处理"
+  }
+ ]
+}

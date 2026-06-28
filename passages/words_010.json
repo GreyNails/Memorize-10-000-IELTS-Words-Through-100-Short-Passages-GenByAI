@@ -1,0 +1,381 @@
+{
+ "id": 10,
+ "words": [
+  {
+   "word": "wit",
+   "def": "n. 智力,才智"
+  },
+  {
+   "word": "attain",
+   "def": "v. 获得;达到"
+  },
+  {
+   "word": "concede",
+   "def": "vt. (不情愿地)承认,承认…为真(或正确); 承认失败;让于;vi. 让步,认输"
+  },
+  {
+   "word": "span",
+   "def": "n. 一段时间;跨距,跨度;vt. 持续,贯穿,包括;横跨,跨越"
+  },
+  {
+   "word": "ribbon",
+   "def": "n. 缎带,丝带,带状物"
+  },
+  {
+   "word": "fleshy",
+   "def": "adj.肉的"
+  },
+  {
+   "word": "capsule",
+   "def": "n.(植物)蒴果, 胶囊, 瓶帽, 太空舱。"
+  },
+  {
+   "word": "drugstore",
+   "def": "n.零食店"
+  },
+  {
+   "word": "crumb",
+   "def": "n.面包屑"
+  },
+  {
+   "word": "imaginative",
+   "def": "adj.想象的, 虚构的。"
+  },
+  {
+   "word": "intransigent",
+   "def": "adj.非妥协性的。n.不妥协的人。"
+  },
+  {
+   "word": "good-looking",
+   "def": "adj.好看的"
+  },
+  {
+   "word": "handkerchief",
+   "def": "n. 手帕"
+  },
+  {
+   "word": "wire",
+   "def": "n. 金属线，电线；电报，电信v. 发电报(给)"
+  },
+  {
+   "word": "combustion",
+   "def": "n.燃烧。"
+  },
+  {
+   "word": "shrine",
+   "def": "n.神殿，神龛，圣祠"
+  },
+  {
+   "word": "emotional",
+   "def": "a.感情的，情绪的"
+  },
+  {
+   "word": "daylight",
+   "def": "n. 日光，白昼，黎明"
+  },
+  {
+   "word": "hospitality",
+   "def": "n. 好客,殷勤"
+  },
+  {
+   "word": "fruit",
+   "def": "n. 水果，果实；成果，效果"
+  },
+  {
+   "word": "recompense",
+   "def": "v. &n.回报，赔偿"
+  },
+  {
+   "word": "potluck",
+   "def": "n.家常便饭。"
+  },
+  {
+   "word": "fog",
+   "def": "n. 雾气，雾v. 以雾笼罩，被雾笼罩"
+  },
+  {
+   "word": "sulphide",
+   "def": "n[化].硫化物。"
+  },
+  {
+   "word": "dismay",
+   "def": "n./vt. (使)灰心丧气;惊愕"
+  },
+  {
+   "word": "subsequence",
+   "def": "n.后果"
+  },
+  {
+   "word": "flabby",
+   "def": "adj.优柔寡断的性格(或人), 软弱的, 没气力的, 不稳的, (肌肉等)不结实的, 松弛的。"
+  },
+  {
+   "word": "ironical",
+   "def": "adj.反讽的，讽刺的"
+  },
+  {
+   "word": "saturation",
+   "def": "n.饱和(状态)；浸透"
+  },
+  {
+   "word": "resume",
+   "def": "vt. 重新开始;继续;重新占用"
+  },
+  {
+   "word": "blindfold",
+   "def": "n, 眼罩, 障眼物。vt.将...眼睛蒙起来, 蒙骗。adj.看不清的, 盲目的"
+  },
+  {
+   "word": "landscape",
+   "def": "n. 风景,景色;风景画"
+  },
+  {
+   "word": "hijacker",
+   "def": "n.拦路抢劫者"
+  },
+  {
+   "word": "inquiry",
+   "def": "n. 询问，打听，调查"
+  },
+  {
+   "word": "privileged",
+   "def": "adj.有特权的,幸运的,保密的,秘密的"
+  },
+  {
+   "word": "mature",
+   "def": "vt. 使成熟,使成长;a. 成熟的,充分发展的"
+  },
+  {
+   "word": "colonist",
+   "def": "n.移民；殖民地居民"
+  },
+  {
+   "word": "register",
+   "def": "n./v. 登记，注册v. (仪表等)指示，(邮件)挂号"
+  },
+  {
+   "word": "toast",
+   "def": "n. 烤面包,烤火;vt. 为…祝酒,敬酒"
+  },
+  {
+   "word": "hope",
+   "def": "n. 希望，期望；希望的人或事v. 希望，期望"
+  },
+  {
+   "word": "enclose",
+   "def": "vt. 把…围起来;把…封入信封"
+  },
+  {
+   "word": "riddle",
+   "def": "n. 谜，谜语；筛子"
+  },
+  {
+   "word": "waive",
+   "def": "v.放弃(要求、权利)"
+  },
+  {
+   "word": "interrupt",
+   "def": "v. 中断，遮断，阻碍；打断(话)，打扰"
+  },
+  {
+   "word": "resentful",
+   "def": "adj.不满的，怨恨的"
+  },
+  {
+   "word": "hi",
+   "def": "int. 嗨！喂！"
+  },
+  {
+   "word": "short",
+   "def": "a. 短的，矮的；(of)缺乏，不足n. (pl.)短裤"
+  },
+  {
+   "word": "artery",
+   "def": "n.动脉, 要道。"
+  },
+  {
+   "word": "seem",
+   "def": "v. 好像，似乎"
+  },
+  {
+   "word": "painter",
+   "def": "n. 漆工，画家"
+  },
+  {
+   "word": "proverb",
+   "def": "n.谚语，格言，箴言"
+  },
+  {
+   "word": "explanation",
+   "def": "n. 解释，说明"
+  },
+  {
+   "word": "uncap",
+   "def": "v.打开"
+  },
+  {
+   "word": "diffuse",
+   "def": "v.散播, 传播, 漫射, 扩散, (使)慢慢混合。adj.散开的, 弥漫的。"
+  },
+  {
+   "word": "tyrannical",
+   "def": "adj.残暴的。"
+  },
+  {
+   "word": "response",
+   "def": "n. 回答，响应，反应"
+  },
+  {
+   "word": "oppression",
+   "def": "n.压迫"
+  },
+  {
+   "word": "renew",
+   "def": "v. (使)更新，恢复，重新开始，继续"
+  },
+  {
+   "word": "sham",
+   "def": "n./a. 假冒(的)，虚伪(的)"
+  },
+  {
+   "word": "entrepreneur",
+   "def": "n.<法>企业家, 主办人。"
+  },
+  {
+   "word": "scapegoat",
+   "def": "n.替罪羊。"
+  },
+  {
+   "word": "Fahrenheit",
+   "def": "n. 华氏温度计"
+  },
+  {
+   "word": "overt",
+   "def": "adj.明显的, 公然的。"
+  },
+  {
+   "word": "latitude",
+   "def": "n. 纬度;地区;(言论,行动的)自由"
+  },
+  {
+   "word": "spite",
+   "def": "n. 恶意；怨恨"
+  },
+  {
+   "word": "softly",
+   "def": "ad.柔软地；温柔地"
+  },
+  {
+   "word": "sullen",
+   "def": "a.绷着脸不高兴的"
+  },
+  {
+   "word": "cup",
+   "def": "n. 杯子；奖杯，优胜杯；(一)杯，一杯的容量"
+  },
+  {
+   "word": "discover",
+   "def": "v. 发现，显示"
+  },
+  {
+   "word": "query",
+   "def": "v. &n.询问"
+  },
+  {
+   "word": "sampling",
+   "def": "n.抽样"
+  },
+  {
+   "word": "gunpowder",
+   "def": "n.黑色火药；有烟火药"
+  },
+  {
+   "word": "lord",
+   "def": "n. (Lord)上帝，主；主人，长官，君主，贵族"
+  },
+  {
+   "word": "mysterious",
+   "def": "a. 神秘的，可疑的，难理解的"
+  },
+  {
+   "word": "path",
+   "def": "n. 小路，小径；路线，轨道"
+  },
+  {
+   "word": "constitutive",
+   "def": "adj.宪法的，章程的"
+  },
+  {
+   "word": "innards",
+   "def": "n.<口>内脏。"
+  },
+  {
+   "word": "beam",
+   "def": "n. 梁;光束;飞机导航无线电射束; v. 发光,发热;微笑;定向发出(无线电信号)"
+  },
+  {
+   "word": "worth",
+   "def": "n. 价值a. 值…的，价值…的，值得…的"
+  },
+  {
+   "word": "purchase",
+   "def": "v. 买，购买n. 购买的物品"
+  },
+  {
+   "word": "cynic",
+   "def": "n.愤世嫉俗者。"
+  },
+  {
+   "word": "ocean",
+   "def": "n. 海洋"
+  },
+  {
+   "word": "might",
+   "def": "n. 力量,强权,势力"
+  },
+  {
+   "word": "artistic",
+   "def": "a. 艺术(家)的，美术(家)的；善于艺术创作的"
+  },
+  {
+   "word": "persuasive",
+   "def": "n.说服者, 劝诱。adj.善说服的"
+  },
+  {
+   "word": "head",
+   "def": "n. 头；顶部；领导，首脑v. 主管；位于…顶部"
+  },
+  {
+   "word": "consequently",
+   "def": "ad. 结果，因此，所以"
+  },
+  {
+   "word": "trifle",
+   "def": "n. 琐事,小事,无价值的东西;vi. (with)嘲笑,轻视"
+  },
+  {
+   "word": "load",
+   "def": "v. 装(货)，装载n. 装载(量)，负荷(量)；(一)担"
+  },
+  {
+   "word": "one",
+   "def": "num. 一pron. 一个(只)(表示代替可数的东西)"
+  },
+  {
+   "word": "componential",
+   "def": "adj.成分的"
+  },
+  {
+   "word": "scant",
+   "def": "adj.缺乏的,不足的,将近的,欠缺的。v.限制,节省,减少。"
+  },
+  {
+   "word": "nomination",
+   "def": "n.提名，任命"
+  },
+  {
+   "word": "panda",
+   "def": "n. 熊猫"
+  }
+ ]
+}

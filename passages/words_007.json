@@ -1,0 +1,381 @@
+{
+ "id": 7,
+ "words": [
+  {
+   "word": "confession",
+   "def": "n.供认，自由"
+  },
+  {
+   "word": "stocking",
+   "def": "n. 长(统)袜"
+  },
+  {
+   "word": "deputy",
+   "def": "n. 代表,代理人"
+  },
+  {
+   "word": "formerly",
+   "def": "ad.以前，从前"
+  },
+  {
+   "word": "winner",
+   "def": "n.获胜者，优胜者"
+  },
+  {
+   "word": "solve",
+   "def": "v. 解决，解答"
+  },
+  {
+   "word": "dry",
+   "def": "a. 干(旱)的；干渴的；枯燥vt. 使干燥，晒干"
+  },
+  {
+   "word": "snowman",
+   "def": "n.雪人"
+  },
+  {
+   "word": "dummy",
+   "def": "n.傀儡"
+  },
+  {
+   "word": "capitalism",
+   "def": "n. 资本主义"
+  },
+  {
+   "word": "complaint",
+   "def": "n. 抱怨，诉苦，怨言，控告；疾病"
+  },
+  {
+   "word": "cure",
+   "def": "v. 治愈;加工处理;n. 治愈,疗法;对策"
+  },
+  {
+   "word": "reckless",
+   "def": "a. 鲁莽的"
+  },
+  {
+   "word": "primitive",
+   "def": "a. 原始的,简单的"
+  },
+  {
+   "word": "address",
+   "def": "n. 住址,致词 vt. 向…致词,在信封上写姓名、住址"
+  },
+  {
+   "word": "pillar",
+   "def": "n. 柱,栋梁"
+  },
+  {
+   "word": "publicly",
+   "def": "adv.公开地"
+  },
+  {
+   "word": "confirmation",
+   "def": "n.证实，确定；确认"
+  },
+  {
+   "word": "unilateral",
+   "def": "adj.单方面, 单边的, 片面的, 单系, [植]单侧的, [语]单边音。"
+  },
+  {
+   "word": "reinforcement",
+   "def": "n.加强，援兵"
+  },
+  {
+   "word": "cyclist",
+   "def": "n.自行车运动员"
+  },
+  {
+   "word": "statute",
+   "def": "n. 法令,法规"
+  },
+  {
+   "word": "incline",
+   "def": "n. 斜坡,斜面 v. (使)倾斜;(使)倾向于,赞同"
+  },
+  {
+   "word": "unhappy",
+   "def": "a.不幸福的，不快乐的"
+  },
+  {
+   "word": "sickness",
+   "def": "n.疾病"
+  },
+  {
+   "word": "motorist",
+   "def": "n.摩托车手"
+  },
+  {
+   "word": "pester",
+   "def": "vt.使烦恼, 纠缠。"
+  },
+  {
+   "word": "quantitative",
+   "def": "a. 量的,定量的"
+  },
+  {
+   "word": "adopt",
+   "def": "vt. 收养;采用"
+  },
+  {
+   "word": "vacuum",
+   "def": "n. 真空"
+  },
+  {
+   "word": "inexpensive",
+   "def": "a.花费不多的，廉价的"
+  },
+  {
+   "word": "herd",
+   "def": "n. 兽群,牲口群,牧人;v. 把…赶到一起,成群"
+  },
+  {
+   "word": "good",
+   "def": "a. 好的；善良的；擅长的；乖的n. 好处；利益"
+  },
+  {
+   "word": "restriction",
+   "def": "n.限制，限定，约束"
+  },
+  {
+   "word": "vary",
+   "def": "vt. 改变，变化；使多样化"
+  },
+  {
+   "word": "lending",
+   "def": "n.贷款，借款"
+  },
+  {
+   "word": "anthology",
+   "def": "n.诗选, 文选。"
+  },
+  {
+   "word": "temporary",
+   "def": "a. 暂时的,临时的"
+  },
+  {
+   "word": "presumably",
+   "def": "ad. 假定地;也许"
+  },
+  {
+   "word": "besides",
+   "def": "ad. 此外；并且prep. 于…之外；除…以外"
+  },
+  {
+   "word": "spade",
+   "def": "n. 铁锹，铲子"
+  },
+  {
+   "word": "yacht",
+   "def": "n. 小帆船,快艇,帆船"
+  },
+  {
+   "word": "deterioration",
+   "def": "n.退化"
+  },
+  {
+   "word": "comparative",
+   "def": "a. 比较的，相当的"
+  },
+  {
+   "word": "pathological",
+   "def": "adj.病理的, 病态的。"
+  },
+  {
+   "word": "frosty",
+   "def": "adj.霜的"
+  },
+  {
+   "word": "freshman",
+   "def": "n.新人，新生"
+  },
+  {
+   "word": "activity",
+   "def": "n. 活动；活力；能动性；"
+  },
+  {
+   "word": "independently",
+   "def": "adv.独立地"
+  },
+  {
+   "word": "lunch",
+   "def": "n. 午餐，(美)便餐"
+  },
+  {
+   "word": "excess",
+   "def": "n. 超越,超过;暴行;a. 额外的,附加的"
+  },
+  {
+   "word": "nest",
+   "def": "n. 窝，巢v. 筑巢"
+  },
+  {
+   "word": "purge",
+   "def": "n.净化, 清除, 泻药。v.(使)净化, 清除, 肃清, (使)通便"
+  },
+  {
+   "word": "suck",
+   "def": "n./v. 吸;舔"
+  },
+  {
+   "word": "rinse",
+   "def": "vt.涮，嗽；冲洗"
+  },
+  {
+   "word": "partnership",
+   "def": "n.伙伴关系，合伙"
+  },
+  {
+   "word": "kindness",
+   "def": "n. 仁慈，亲切；好意；友好行为"
+  },
+  {
+   "word": "leader",
+   "def": "n.领袖，领导人；首领"
+  },
+  {
+   "word": "long",
+   "def": "a. 长的，长时间的，长期的ad. 长久，长期地"
+  },
+  {
+   "word": "cautious",
+   "def": "a. (of)小心的，谨慎的"
+  },
+  {
+   "word": "organize",
+   "def": "v. 组织，编组"
+  },
+  {
+   "word": "oxide",
+   "def": "n. 氧化物"
+  },
+  {
+   "word": "footstep",
+   "def": "n. 脚步(声)，足迹"
+  },
+  {
+   "word": "debate",
+   "def": "v./n. 争论，辩论"
+  },
+  {
+   "word": "sweeten",
+   "def": "vt.使变甜vi.变甜"
+  },
+  {
+   "word": "cuckoo",
+   "def": "n.杜鹃，布谷鸟"
+  },
+  {
+   "word": "foreigner",
+   "def": "n. 外国人"
+  },
+  {
+   "word": "moral",
+   "def": "a. 道德(上)的，精神上的n. 寓意，教育意义"
+  },
+  {
+   "word": "torment",
+   "def": "n. 剧烈痛苦;折磨,烦扰;v. 折磨;纠缠"
+  },
+  {
+   "word": "originally",
+   "def": "adv.原来，当初"
+  },
+  {
+   "word": "permission",
+   "def": "n. 允许，同意"
+  },
+  {
+   "word": "low",
+   "def": "a. 低，矮；低级的，下层的，卑贱的；低声的"
+  },
+  {
+   "word": "inasmuch",
+   "def": "ad.因为，由于"
+  },
+  {
+   "word": "coldness",
+   "def": "n.寒冷，冷淡"
+  },
+  {
+   "word": "turf",
+   "def": "n.草根土, 草皮, 泥炭, 跑马场, 赛马。vt.覆草皮于"
+  },
+  {
+   "word": "coherence",
+   "def": "n.凝聚性"
+  },
+  {
+   "word": "commentate",
+   "def": "vt.评论, 解说。vi.评论时事"
+  },
+  {
+   "word": "snowbound",
+   "def": "adj.被雪困住的。为雪所阻的"
+  },
+  {
+   "word": "modest",
+   "def": "a. 谦虚的;适度的;羞怯的"
+  },
+  {
+   "word": "accuse",
+   "def": "vt. 控告"
+  },
+  {
+   "word": "perplex",
+   "def": "vt. 困惑,迷惑"
+  },
+  {
+   "word": "semblance",
+   "def": "n.外表, 伪装。"
+  },
+  {
+   "word": "off",
+   "def": "ad. 离开；在远处；脱开prep. 从，从…离开"
+  },
+  {
+   "word": "emancipate",
+   "def": "v.解放"
+  },
+  {
+   "word": "congested",
+   "def": "adj.拥挤的。"
+  },
+  {
+   "word": "flavour",
+   "def": "n.滋味, 香味。"
+  },
+  {
+   "word": "midnight",
+   "def": "n.午夜，子夜，夜半"
+  },
+  {
+   "word": "unemloyment",
+   "def": "n.失业"
+  },
+  {
+   "word": "housework",
+   "def": "n. 家务，家事(不可数)"
+  },
+  {
+   "word": "enable",
+   "def": "v. 使能够，使成为可能；授予权利或方法"
+  },
+  {
+   "word": "dawn",
+   "def": "n.黎明，开端"
+  },
+  {
+   "word": "misappropriate",
+   "def": "v.盗用。"
+  },
+  {
+   "word": "emigrant",
+   "def": "n.移居国外的人"
+  },
+  {
+   "word": "obtainable",
+   "def": "adj.可得到的"
+  }
+ ]
+}

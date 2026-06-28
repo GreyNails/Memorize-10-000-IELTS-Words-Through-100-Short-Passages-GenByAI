@@ -1,0 +1,381 @@
+{
+ "id": 44,
+ "words": [
+  {
+   "word": "destiny",
+   "def": "n. 命运；天数，天命"
+  },
+  {
+   "word": "overlap",
+   "def": "v. 与…互搭,与…重叠;与…部分相同"
+  },
+  {
+   "word": "trim",
+   "def": "a. 整洁的,整齐的"
+  },
+  {
+   "word": "where",
+   "def": "ad. 在哪/那里conj./pron. 哪里conj. 然而"
+  },
+  {
+   "word": "tolerance",
+   "def": "n. 容忍,宽恕;忍耐力"
+  },
+  {
+   "word": "encroach",
+   "def": "vi.(逐步或暗中)侵占, 蚕食, 超出通常(或正常)界线。"
+  },
+  {
+   "word": "calculation",
+   "def": "n.计算，计算结果"
+  },
+  {
+   "word": "turn",
+   "def": "v./n. (使)转动；(使)旋转；(使)转变n. 机会"
+  },
+  {
+   "word": "colleague",
+   "def": "n. 同事，同僚"
+  },
+  {
+   "word": "soften",
+   "def": "vt.使软化vi.变软弱"
+  },
+  {
+   "word": "installation",
+   "def": "n. 安装，设置；装置，设备"
+  },
+  {
+   "word": "third",
+   "def": "num. 第三(个)，三分之一(的)"
+  },
+  {
+   "word": "usefulness",
+   "def": "n.用处，有效性"
+  },
+  {
+   "word": "ketchup",
+   "def": "n.调味蕃茄酱。"
+  },
+  {
+   "word": "bruise",
+   "def": "n./v. 青肿,受伤,伤痕"
+  },
+  {
+   "word": "transaction",
+   "def": "n. 办理,处理,执行;事务,事项,交易;议事录,会议简报"
+  },
+  {
+   "word": "editor",
+   "def": "n. 编辑，编者"
+  },
+  {
+   "word": "offence",
+   "def": "n.犯罪，犯规；冒犯"
+  },
+  {
+   "word": "availability",
+   "def": "n.有效(性)；可得性"
+  },
+  {
+   "word": "slim",
+   "def": "a. 细长的;苗条的"
+  },
+  {
+   "word": "transact",
+   "def": "v.交易"
+  },
+  {
+   "word": "stylist",
+   "def": "n.时装设计师"
+  },
+  {
+   "word": "refrigerator",
+   "def": "n. 冰箱"
+  },
+  {
+   "word": "fish",
+   "def": "n. 鱼；鱼肉v. 捕鱼；钓鱼"
+  },
+  {
+   "word": "engross",
+   "def": "vt.用大字体书写, 吸引, 占用, 使全神贯注, 独占。"
+  },
+  {
+   "word": "legend",
+   "def": "n. 传说，传奇"
+  },
+  {
+   "word": "negligence",
+   "def": "n.疏忽，过失"
+  },
+  {
+   "word": "irresistible",
+   "def": "adj.不可抗拒的"
+  },
+  {
+   "word": "shape",
+   "def": "n. 形状，外形；情况，状态；种类v. 成型，塑造"
+  },
+  {
+   "word": "defective",
+   "def": "adj.有缺点的"
+  },
+  {
+   "word": "arm",
+   "def": "n. 手臂，扶手，臂状物v. 武装；配备n. 武器"
+  },
+  {
+   "word": "definite",
+   "def": "a. 明确的；一定的；意志坚强的，立场坚定的"
+  },
+  {
+   "word": "rely",
+   "def": "vi. 依赖"
+  },
+  {
+   "word": "abrogation",
+   "def": "n.取消，废除"
+  },
+  {
+   "word": "feud",
+   "def": "n.纠纷，封地"
+  },
+  {
+   "word": "experienced",
+   "def": "adj.有经验的"
+  },
+  {
+   "word": "erupt",
+   "def": "vi. 爆发;喷发"
+  },
+  {
+   "word": "lament",
+   "def": "n.悲伤, 哀悼, 恸哭, 挽诗, 悼词。vt.哀悼。vi.悔恨, 悲叹。"
+  },
+  {
+   "word": "spelling",
+   "def": "n. 拼法，拼写法"
+  },
+  {
+   "word": "mosaic",
+   "def": "n.镶嵌, 镶嵌图案, 镶嵌工艺。adj.嵌花式的, 拼成的。最早出现的Internet上的WEB浏览器"
+  },
+  {
+   "word": "confide",
+   "def": "v.委托，吐露秘密"
+  },
+  {
+   "word": "musician",
+   "def": "n. 音乐家，乐师"
+  },
+  {
+   "word": "petroleum",
+   "def": "n. 石油"
+  },
+  {
+   "word": "disposition",
+   "def": "n. 排列，部署；性格倾向；倾向，意向"
+  },
+  {
+   "word": "minimal",
+   "def": "adj.最小的, 最小限度的。"
+  },
+  {
+   "word": "workshop",
+   "def": "n. 车间，工场，修理厂；研讨会，讲习班"
+  },
+  {
+   "word": "ultimate",
+   "def": "a. 最后的，最终的；根本的"
+  },
+  {
+   "word": "stalk",
+   "def": "n. 茎，梗vt. 悄悄地跟踪vi. 高视阔步地走"
+  },
+  {
+   "word": "quote",
+   "def": "v. 引用，援引"
+  },
+  {
+   "word": "senator",
+   "def": "n. 参议员"
+  },
+  {
+   "word": "notion",
+   "def": "n. 概念、观念"
+  },
+  {
+   "word": "bubble",
+   "def": "n. 气泡,泡沫"
+  },
+  {
+   "word": "many",
+   "def": "a. 许多的，多的pron. 许多人或物，许多"
+  },
+  {
+   "word": "supermarket",
+   "def": "n. 超级市场"
+  },
+  {
+   "word": "polarity",
+   "def": "n.极性；(思想等)归向"
+  },
+  {
+   "word": "possible",
+   "def": "a. 可能的，做得到的；合理的；可允许的"
+  },
+  {
+   "word": "factory",
+   "def": "n. 工厂"
+  },
+  {
+   "word": "impart",
+   "def": "v. 给予;告知,透露;传授"
+  },
+  {
+   "word": "countermeasure",
+   "def": "n.对策"
+  },
+  {
+   "word": "theft",
+   "def": "n. 偷盗"
+  },
+  {
+   "word": "angry",
+   "def": "a. 生气的，愤怒的；(天气)风雨交加的"
+  },
+  {
+   "word": "expectation",
+   "def": "n. 预期，期望，指望"
+  },
+  {
+   "word": "found",
+   "def": "vt. 建立；创立；创办；使有根据；铸造；熔制"
+  },
+  {
+   "word": "furnace",
+   "def": "n. 炉子,熔炉"
+  },
+  {
+   "word": "why",
+   "def": "ad./conj. 为什么；…的理由int. 咳，哎呀"
+  },
+  {
+   "word": "bully",
+   "def": "n.欺凌弱小者。vt.威吓, 威逼。"
+  },
+  {
+   "word": "herewith",
+   "def": "adv.与此一道"
+  },
+  {
+   "word": "ounce",
+   "def": "n. 盎司，英两"
+  },
+  {
+   "word": "boycott",
+   "def": "vt./n. 联合抵制"
+  },
+  {
+   "word": "wholly",
+   "def": "ad. 完全地，全部，一概"
+  },
+  {
+   "word": "Switzerland",
+   "def": "n.瑞士"
+  },
+  {
+   "word": "intangible",
+   "def": "adj.无形的"
+  },
+  {
+   "word": "believe",
+   "def": "vt. 相信，认为vi. 相信，信任，信奉"
+  },
+  {
+   "word": "precipice",
+   "def": "n.悬崖。"
+  },
+  {
+   "word": "fortunately",
+   "def": "ad.幸运地，幸亏"
+  },
+  {
+   "word": "web",
+   "def": "n. 网"
+  },
+  {
+   "word": "adjustable",
+   "def": "a.可调整的，可校准的"
+  },
+  {
+   "word": "blunt",
+   "def": "a. 钝的;生硬的;直率的;vt. 使钝,把…弄迟钝"
+  },
+  {
+   "word": "retire",
+   "def": "v. 退休，引退；退却，撤退；就寝"
+  },
+  {
+   "word": "farewell",
+   "def": "int./n./a. 再见;临别的,告别的"
+  },
+  {
+   "word": "extraordinary",
+   "def": "a. 非常的；格外的；意外的；离奇的；临时的"
+  },
+  {
+   "word": "portion",
+   "def": "n. 一部分,一份,一客"
+  },
+  {
+   "word": "astound",
+   "def": "v.使惊讶"
+  },
+  {
+   "word": "opportunity",
+   "def": "n. 机会"
+  },
+  {
+   "word": "overhead",
+   "def": "a. 在头顶上的；架空的ad. 在头顶上n.(pl) 经常费用; 生产和贸易的费用;"
+  },
+  {
+   "word": "chronological",
+   "def": "adj.按年代顺序排列的。"
+  },
+  {
+   "word": "richness",
+   "def": "n.富饶，富有"
+  },
+  {
+   "word": "wish",
+   "def": "v. 希望；但愿；祝n. 愿望，希望；[pl."
+  },
+  {
+   "word": "thus",
+   "def": "ad. 如此；像这样；于是；因此"
+  },
+  {
+   "word": "scenery",
+   "def": "n. 风景"
+  },
+  {
+   "word": "misty",
+   "def": "adj.雾蒙蒙的，有雾的"
+  },
+  {
+   "word": "civilize",
+   "def": "v. 使文明，开化"
+  },
+  {
+   "word": "textual",
+   "def": "adj.课文的，正文的"
+  },
+  {
+   "word": "harness",
+   "def": "n. 挽具,降落伞背带;vt. 上挽具;治理(河流等);利用"
+  }
+ ]
+}

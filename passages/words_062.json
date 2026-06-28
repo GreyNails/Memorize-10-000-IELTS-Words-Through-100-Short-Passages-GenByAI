@@ -1,0 +1,381 @@
+{
+ "id": 62,
+ "words": [
+  {
+   "word": "constrain",
+   "def": "vt.强迫, 抑制, 拘束。"
+  },
+  {
+   "word": "stiff",
+   "def": "a. 坚硬的;费劲的;不易弯的"
+  },
+  {
+   "word": "geography",
+   "def": "n. 地理(学)"
+  },
+  {
+   "word": "child",
+   "def": "n. 小孩，儿童，儿女"
+  },
+  {
+   "word": "or",
+   "def": "conj. 或，或者(表示选择)；即，大约；否则"
+  },
+  {
+   "word": "override",
+   "def": "vt.制服, 践踏, 奔越过, 蹂躏, 不顾, 不考虑(某人的意见,决定,愿望等)。n.代理佣金。"
+  },
+  {
+   "word": "accord",
+   "def": "vi. 相一致;相符合; vt. 授予,赠与; n. 一致,符合;(尤指国与国之间的)谅解"
+  },
+  {
+   "word": "journalist",
+   "def": "n. 新闻工作者,记者"
+  },
+  {
+   "word": "suggest",
+   "def": "v. 建议，提出；使联想，使想起…；暗示"
+  },
+  {
+   "word": "asthma",
+   "def": "n.[医]哮喘。"
+  },
+  {
+   "word": "capita",
+   "def": "n.人"
+  },
+  {
+   "word": "suite",
+   "def": "n. 套间；一套家具；套，组，系列"
+  },
+  {
+   "word": "put",
+   "def": "vt. 放，搁，置；表达；使处于…状态，记下"
+  },
+  {
+   "word": "burst",
+   "def": "v. 爆裂，炸破；突然发生n. 突然破裂，爆发"
+  },
+  {
+   "word": "faithful",
+   "def": "a. 守信的，忠实的，如实的，可靠的"
+  },
+  {
+   "word": "cage",
+   "def": "n. 鸟笼"
+  },
+  {
+   "word": "pond",
+   "def": "n. 池塘"
+  },
+  {
+   "word": "exert",
+   "def": "vt. 发挥,行使,尽力"
+  },
+  {
+   "word": "dreary",
+   "def": "a. 沉闷的,阴沉的"
+  },
+  {
+   "word": "tip",
+   "def": "n. 尖端；末端；小费n./v. 轻击；倾斜；给小费"
+  },
+  {
+   "word": "biodegradable",
+   "def": "adj.生物所能分解的。"
+  },
+  {
+   "word": "barter",
+   "def": "v./n. 货物交换,易货贸易"
+  },
+  {
+   "word": "walker",
+   "def": "n.步行者，散步者"
+  },
+  {
+   "word": "counter",
+   "def": "n. 柜台;v. 反对,反击"
+  },
+  {
+   "word": "atom",
+   "def": "n. 原子；微粒，微量"
+  },
+  {
+   "word": "hedgehog",
+   "def": "n.刺猬"
+  },
+  {
+   "word": "burglar",
+   "def": "n. (入室行窃的)盗贼"
+  },
+  {
+   "word": "secondly",
+   "def": "ad.第二(点)；其次"
+  },
+  {
+   "word": "fragile",
+   "def": "a. 易碎的，脆的，易损坏的；虚弱的，脆弱的"
+  },
+  {
+   "word": "breakfast",
+   "def": "n. 早餐v. (给某人)吃早餐"
+  },
+  {
+   "word": "Englishman",
+   "def": "n.英国男子"
+  },
+  {
+   "word": "uphold",
+   "def": "vt. 支持;赞成;确认"
+  },
+  {
+   "word": "ridge",
+   "def": "n. 脊,山脊,岭"
+  },
+  {
+   "word": "accrue",
+   "def": "v.产生，发生"
+  },
+  {
+   "word": "gloom",
+   "def": "n.黑暗，忧郁"
+  },
+  {
+   "word": "nicety",
+   "def": "n.美好, 准确, 精密, 纤细。"
+  },
+  {
+   "word": "incomplete",
+   "def": "a.不完全的，未完成的"
+  },
+  {
+   "word": "corrupt",
+   "def": "a. 腐败的,贪污的;v. (使)腐败,贿赂"
+  },
+  {
+   "word": "respiration",
+   "def": "n.呼吸, 呼吸作用。"
+  },
+  {
+   "word": "outsider",
+   "def": "n.局外人"
+  },
+  {
+   "word": "average",
+   "def": "n. 平均，平均数a. 平均的；普通的v. 平均"
+  },
+  {
+   "word": "heave",
+   "def": "v. 用力举起;说出;掷扔;n. 举,拉,扔"
+  },
+  {
+   "word": "construct",
+   "def": "v. 建设，建造，构造；创立"
+  },
+  {
+   "word": "abeyance",
+   "def": "n.缓办，中止"
+  },
+  {
+   "word": "beginner",
+   "def": "n.初学者，生手"
+  },
+  {
+   "word": "stronghold",
+   "def": "n.堡垒，要塞"
+  },
+  {
+   "word": "battery",
+   "def": "n. 电池(组),炮兵,一组"
+  },
+  {
+   "word": "steep",
+   "def": "a. 陡峭的;(价格等)过高的;急剧的(上升或下降); vt. 浸泡,沉浸"
+  },
+  {
+   "word": "similarity",
+   "def": "n.类似，相似；类似点"
+  },
+  {
+   "word": "shortcoming",
+   "def": "n. 短处，缺点"
+  },
+  {
+   "word": "odour",
+   "def": "n. 气味,臭气"
+  },
+  {
+   "word": "do",
+   "def": "aux./v./vt. 做，干，办，从事；引起vi. 行动"
+  },
+  {
+   "word": "matrimony",
+   "def": "n.结婚。"
+  },
+  {
+   "word": "fidget",
+   "def": "vi.坐立不安, 烦躁, 慌张, (不安地或心不在焉地)弄, 玩弄 。vt.使烦乱, 使不安。n.坐立不安, 烦躁, 不安定。"
+  },
+  {
+   "word": "appliance",
+   "def": "n. 用具;设备,装置"
+  },
+  {
+   "word": "chip",
+   "def": "n. 片屑,薄片,集成电路 v. 削,铲,形成缺口"
+  },
+  {
+   "word": "mistake",
+   "def": "n. 错误，过失，误解v. 弄错；(for)把…误认为"
+  },
+  {
+   "word": "muffler",
+   "def": "n.围巾，消音器"
+  },
+  {
+   "word": "experiment",
+   "def": "n. 实验；试验v. (on)进行实验；做试验"
+  },
+  {
+   "word": "bacon",
+   "def": "n. 咸肉"
+  },
+  {
+   "word": "database",
+   "def": "n.[计] 数据库, 资料库。"
+  },
+  {
+   "word": "everything",
+   "def": "pron. 每件事，一切；最重要的东西"
+  },
+  {
+   "word": "presently",
+   "def": "ad. 一会儿，不久；现在，目前"
+  },
+  {
+   "word": "beautiful",
+   "def": "a. 美的，美丽的；出色的，完美的"
+  },
+  {
+   "word": "designate",
+   "def": "vt. 把…定名为,指派,标出"
+  },
+  {
+   "word": "characteristic",
+   "def": "a./n. 特有的,表示特征的;特性"
+  },
+  {
+   "word": "propriety",
+   "def": "n.适当。"
+  },
+  {
+   "word": "slate",
+   "def": "n.板岩, 石板, 石片, 蓝色。adj.暗蓝灰色的, 含板岩的。v.铺石板。"
+  },
+  {
+   "word": "quickly",
+   "def": "ad.快，迅速"
+  },
+  {
+   "word": "novelette",
+   "def": "n.中篇小说"
+  },
+  {
+   "word": "condensation",
+   "def": "n.凝聚"
+  },
+  {
+   "word": "frontier",
+   "def": "n. 国界;尖端;新领域"
+  },
+  {
+   "word": "abbreviate",
+   "def": "v.缩写, 缩短, 简化, 简写成, 缩写为。"
+  },
+  {
+   "word": "greengrocer",
+   "def": "n.蔬菜商"
+  },
+  {
+   "word": "reed",
+   "def": "n. 芦苇，苇丛；芦笛，牧笛"
+  },
+  {
+   "word": "take",
+   "def": "v. 拿取；吃；记录；取得；花费；捕获；认为"
+  },
+  {
+   "word": "satisfy",
+   "def": "v. 满意，使满意，使相信，说服"
+  },
+  {
+   "word": "shy",
+   "def": "a. 怕羞的，腼腆的；胆怯的vi. 惊退，畏缩"
+  },
+  {
+   "word": "growl",
+   "def": "v./n. 嗥叫;轰鸣;咆哮着说"
+  },
+  {
+   "word": "maximize",
+   "def": "v.增加到最大程度"
+  },
+  {
+   "word": "bet",
+   "def": "v./n. 打赌,敢断定"
+  },
+  {
+   "word": "ant",
+   "def": "n. 蚁；蚂蚁"
+  },
+  {
+   "word": "any",
+   "def": "a. (用于否定句、疑问句等)什么，一些；任何的"
+  },
+  {
+   "word": "noise",
+   "def": "n. 喧闹声，噪声，吵嚷声"
+  },
+  {
+   "word": "engrave",
+   "def": "vt. 刻上;铭记"
+  },
+  {
+   "word": "hillside",
+   "def": "n.(小山)山腰，山坡"
+  },
+  {
+   "word": "justification",
+   "def": "n.辩护，正当理由"
+  },
+  {
+   "word": "bumper",
+   "def": "n.缓冲器。"
+  },
+  {
+   "word": "lathe",
+   "def": "n.车床vt.用车床加工"
+  },
+  {
+   "word": "interplanetary",
+   "def": "adj.行星间的, 太阳系内的。"
+  },
+  {
+   "word": "emphasis",
+   "def": "n. 强调，重点"
+  },
+  {
+   "word": "different",
+   "def": "a. 差异的，差异的，不同的"
+  },
+  {
+   "word": "Easter",
+   "def": "n. 复活节"
+  },
+  {
+   "word": "productive",
+   "def": "a. 能生产的;肥沃的"
+  }
+ ]
+}

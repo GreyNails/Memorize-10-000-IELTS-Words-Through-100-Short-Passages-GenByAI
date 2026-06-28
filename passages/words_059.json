@@ -1,0 +1,381 @@
+{
+ "id": 59,
+ "words": [
+  {
+   "word": "inorganic",
+   "def": "a.无生物的；无机的"
+  },
+  {
+   "word": "breast",
+   "def": "n. 胸膛，乳房"
+  },
+  {
+   "word": "flexibility",
+   "def": "n.柔韧，灵活性"
+  },
+  {
+   "word": "drill",
+   "def": "n. 钻,钻头,操练,练习 v. 钻孔,操练"
+  },
+  {
+   "word": "resign",
+   "def": "vi. 辞职; vt. 放弃,辞去;(to)使顺从"
+  },
+  {
+   "word": "patriotic",
+   "def": "a. 爱国的"
+  },
+  {
+   "word": "regretful",
+   "def": "adj.遗憾的"
+  },
+  {
+   "word": "blaze",
+   "def": "n. 火焰,光辉;爆发;v. 熊熊燃烧;闪耀;(感情)激发"
+  },
+  {
+   "word": "certain",
+   "def": "a. 某，某一，某些；(of)一定的，确信的，可靠的"
+  },
+  {
+   "word": "board",
+   "def": "n./v. 长木板;有专门用途的木板;理事会;伙食,登 (车、船、机等),提供膳食"
+  },
+  {
+   "word": "legible",
+   "def": "adj.清晰的, 易读的。"
+  },
+  {
+   "word": "pickle",
+   "def": "n.腌制食品，泡菜"
+  },
+  {
+   "word": "condition",
+   "def": "n. 条件，状况，环境vt. 决定；支配；训练"
+  },
+  {
+   "word": "august",
+   "def": "n. 八月"
+  },
+  {
+   "word": "cramp",
+   "def": "n.抽筋, 腹部绞痛, 月经痛。adj.狭窄的, 难解的。vt.使抽筋, 以铁箍扣紧。"
+  },
+  {
+   "word": "depressed",
+   "def": "adj.情绪低落的"
+  },
+  {
+   "word": "grant",
+   "def": "vt. 同意给予;同意或承认某事属实;n. 拨款,补助款"
+  },
+  {
+   "word": "duplicate",
+   "def": "a. 完全一样的,复制的;n. 复制品,副本;vt. 复写,复制"
+  },
+  {
+   "word": "educational",
+   "def": "adj.教育的"
+  },
+  {
+   "word": "punishment",
+   "def": "n.罚，惩罚，处罚"
+  },
+  {
+   "word": "drought",
+   "def": "n. 干旱"
+  },
+  {
+   "word": "defile",
+   "def": "v.染污。n.隘路"
+  },
+  {
+   "word": "discharge",
+   "def": "v./n. 卸货;排出(液体,气体);开(炮等);释放;偿付"
+  },
+  {
+   "word": "scorn",
+   "def": "n. 轻蔑,蔑视"
+  },
+  {
+   "word": "translator",
+   "def": "n.译音"
+  },
+  {
+   "word": "mourning",
+   "def": "n.哀痛"
+  },
+  {
+   "word": "service",
+   "def": "n. 服务；公共设施；维修保养；行政部门v. 维修"
+  },
+  {
+   "word": "repay",
+   "def": "v. 偿还，报答"
+  },
+  {
+   "word": "recent",
+   "def": "a. 新近的，近来的"
+  },
+  {
+   "word": "sales",
+   "def": "n.销售adj.出售的"
+  },
+  {
+   "word": "aural",
+   "def": "a. 听觉的，听力的"
+  },
+  {
+   "word": "fetch",
+   "def": "v. (去)取,拿来;(货物)售的(价钱)"
+  },
+  {
+   "word": "meticulously",
+   "def": "adv.胆小地"
+  },
+  {
+   "word": "bush",
+   "def": "n. 灌木(丛)"
+  },
+  {
+   "word": "rich",
+   "def": "a. 富的，有钱的；富饶的；(in)充足的，丰富的"
+  },
+  {
+   "word": "behave",
+   "def": "vi. 举动;表现;运转"
+  },
+  {
+   "word": "laziness",
+   "def": "n.懒惰"
+  },
+  {
+   "word": "successor",
+   "def": "n. 接替的人或事物，继任者"
+  },
+  {
+   "word": "ought",
+   "def": "aux. 应该(使用时，之后应接to，再接动词原形)"
+  },
+  {
+   "word": "expiration",
+   "def": "n.期满"
+  },
+  {
+   "word": "foot",
+   "def": "n. 脚，足；英尺；底部"
+  },
+  {
+   "word": "inconsistency",
+   "def": "n.不一致"
+  },
+  {
+   "word": "courtesy",
+   "def": "n. 礼貌,谦恭"
+  },
+  {
+   "word": "tentative",
+   "def": "a. 试验性的;暂时的"
+  },
+  {
+   "word": "spot",
+   "def": "n. 斑点；地点v. 认出，认清，发现；玷污，弄脏"
+  },
+  {
+   "word": "deviation",
+   "def": "n.背离，偏离；偏差数"
+  },
+  {
+   "word": "traction",
+   "def": "n.牵引。"
+  },
+  {
+   "word": "rude",
+   "def": "a. 粗鲁的；猛烈的，残暴的；粗糙的，粗陋的"
+  },
+  {
+   "word": "horizon",
+   "def": "n. 地平线;(常pl. )眼界,见识"
+  },
+  {
+   "word": "siren",
+   "def": "n. 警报声，警报器"
+  },
+  {
+   "word": "crook",
+   "def": "n.钩子"
+  },
+  {
+   "word": "infinitesimal",
+   "def": "adj.无穷小的, 极小的, 无限小的。n.极小量, 极微量, 无限小"
+  },
+  {
+   "word": "trauma",
+   "def": "n.[医] 外伤, 损伤。"
+  },
+  {
+   "word": "bite",
+   "def": "v./n. 咬,叮,刺,紧握,鱼上钩"
+  },
+  {
+   "word": "dome",
+   "def": "n. 圆屋顶"
+  },
+  {
+   "word": "extension",
+   "def": "n. 延长；扩大；范围；大小；尺寸；电话分机"
+  },
+  {
+   "word": "soy",
+   "def": "n.酱油；大豆，黄豆"
+  },
+  {
+   "word": "able",
+   "def": "a. 有(能力、时间、知识等)做某事，有本事的"
+  },
+  {
+   "word": "noon",
+   "def": "n. 中午，正午"
+  },
+  {
+   "word": "panoramic",
+   "def": "adj.全景的"
+  },
+  {
+   "word": "metallic",
+   "def": "a.金属的n.金属粒子"
+  },
+  {
+   "word": "reiterate",
+   "def": "v.重申  a.反复的"
+  },
+  {
+   "word": "instrumental",
+   "def": "a. 仪器的；器械的；乐器的；起作用的；有帮助的"
+  },
+  {
+   "word": "cradle",
+   "def": "n. 摇篮;策源地;支船架;vt. 把…放在摇篮里"
+  },
+  {
+   "word": "aforesaid",
+   "def": "adj.上述的"
+  },
+  {
+   "word": "flux",
+   "def": "n. 流,流动;不断的变化"
+  },
+  {
+   "word": "preference",
+   "def": "n. (for，to)偏爱，喜爱；优惠；优先选择"
+  },
+  {
+   "word": "teenager",
+   "def": "n. 十几岁的青少年"
+  },
+  {
+   "word": "cushion",
+   "def": "n. 垫子,坐垫,垫状物 vt. 装垫子,使减少震动,缓冲"
+  },
+  {
+   "word": "premises",
+   "def": "n.建筑物,房屋,契约,营业场所"
+  },
+  {
+   "word": "complicated",
+   "def": "a. 结构复杂的;困难的"
+  },
+  {
+   "word": "hospitable",
+   "def": "adj.好客的"
+  },
+  {
+   "word": "term",
+   "def": "n. 期,学期,条件"
+  },
+  {
+   "word": "exhaustion",
+   "def": "n.用尽，详述"
+  },
+  {
+   "word": "whom",
+   "def": "pron. 谁；哪个人(who的宾格)"
+  },
+  {
+   "word": "sheep",
+   "def": "n. (绵)羊；易受人摆布的人"
+  },
+  {
+   "word": "mask",
+   "def": "n. 面具,口罩;vt. 遮蔽,伪装"
+  },
+  {
+   "word": "diver",
+   "def": "n.潜水员，跳水运动员"
+  },
+  {
+   "word": "stay",
+   "def": "vi. 逗留；保持vt. 停止，延缓n. 逗留，停留"
+  },
+  {
+   "word": "discern",
+   "def": "vt. 看出,察觉出;辨出,认出"
+  },
+  {
+   "word": "concert",
+   "def": "n. 音乐会，演奏会；一齐，一致"
+  },
+  {
+   "word": "scoff",
+   "def": "vt.&vi.嘲笑，嘲弄"
+  },
+  {
+   "word": "accompaniment",
+   "def": "n.伴侣，伴奏"
+  },
+  {
+   "word": "greet",
+   "def": "v. 致敬，敬意，迎接；扑(鼻)，入(耳)，触(目)"
+  },
+  {
+   "word": "plural",
+   "def": "a. 复数的n. 复数"
+  },
+  {
+   "word": "banish",
+   "def": "vt.流放, 驱逐, 消除。"
+  },
+  {
+   "word": "sustain",
+   "def": "vt. 支撑;支持,维持"
+  },
+  {
+   "word": "downward",
+   "def": "a. 向下的ad. (also: downwards)向下，往下"
+  },
+  {
+   "word": "dictate",
+   "def": "v. 听写;口授;命令,支配"
+  },
+  {
+   "word": "halfway",
+   "def": "adv.半途"
+  },
+  {
+   "word": "astray",
+   "def": "adv.(信件)遗失、误传"
+  },
+  {
+   "word": "firearm",
+   "def": "n.火器, 枪炮。"
+  },
+  {
+   "word": "opal",
+   "def": "n.蛋白石"
+  },
+  {
+   "word": "inaccurate",
+   "def": "a.不精密的，不准确的"
+  }
+ ]
+}

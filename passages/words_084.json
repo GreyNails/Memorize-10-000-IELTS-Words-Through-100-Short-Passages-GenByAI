@@ -1,0 +1,381 @@
+{
+ "id": 84,
+ "words": [
+  {
+   "word": "chisel",
+   "def": "n.凿子。v.砍凿"
+  },
+  {
+   "word": "Scotsman",
+   "def": "n.苏格兰人"
+  },
+  {
+   "word": "prophecy",
+   "def": "n.预言, 预言能力。"
+  },
+  {
+   "word": "maternal",
+   "def": "adj.母亲的, 似母亲的, 母性的。"
+  },
+  {
+   "word": "plunder",
+   "def": "vt./vi. 抢劫,掠夺"
+  },
+  {
+   "word": "obedient",
+   "def": "a. 服从的,顺从的"
+  },
+  {
+   "word": "ramify",
+   "def": "v.(使)分枝, (使)分叉, (使)成网状。"
+  },
+  {
+   "word": "cognitive",
+   "def": "adj.认知的, 认识的, 有感知的。"
+  },
+  {
+   "word": "chemical",
+   "def": "a. 化学的n. (pl.)化学制品，化学药品"
+  },
+  {
+   "word": "center",
+   "def": "n. 中心，中央，中间vt. 集中vi. 以…为中心"
+  },
+  {
+   "word": "exterior",
+   "def": "a./n. 外部的,外来的,外表"
+  },
+  {
+   "word": "unfortunate",
+   "def": "a.不幸的；可取的"
+  },
+  {
+   "word": "bungalow",
+   "def": "n.(带走廊的)平房。"
+  },
+  {
+   "word": "sunburn",
+   "def": "v.晒黑"
+  },
+  {
+   "word": "plasma",
+   "def": "n.[解]血浆, 乳浆,[物]等离子体,等离子区。"
+  },
+  {
+   "word": "vocational",
+   "def": "adj.职业的。"
+  },
+  {
+   "word": "emigration",
+   "def": "n.向国外移民"
+  },
+  {
+   "word": "subtract",
+   "def": "vt. 减去;扣除"
+  },
+  {
+   "word": "ambient",
+   "def": "a.周围的，包围着的"
+  },
+  {
+   "word": "ineffective",
+   "def": "adj.效率低的"
+  },
+  {
+   "word": "vindicate",
+   "def": "vt.维护, 辩护, 表白。"
+  },
+  {
+   "word": "pattern",
+   "def": "n. 模式，式样；图案，图样v. 仿制，模仿"
+  },
+  {
+   "word": "react",
+   "def": "v. 反应，起作用；(against)反对，起反作用"
+  },
+  {
+   "word": "instalment",
+   "def": "n.分期付款, 就职, 装设。"
+  },
+  {
+   "word": "plump",
+   "def": "vt.丰满的；鼓起的"
+  },
+  {
+   "word": "imagination",
+   "def": "n. 想象(力)；空想，幻觉；想象出来的事物"
+  },
+  {
+   "word": "systematic",
+   "def": "a. 有系统的,系统的;有计划有步骤的"
+  },
+  {
+   "word": "predictable",
+   "def": "adj.可预言的。"
+  },
+  {
+   "word": "redound",
+   "def": "v.增加，促进"
+  },
+  {
+   "word": "disillusion",
+   "def": "n.觉醒vt.使觉醒"
+  },
+  {
+   "word": "avail",
+   "def": "v. 有益于,有用;n. 用处,利益"
+  },
+  {
+   "word": "want",
+   "def": "vt. 想要；希望；需要；缺，缺少n. 需要；短缺"
+  },
+  {
+   "word": "calcium",
+   "def": "n.[化]钙(元素符号Ca)。"
+  },
+  {
+   "word": "cosmetics",
+   "def": "n.化妆品"
+  },
+  {
+   "word": "compare",
+   "def": "v. 比较,对照;喻为"
+  },
+  {
+   "word": "hinterland",
+   "def": "n.内地"
+  },
+  {
+   "word": "plantation",
+   "def": "n. 种植园"
+  },
+  {
+   "word": "sneeze",
+   "def": "vi. 打喷嚏，发喷嚏声n. 喷嚏"
+  },
+  {
+   "word": "endurance",
+   "def": "n. 忍耐力,忍耐"
+  },
+  {
+   "word": "consultant",
+   "def": "n. 会诊医师，顾问医生；顾问"
+  },
+  {
+   "word": "socket",
+   "def": "n.窝, 穴, 孔, 插座, 牙糟。v.给...配插座。"
+  },
+  {
+   "word": "temple",
+   "def": "n. 庙宇，神殿，寺；太阳穴"
+  },
+  {
+   "word": "dormitory",
+   "def": "n. 宿舍"
+  },
+  {
+   "word": "exalted",
+   "def": "adj.高贵的，得意的"
+  },
+  {
+   "word": "adoption",
+   "def": "n.收养；采纳，采取"
+  },
+  {
+   "word": "stow",
+   "def": "v.装载，理舱"
+  },
+  {
+   "word": "immediate",
+   "def": "a. 立即的，即时的；直接的，最接近的"
+  },
+  {
+   "word": "frank",
+   "def": "a. 坦白的，直率的"
+  },
+  {
+   "word": "namesake",
+   "def": "n.同姓的人,同名的人,同名的事物"
+  },
+  {
+   "word": "miscarry",
+   "def": "v.未运到(目的地)"
+  },
+  {
+   "word": "beauty",
+   "def": "n. 美，美丽；美人，美丽的事物"
+  },
+  {
+   "word": "industry",
+   "def": "n. 工业，产业；勤劳，勤奋"
+  },
+  {
+   "word": "sensation",
+   "def": "n. 感觉，知觉；激动，轰动，轰动一时的事情"
+  },
+  {
+   "word": "nostril",
+   "def": "n.鼻孔"
+  },
+  {
+   "word": "pave",
+   "def": "vt. 铺(路等)"
+  },
+  {
+   "word": "ultraviolet",
+   "def": "a. 紫外线的"
+  },
+  {
+   "word": "upper",
+   "def": "a. 上面的；上部的，较高的"
+  },
+  {
+   "word": "once",
+   "def": "ad. 一次，曾经conj. 一(旦)…就…n. 一次"
+  },
+  {
+   "word": "name",
+   "def": "n. 名字(称/声/义)vt. 给…取名；列举；提名"
+  },
+  {
+   "word": "bud",
+   "def": "n./vi 芽,萌芽"
+  },
+  {
+   "word": "protracted",
+   "def": "adj.延长了的"
+  },
+  {
+   "word": "eighth",
+   "def": "num.第八 n.八分之一"
+  },
+  {
+   "word": "prepared",
+   "def": "adj.准备好的，愿意的,期望的"
+  },
+  {
+   "word": "mineral",
+   "def": "n. 矿物，矿石a. 矿物的，矿质的"
+  },
+  {
+   "word": "extent",
+   "def": "n. 广度，宽度，长度；程度，限度"
+  },
+  {
+   "word": "jam",
+   "def": "v. 压紧,夹住;发生故障;塞进;干扰;n. 阻塞物;窘境"
+  },
+  {
+   "word": "ware",
+   "def": "n.商品，货物；物品"
+  },
+  {
+   "word": "balloon",
+   "def": "n. 气球，飞船a. 气球状的v. 乘坐气球；膨胀"
+  },
+  {
+   "word": "sketch",
+   "def": "n. 草图,素描;短剧;简述;v. 草拟"
+  },
+  {
+   "word": "orchestra",
+   "def": "n. 管弦乐队"
+  },
+  {
+   "word": "liquid",
+   "def": "n. 液体a. 液体的，液态的"
+  },
+  {
+   "word": "builder",
+   "def": "n.建筑工人，建设者"
+  },
+  {
+   "word": "feeling",
+   "def": "n. 感情；心情；知觉；同情"
+  },
+  {
+   "word": "mourn",
+   "def": "v.哀悼;(对…)感到痛心(或遗憾)"
+  },
+  {
+   "word": "Oceania",
+   "def": "n.大洋洲"
+  },
+  {
+   "word": "tax",
+   "def": "n. 税(款)，负担v. 对…征税，使负重担"
+  },
+  {
+   "word": "stone",
+   "def": "n. 石，石头；岩石，矿石；(水果的)核、子"
+  },
+  {
+   "word": "envious",
+   "def": "adj.嫉妒的"
+  },
+  {
+   "word": "seventh",
+   "def": "num.第七；七分之一"
+  },
+  {
+   "word": "cannon",
+   "def": "n. 大炮 vi. 开炮"
+  },
+  {
+   "word": "ms.",
+   "def": "n.(缩)女士"
+  },
+  {
+   "word": "learner",
+   "def": "n.学习者，学生"
+  },
+  {
+   "word": "backbone",
+   "def": "n.脊梁骨"
+  },
+  {
+   "word": "elite",
+   "def": "n.<法>[集合名词]精华, 精锐, 中坚分子。"
+  },
+  {
+   "word": "categorize",
+   "def": "v.加以类别, 分类。"
+  },
+  {
+   "word": "return",
+   "def": "v./n. 返回，回来；归还，送还；回答"
+  },
+  {
+   "word": "loth",
+   "def": "(=loath) adj.憎恶的, 勉强的。"
+  },
+  {
+   "word": "seasonal",
+   "def": "adj.季节性的"
+  },
+  {
+   "word": "venerable",
+   "def": "adj.庄严的, 值得尊敬的, 古老的。"
+  },
+  {
+   "word": "reimburse",
+   "def": "vt. 偿还,付还"
+  },
+  {
+   "word": "ozone",
+   "def": "n.新鲜的空气, [化]臭氧。"
+  },
+  {
+   "word": "dead",
+   "def": "a. 死的；无生命的；死气沉沉的ad. 完全地"
+  },
+  {
+   "word": "difficult",
+   "def": "a. 困难的，艰难的"
+  },
+  {
+   "word": "fascination",
+   "def": "n.入迷"
+  }
+ ]
+}

@@ -1,0 +1,381 @@
+{
+ "id": 72,
+ "words": [
+  {
+   "word": "unity",
+   "def": "n. 团结；统一，一致，整体"
+  },
+  {
+   "word": "manager",
+   "def": "n. 经理，管理人"
+  },
+  {
+   "word": "fortnight",
+   "def": "n. 两星期"
+  },
+  {
+   "word": "motif",
+   "def": "n.主题, 主旨, 动机, 图形。"
+  },
+  {
+   "word": "proportional",
+   "def": "a.比例的；相称的"
+  },
+  {
+   "word": "alive",
+   "def": "a. 活着的；存在的；活跃的；(to)敏感的"
+  },
+  {
+   "word": "booming",
+   "def": "adj.兴旺的，繁荣的"
+  },
+  {
+   "word": "plane",
+   "def": "n. 飞机；平面，水平面"
+  },
+  {
+   "word": "paddle",
+   "def": "n.短桨, 划桨, 明轮翼。vi.划桨, 戏水, 涉水。vt.用桨划, 搅, 拌。"
+  },
+  {
+   "word": "commission",
+   "def": "n. 委员会;佣金;军事任职;考察团; vt. 委任,任命,委托"
+  },
+  {
+   "word": "dessert",
+   "def": "n. 正餐后的水果或甜食"
+  },
+  {
+   "word": "cereal",
+   "def": "n. 谷类粮食"
+  },
+  {
+   "word": "enroll",
+   "def": "v. 招收；登记；入学；参军；成为会员"
+  },
+  {
+   "word": "guardian",
+   "def": "n. 保护人,监护人"
+  },
+  {
+   "word": "throughout",
+   "def": "prep. 遍及"
+  },
+  {
+   "word": "counterpart",
+   "def": "n. 对应的物或人"
+  },
+  {
+   "word": "eyeglass",
+   "def": "n.眼镜"
+  },
+  {
+   "word": "infringement",
+   "def": "n.侵权"
+  },
+  {
+   "word": "free",
+   "def": "a. 自由的；免费的；免税的；空闲的vt. 释放"
+  },
+  {
+   "word": "toss",
+   "def": "v./n. 扔,掷;摇摆"
+  },
+  {
+   "word": "overextend",
+   "def": "v.使承担过多的义务"
+  },
+  {
+   "word": "navigation",
+   "def": "n. 航海，航空；导航，领航"
+  },
+  {
+   "word": "trader",
+   "def": "n.商人；商船"
+  },
+  {
+   "word": "unfair",
+   "def": "a.不公平的，不公正的"
+  },
+  {
+   "word": "affirm",
+   "def": "v. 断定,肯定"
+  },
+  {
+   "word": "phonetics",
+   "def": "n.语音学"
+  },
+  {
+   "word": "abrogate",
+   "def": "v.取消，废除"
+  },
+  {
+   "word": "zoology",
+   "def": "n. 动物学"
+  },
+  {
+   "word": "panel",
+   "def": "n./vt. 镶板,控制板;座谈小组;镶饰"
+  },
+  {
+   "word": "buck",
+   "def": "n.<美口> 元, 雄鹿, 公羊, 公兔。v.(马等)突然一跃(将骑手摔下)"
+  },
+  {
+   "word": "tease",
+   "def": "vt. 取笑,嘲笑;戏弄"
+  },
+  {
+   "word": "willingness",
+   "def": "n.乐意，自愿"
+  },
+  {
+   "word": "insider",
+   "def": "n.知情者"
+  },
+  {
+   "word": "coal",
+   "def": "n. 煤，煤块"
+  },
+  {
+   "word": "brandy",
+   "def": "n. 白兰地酒"
+  },
+  {
+   "word": "enthusiastic",
+   "def": "a. 热心的,热情的"
+  },
+  {
+   "word": "molecule",
+   "def": "n. 分子"
+  },
+  {
+   "word": "bursar",
+   "def": "n.(大学的)会计, (苏格兰大学)得奖学金的学生。"
+  },
+  {
+   "word": "instable",
+   "def": "adj.不稳定的"
+  },
+  {
+   "word": "unit",
+   "def": "n. 单位，单元；部件，元件；机组，装置"
+  },
+  {
+   "word": "noisy",
+   "def": "a. 吵闹的，喧闹的"
+  },
+  {
+   "word": "axial",
+   "def": "a.轴的；轴向的"
+  },
+  {
+   "word": "expressly",
+   "def": "adj.明确表示的"
+  },
+  {
+   "word": "extinguisher",
+   "def": "n.熄灭者, 灭火器。"
+  },
+  {
+   "word": "transshipment",
+   "def": "n.转运"
+  },
+  {
+   "word": "fairy",
+   "def": "a. 幻想中的；虚构的；优雅的n. 仙女；精灵"
+  },
+  {
+   "word": "exponent",
+   "def": "n.解释者, 说明者, 代表者, 典型, 指数。"
+  },
+  {
+   "word": "utility",
+   "def": "n. 有用,实用;公用事业(煤气,水电)"
+  },
+  {
+   "word": "refine",
+   "def": "v. 精炼,提纯;使文雅"
+  },
+  {
+   "word": "vicinity",
+   "def": "n. 邻近,附近"
+  },
+  {
+   "word": "militia",
+   "def": "n.民兵(组织)"
+  },
+  {
+   "word": "plank",
+   "def": "n.厚木板, 支架, (政党的)政纲条款。vt.铺板, 立刻付款。vi.睡在板上"
+  },
+  {
+   "word": "buzz",
+   "def": "v./n. 嗡嗡叫;匆忙行走;耳鸣"
+  },
+  {
+   "word": "pledge",
+   "def": "n. 保证,誓言;信物;抵押品;vt. 保证,许诺"
+  },
+  {
+   "word": "coed",
+   "def": "n.男女合校大学中的女生。adj.男女同学的,男女兼收的,对男女都开放的"
+  },
+  {
+   "word": "fluctuate",
+   "def": "vi. (物价)涨落,起落,波动"
+  },
+  {
+   "word": "stale",
+   "def": "a. 食品不新鲜的;陈旧的,过度劳累而表现不佳的;陈腐的"
+  },
+  {
+   "word": "alienation",
+   "def": "n.异化"
+  },
+  {
+   "word": "hat",
+   "def": "n. 帽子(一般指有边的帽子)"
+  },
+  {
+   "word": "astrology",
+   "def": "n.占星术, 占星学(以观测天象来预卜人间事务的一种方术)。"
+  },
+  {
+   "word": "arrear",
+   "def": "n.欠款"
+  },
+  {
+   "word": "instructive",
+   "def": "adj.指示的，教育的"
+  },
+  {
+   "word": "Asian",
+   "def": "a.亚洲的 n.亚洲人"
+  },
+  {
+   "word": "offer",
+   "def": "v. 提出;表示;n. 提供;提议"
+  },
+  {
+   "word": "scan",
+   "def": "v. 浏览,细看"
+  },
+  {
+   "word": "which",
+   "def": "a./pron. 哪个，哪些；什么样的；那个，那些"
+  },
+  {
+   "word": "uneasy",
+   "def": "a. 不自在的"
+  },
+  {
+   "word": "attractive",
+   "def": "adj.吸引人的, 有魅力的。"
+  },
+  {
+   "word": "latter",
+   "def": "a. 后者的；后一半的，接近终了的n. 后者"
+  },
+  {
+   "word": "contracted",
+   "def": "adj.合同所规定的"
+  },
+  {
+   "word": "stomach",
+   "def": "n. 胃，胃口；肚子，腹部vt. 承受，忍受"
+  },
+  {
+   "word": "abrasion",
+   "def": "n.磨损"
+  },
+  {
+   "word": "publish",
+   "def": "v. 出版，刊印；公布，发布"
+  },
+  {
+   "word": "decay",
+   "def": "vi./n. 腐烂;衰微"
+  },
+  {
+   "word": "fictional",
+   "def": "adj.虚构的"
+  },
+  {
+   "word": "aeroplane",
+   "def": "n.飞机"
+  },
+  {
+   "word": "wring",
+   "def": "vt.拧，挤，扭，榨"
+  },
+  {
+   "word": "donation",
+   "def": "n.捐献"
+  },
+  {
+   "word": "promotion",
+   "def": "n.促进；提升；创立"
+  },
+  {
+   "word": "Tuesday",
+   "def": "n. 星期二"
+  },
+  {
+   "word": "gum",
+   "def": "n. 树胶；口香糖"
+  },
+  {
+   "word": "stroll",
+   "def": "n./v. 漫步；散步；游荡"
+  },
+  {
+   "word": "timely",
+   "def": "a. 及时的,适时的"
+  },
+  {
+   "word": "judgement",
+   "def": "n.意见；审判；判断"
+  },
+  {
+   "word": "greeting",
+   "def": "n. 问候，致敬"
+  },
+  {
+   "word": "forerunner",
+   "def": "n.先驱(者), 传令官, 预兆。"
+  },
+  {
+   "word": "imposing",
+   "def": "adj.使人难忘的, 壮丽的。"
+  },
+  {
+   "word": "bureaucratic",
+   "def": "adj.官僚主义的"
+  },
+  {
+   "word": "grasp",
+   "def": "v./n. 抓住，抓紧；掌握，领会"
+  },
+  {
+   "word": "Arabic",
+   "def": "adj.阿拉伯的"
+  },
+  {
+   "word": "soccer",
+   "def": "n. 足球"
+  },
+  {
+   "word": "glory",
+   "def": "n. 光荣，荣誉"
+  },
+  {
+   "word": "impatience",
+   "def": "n.不耐烦"
+  },
+  {
+   "word": "bathe",
+   "def": "v./n. 浸到水中,游泳"
+  }
+ ]
+}
